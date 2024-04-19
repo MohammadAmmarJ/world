@@ -1,0 +1,17 @@
+{
+	id: "233c8050-f01a-45b5-abd6-b4ee1620cd7a"
+	type: "player"
+	player_name: "Mohammad_Gamer1"
+	ranks: {
+		233c8050-f01a-45b5-abd6-b4ee1620cd7a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Mohammad_Gamer1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59E4"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

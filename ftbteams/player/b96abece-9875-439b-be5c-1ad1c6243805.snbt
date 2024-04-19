@@ -1,0 +1,17 @@
+{
+	id: "b96abece-9875-439b-be5c-1ad1c6243805"
+	type: "player"
+	player_name: "OusamaS"
+	ranks: {
+		b96abece-9875-439b-be5c-1ad1c6243805: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "OusamaS"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6859"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

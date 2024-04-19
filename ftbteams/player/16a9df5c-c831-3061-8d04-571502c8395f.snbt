@@ -1,0 +1,15 @@
+{
+	id: "16a9df5c-c831-3061-8d04-571502c8395f"
+	type: "player"
+	player_name: "ABD_PU"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "ABD_PU"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFCE59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

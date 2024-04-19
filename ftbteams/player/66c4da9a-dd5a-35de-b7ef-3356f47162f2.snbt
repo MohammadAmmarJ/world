@@ -1,0 +1,17 @@
+{
+	id: "66c4da9a-dd5a-35de-b7ef-3356f47162f2"
+	type: "player"
+	player_name: "Olegind"
+	ranks: {
+		66c4da9a-dd5a-35de-b7ef-3356f47162f2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Olegind"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59D4FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,6674 @@
+{
+  "create:recipes/create.base/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-04-06 00:10:52 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/oak_limited_barrel_4": {
+    "criteria": {
+      "has_oak_plank": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/oak_limited_barrel_3": {
+    "criteria": {
+      "has_oak_plank": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/oak_limited_barrel_2": {
+    "criteria": {
+      "has_oak_plank": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/oak_limited_barrel_1": {
+    "criteria": {
+      "has_oak_plank": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/dark_nether_star": {
+    "criteria": {
+      "has_obsidian_ingot": "2024-04-04 22:53:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-04-04 21:32:48 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_slab_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "delightful:recipes/cooking/rock_candy": {
+    "criteria": {
+      "has_rose_quartz": "2024-04-04 22:36:33 +0200"
+    },
+    "done": true
+  },
+  "immersiveposts:recipes/immersiveposts/fence_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/speedboat": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/cookie_iron": {
+    "criteria": {
+      "hasWheat": "2024-04-04 21:30:38 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2024-04-04 22:36:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:38:12 +0200"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/industrial_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-04-04 22:15:08 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/honey_cookie_iron": {
+    "criteria": {
+      "hasHoney": "2024-04-04 21:30:41 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_lantern": {
+    "criteria": {
+      "has_torch": "2024-04-04 21:38:13 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/dough": {
+    "criteria": {
+      "hasWheat": "2024-04-04 21:30:38 +0200"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/cloudcap_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-04-04 21:48:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-04-04 22:17:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/stone_blacksmith_gavel": {
+    "criteria": {
+      "has_stone_tool_materials": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_pendant": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/metal_bracket": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/bacon_and_eggs_gold": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/cherry_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/steak_and_potatoes_diamond": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/acacia_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/miners_delight/baked_tentacles": {
+    "criteria": {
+      "has_tentacles": "2024-04-06 00:13:02 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/brewing/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-04-04 21:30:39 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/basin": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/diorite_castel_tile_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/raw_block_silver_to_raw_silver": {
+    "criteria": {
+      "has_raw_block_silver": "2024-04-06 00:16:10 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2024-04-04 22:37:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-04-04 22:36:32 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_slab_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-04-04 21:48:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-04-04 21:32:48 +0200"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_fence_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/desolation_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-04-04 21:29:25 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-04 21:19:41 +0200"
+    },
+    "done": false
+  },
+  "extendedgears:recipes/create.base/crafting/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gantry_shaft": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_respite_items/black_cod_iron": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/medium_scope": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:10 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/bacon_and_eggs_diamond": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-04-04 21:36:07 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_ladder_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/acacia_slab_from_acacia_planks_sawing": {
+    "criteria": {
+      "has_acacia_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_stairs_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/raw_nickel_to_raw_block_nickel": {
+    "criteria": {
+      "has_raw_nickel": "2024-04-06 00:36:15 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_planks_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-04-04 21:48:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2024-04-06 00:37:15 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/iron_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "undead_unleashed:shards_of_the_past": {
+    "criteria": {
+      "shards_of_the_past": "2024-04-04 22:41:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-04-04 22:59:59 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2024-04-04 22:22:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-04-06 00:11:25 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/toolbox": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/roasted_mutton_chops_diamond": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "immersiveposts:recipes/immersiveposts/postbase": {
+    "criteria": {
+      "has_cobblestone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves": {
+    "criteria": {
+      "has_iron": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-04-04 22:23:19 +0200",
+      "opened_chest": "2024-04-04 22:15:08 +0200"
+    },
+    "done": false
+  },
+  "shieldexp:recipes/wooden_shield": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_box": {
+    "criteria": {
+      "has_paper": "2024-04-04 22:07:17 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-06 00:58:00 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting_raw_iron": {
+    "criteria": {
+      "has_item": "2024-04-06 00:11:59 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-04-04 21:30:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-04-04 21:30:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-04-04 21:30:48 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/gold_fertilizer": {
+    "criteria": {
+      "hasQuality": "2024-04-04 21:47:18 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/radial_chassis": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/willow_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2024-04-04 21:29:26 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/tactical_stock": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:10 +0200"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/crystal_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/small_large_shaftless_cogwheel_to_large/large_shaftless_cogwheel": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/dough_iron": {
+    "criteria": {
+      "hasIronWheat": "2024-04-04 21:47:18 +0200"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/cooking/tea_curry": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 21:30:48 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/screwdriver": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "thinair:protection_from_yellow": {
+    "criteria": {
+      "protecc": "2024-04-04 21:53:48 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2024-04-04 22:54:14 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-04-04 22:17:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-04-06 00:11:51 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/clipboard": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-04-04 22:43:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-04-04 21:30:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-04-04 21:30:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/mini_gun": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/diorite_castel_tile_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/upgrade_tank": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-04-06 00:14:35 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/shaft": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/mead": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 21:30:41 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/mushroom_stew_gold": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-04-06 00:11:25 +0200"
+    },
+    "done": true
+  },
+  "wares:recipes/decorations/cardboard_box": {
+    "criteria": {
+      "has_paper": "2024-04-04 22:07:17 +0200"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_trapdoor_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-04-04 22:17:05 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/andesite_castel_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2024-04-04 21:37:33 +0200"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_nether_items/warped_moldy_meat_iron": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "pyrologernfriends:pyrologer_and_friends": {
+    "criteria": {
+      "pyrologer_and_friends": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-04-04 22:15:28 +0200"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-04-04 23:00:34 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2024-04-06 00:14:35 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/weathered_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
+    "criteria": {
+      "has_copper_ingot": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 21:30:51 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/brass_ingot_from_compacting": {
+    "criteria": {
+      "has_item": "2024-04-04 22:09:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_ladder": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-06 00:58:00 +0200"
+    },
+    "done": false
+  },
+  "thinair:soul": {
+    "criteria": {
+      "bad_air": "2024-04-04 22:33:33 +0200"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2024-04-04 22:34:32 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/sawmill": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_slab_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/cuckoo_clock": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-04-04 22:17:00 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/golden_machete": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/large_cogwheel_from_little": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "goodending:recipes/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2024-04-04 21:29:56 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/acacia_boards_from_acacia_planks_sawing": {
+    "criteria": {
+      "has_acacia_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/auto_lubricator": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/basic_bullet": {
+    "criteria": {
+      "has_gunpowder": "2024-04-04 21:53:16 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/mixed_salad_gold": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-04-04 22:36:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/molotov_fabric": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-04-04 21:30:12 +0200"
+    },
+    "done": true
+  },
+  "undead_unleashed:boo": {
+    "criteria": {
+      "boo": "2024-04-04 22:00:22 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/acacia_limited_barrel_1": {
+    "criteria": {
+      "has_acacia_plank": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_fence_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-04-04 21:48:15 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting_raw_copper": {
+    "criteria": {
+      "has_item": "2024-04-06 00:11:25 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/acacia_limited_barrel_4": {
+    "criteria": {
+      "has_acacia_plank": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/acacia_table": {
+    "criteria": {
+      "has_bamboo": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/acacia_limited_barrel_2": {
+    "criteria": {
+      "has_acacia_plank": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/acacia_limited_barrel_3": {
+    "criteria": {
+      "has_acacia_plank": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-04-04 21:32:48 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/wrench": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 22:48:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2024-04-06 00:14:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/miners_delight/smoked_bat_wing": {
+    "criteria": {
+      "has_bat_wing": "2024-04-06 00:28:02 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2024-04-04 21:32:48 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/cut_copper_slab_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2024-04-04 21:48:21 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/chute": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/large_half_shaft_cogwheel": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/beer": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 21:30:38 +0200"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/cloudcap_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-06 00:58:00 +0200"
+    },
+    "done": false
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_gold_hammering": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/wisteria_ladder": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "immersiveposts:recipes/immersiveposts/fence_gold": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/missile": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:10 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/honey_glazed_ham_block_diamond": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_planks_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-04-04 22:17:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-04-04 22:07:17 +0200"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/create.base/crafting/large_cogwheel": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-04 21:19:41 +0200"
+    },
+    "done": false
+  },
+  "woodworks:recipes/redstone/oak_fence_gate_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-04-04 22:17:05 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2024-04-04 21:29:26 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/grenade_launcher": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-04-06 00:11:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-04-06 00:56:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/oak_table": {
+    "criteria": {
+      "has_bamboo": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-04-04 21:29:01 +0200"
+    },
+    "done": true
+  },
+  "create_central_kitchen:recipes/crafting/mulberry_jam_bucket_from_block": {
+    "criteria": {
+      "has_bucket": "2024-04-04 22:59:02 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/light_grip": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:10 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_iron_vanilla_shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/shepherds_pie_block_diamond": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/fruit_salad_gold": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 21:30:45 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/grilled_salmon_gold": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/steak_and_potatoes_iron": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/honey_cookie_diamond": {
+    "criteria": {
+      "hasHoney": "2024-04-04 21:30:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-04-06 00:11:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/blasting/arcane_crystal_dust_from_blasting": {
+    "criteria": {
+      "has_item": "2024-04-06 00:30:03 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/empty_casing": {
+    "criteria": {
+      "has_coppper_ingot": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2024-04-04 21:29:10 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/sweet_berry_cookie_iron": {
+    "criteria": {
+      "hasSweet": "2024-04-04 21:30:42 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/hand_crank": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-04-04 21:29:05 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_button_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-04-04 22:17:05 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/asphalt_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/curiosities/minecart_coupling": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/iron_machete": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-04-04 21:30:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-04-06 00:11:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "cold_sweat:huddle_close": {
+    "criteria": {
+      "requirement": "2024-04-06 00:32:40 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/acacia_trapdoor_from_acacia_logs_sawing": {
+    "criteria": {
+      "has_acacia_logs": "2024-04-04 21:22:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-04-04 22:15:37 +0200"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-04-06 00:04:33 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 21:30:48 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/spruce_ladder": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "ulterlands:the_ulterlands": {
+    "criteria": {
+      "the_ulterlands": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/andesite_castel_tile_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/dark_oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2024-04-04 21:48:21 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stick_iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/raw_silver_to_raw_block_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-04-06 00:16:10 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/rabbit_stew_gold_from_red_mushroom": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/marshmallow_stick": {
+    "criteria": {
+      "has_sugar": "2024-04-04 21:30:37 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2024-04-04 21:53:16 +0200"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2024-04-04 22:17:00 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv": {
+    "criteria": {
+      "has_copper_ingot": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/heaven_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-04-04 22:07:17 +0200"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/warped_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-04-04 21:29:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-04-04 21:30:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-04-06 00:04:33 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/asphalt_stair": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/jelly_bottle": {
+    "criteria": {
+      "has_sweet_fruit": "2024-04-04 21:30:39 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-04-04 22:05:54 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-04-04 21:33:40 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/building_blocks/wisteria_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/voltmeter": {
+    "criteria": {
+      "has_compass": "2024-04-04 22:37:42 +0200"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/deepslate_from_baking": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/barbecue_stick_gold": {
+    "criteria": {
+      "hasStick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2024-04-04 22:36:29 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/acacia_door_from_acacia_logs_sawing": {
+    "criteria": {
+      "has_acacia_logs": "2024-04-04 21:22:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_ladder_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/roasted_mutton_chops_iron": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/acacia_ladder": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_chest": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 21:33:40 +0200"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/half_shaft_cogwheel": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/rice_roll_medley_block_gold": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2024-04-06 00:37:15 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/diorite_castel_tile_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/andesite_castel_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_ladder": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/machine_pistol": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "create_central_kitchen:recipes/crafting/tomato_sauce_bucket_from_bowls": {
+    "criteria": {
+      "has_bucket": "2024-04-04 22:59:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/dark_oak_pressure_plate_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-04-04 21:48:15 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-04-06 00:14:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-04-04 21:30:48 +0200"
+    },
+    "done": true
+  },
+  "chalk:adventure/sleep_three_times_in_one_place": {
+    "criteria": {
+      "sleep_three_times_in_one_place": "2024-04-04 21:45:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blightwillow_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_sign_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-04-04 21:48:15 +0200"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/fieldsproot_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/miners_delight/copper_pot": {
+    "criteria": {
+      "has_copper": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/melon_popsicle_iron": {
+    "criteria": {
+      "hasStick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:wars_and_kingdoms": {
+    "criteria": {
+      "entered_castle": "2024-04-04 22:19:22 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/roast_chicken_block_gold": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-04-06 00:04:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-04-04 21:22:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/miners_delight/copper_cup": {
+    "criteria": {
+      "has_copper": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/petcoke_block_to_items": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "clayworks:recipes/decorations/kiln": {
+    "criteria": {
+      "has_cobblestone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-04-06 00:37:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-04-04 22:36:32 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_fence_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-04-04 22:35:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/edelwood_chest_boat": {
+    "criteria": {
+      "has_chest": "2024-04-04 22:30:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_silver_from_blasting3": {
+    "criteria": {
+      "has_raw_silver": "2024-04-06 00:16:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-04-04 21:48:15 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/ender_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-04-04 21:29:25 +0200"
+    },
+    "done": false
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/iron_fertilizer": {
+    "criteria": {
+      "hasQuality": "2024-04-04 21:47:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-04-04 22:30:42 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/diorite_castel_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bench": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-04-04 21:32:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-04-06 00:37:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-04-04 21:30:51 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/rice_roll_medley_block_diamond": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/wooden_bracket": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/contraption_controls": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_fence_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-04-04 22:17:05 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2024-04-06 00:10:52 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-04-04 21:29:01 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-04-04 21:30:38 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 21:48:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/speedometer": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-04-04 21:30:51 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_stairs_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2024-04-04 22:07:17 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_boards_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2024-04-06 00:37:15 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2024-04-04 22:07:17 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/nethersdelight/blackstone_blast_furnace": {
+    "criteria": {
+      "has_iron": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/iron_blacksmith_gavel": {
+    "criteria": {
+      "has_ingots/iron": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/mushroom_stew_iron": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-06 00:58:00 +0200"
+    },
+    "done": false
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-04-04 21:41:51 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/sugar_from_cane_iron": {
+    "criteria": {
+      "ironQuality": "2024-04-04 22:05:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/arcane_crystal_block_from_arcane_crystal": {
+    "criteria": {
+      "has_arcane_crystal": "2024-04-06 00:30:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-04-04 22:23:19 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/rifle": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-06 00:58:00 +0200"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/lore_fragment": {
+    "criteria": {
+      "has_items": "2024-04-04 22:07:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/crimson_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-04-04 21:29:01 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-04-04 21:33:52 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/wooden_blacksmith_gavel": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_door_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-04-04 22:17:05 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2024-04-04 22:59:59 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/escape_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-04-04 22:07:17 +0200"
+    },
+    "done": false
+  },
+  "create:recipes/create.base/crafting/kinetics/goggles": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/diamond_shield": {
+    "criteria": {
+      "has_diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_to_block": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 22:17:00 +0200"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:16 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2024-04-06 00:02:10 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-04-04 22:54:54 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/sanity_meter": {
+    "criteria": {
+      "has_item": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-06 00:04:33 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_slab_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-04-04 21:30:00 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-04-04 22:59:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-04-04 21:29:05 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2024-04-04 21:30:41 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_block_to_items": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_stairs_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-04-04 21:48:15 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glacia_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/golden_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-04-04 21:29:25 +0200",
+      "has_items": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/workbench": {
+    "criteria": {
+      "has_iron": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/food_prep_table": {
+    "criteria": {
+      "has_item": "2024-04-06 00:27:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-04-06 00:30:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-04-04 22:15:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/bazooka": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_amulet": {
+    "criteria": {
+      "has_items": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/molotov_wool": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "mediterranean_forest": "2024-04-04 21:28:25 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_pickaxe_repairing": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-04-04 21:41:51 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/shotgun": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_boards_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-04-04 21:48:15 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_chest": {
+    "criteria": {
+      "has_birch_plank": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/turntable": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/andesite_castel_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_copper": {
+    "criteria": {
+      "has_copper_ingot": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-04-06 00:37:15 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/shepherds_pie_block_gold": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/shell": {
+    "criteria": {
+      "has_gunpowder": "2024-04-04 21:53:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/jellyshroom_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_stairs_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/miners_delight/smoked_bat_wing_smoking": {
+    "criteria": {
+      "has_bat_wing": "2024-04-06 00:28:02 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_ender_items/strange_eclair_gold": {
+    "criteria": {
+      "hasWheat": "2024-04-04 21:47:18 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/rabbit_stew_gold_from_brown_mushroom": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-04-04 21:32:48 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/sticker": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/andesite_castel_tile_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/redstone_acid": {
+    "criteria": {
+      "has_redstone_dust": "2024-04-06 00:37:15 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2024-04-04 21:27:54 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/gas_generator": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_ladder_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/weighted_stock": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:10 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/stuffed_potato_gold": {
+    "criteria": {
+      "hasMilk": "2024-04-04 22:54:14 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-04-04 21:33:40 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/stuffed_potato_diamond": {
+    "criteria": {
+      "hasMilk": "2024-04-04 22:54:14 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/insignia": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:30:11 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-04-04 21:48:21 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/filter": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_crops/wheat_iron_from_wheat_gold": {
+    "criteria": {
+      "hasQuality": "2024-04-04 21:47:18 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-04-04 22:22:32 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-04-04 21:19:41 +0200",
+      "inv_changed-diamond": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "monobank:recipes/decorations/monobank": {
+    "criteria": {
+      "has_iron": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-04-04 21:29:01 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-04-06 00:02:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-04-04 21:43:16 +0200"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_castle": "2024-04-04 22:19:22 +0200"
+    },
+    "done": false
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
+    "criteria": {
+      "has_leather": "2024-04-04 21:32:48 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/rabbit_stew_iron_from_brown_mushroom": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-06 00:58:00 +0200"
+    },
+    "done": false
+  },
+  "woodworks:recipes/redstone/dark_oak_fence_gate_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-04-04 21:48:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/shaftless_cogwheel": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/qualitysdelight_items/cooking/bone_broth_iron": {
+    "criteria": {
+      "hasBone": "2024-04-04 21:43:18 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2024-04-06 00:37:15 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/honey_glazed_ham_block_iron": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/materials/andesite_alloy_block": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "thinair:recipes/thinair.main/safety_lantern": {
+    "criteria": {
+      "in_dangerous_air": "2024-04-04 21:53:48 +0200"
+    },
+    "done": true
+  },
+  "thinair:root": {
+    "criteria": {
+      "bad_air": "2024-04-04 21:53:48 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2024-04-04 22:36:29 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv_relay": {
+    "criteria": {
+      "has_copper_ingot": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "twigs:recipes/stick_from_twig": {
+    "criteria": {
+      "has_item": "2024-04-04 22:17:25 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2024-04-04 21:29:12 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/mixed_salad_diamond": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/misc/mud_ball_from_dirt": {
+    "criteria": {
+      "has_dirt": "2024-04-04 21:41:27 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/animal_guidebook": {
+    "criteria": {
+      "has_items": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/root": {
+    "criteria": {
+      "flower": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/andesite_castel_tiles_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-04-06 00:14:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-04-06 00:27:06 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2024-04-06 00:37:15 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-04-04 21:48:08 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-04-04 21:29:25 +0200",
+      "has_items": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2024-04-06 00:37:15 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-04-04 22:07:17 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cloudcap_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_acknowledgment": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-04-04 22:37:42 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-04-04 21:30:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-04-04 22:22:32 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/jungle_ladder": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-06 00:04:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/specialised_grip": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:10 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/lens_of_veritatis": {
+    "criteria": {
+      "has_item": "2024-04-06 00:30:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-04-06 00:02:06 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2024-04-04 22:57:49 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/sticky_mechanical_piston": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2024-04-04 22:34:40 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_button_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-04-04 21:29:02 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/projector": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_boards": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-04-04 21:29:01 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-04-04 21:30:42 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/fruit_salad_iron": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-04-04 21:29:10 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/willow_ladder": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/brewing/dandelion_tea": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 23:00:49 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_ladder_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-04-04 22:17:05 +0200"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_root": {
+    "criteria": {
+      "iter_root": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/cooking/vegetable_omelet": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 22:17:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 21:30:51 +0200"
+    },
+    "done": true
+  },
+  "environmental:adventure/obtain_explorer_gear": {
+    "criteria": {
+      "healer_pouch": "2024-04-06 00:26:06 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_pillager_camp": "2024-04-04 22:12:46 +0200",
+      "entered_castle": "2024-04-04 22:19:22 +0200",
+      "entered_ruined_building": "2024-04-04 22:19:09 +0200"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_ladder_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_mixer": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/crimson_ladder": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/cookie_gold": {
+    "criteria": {
+      "hasWheat": "2024-04-04 21:30:38 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2024-04-04 22:07:17 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/asphalt": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "idas:wizardtower": {
+    "criteria": {
+      "in_wizardtower": "2024-04-04 22:35:43 +0200"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/blightwillow_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-04 21:19:41 +0200"
+    },
+    "done": false
+  },
+  "cgm:recipes/cgm/light_stock": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/grenade": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:10 +0200"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/stone_from_baking": {
+    "criteria": {
+      "has_cobblestone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/dough_gold": {
+    "criteria": {
+      "hasGoldWheat": "2024-04-04 21:47:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-04-04 22:31:59 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/coil_mv": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/acacia_fence_gate_from_acacia_logs_sawing": {
+    "criteria": {
+      "has_acacia_logs": "2024-04-04 21:22:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-04-04 21:29:01 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2024-04-04 21:53:58 +0200",
+      "scrubland": "2024-04-04 21:53:02 +0200",
+      "highland": "2024-04-04 21:59:42 +0200",
+      "bamboo_grove": "2024-04-04 22:14:06 +0200",
+      "clover_patch": "2024-04-04 22:11:00 +0200",
+      "maple_woods": "2024-04-04 22:18:10 +0200",
+      "orchard": "2024-04-04 21:59:30 +0200",
+      "lavender_forest": "2024-04-04 21:58:28 +0200",
+      "mediterranean_forest": "2024-04-04 21:28:25 +0200",
+      "grassland": "2024-04-04 22:05:41 +0200"
+    },
+    "done": false
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/shepherds_pie_block_iron": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-04-06 00:10:52 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/acacia_ladder_from_acacia_logs_sawing": {
+    "criteria": {
+      "has_acacia_logs": "2024-04-04 21:22:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crystal_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-04-04 22:59:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-04-04 21:28:39 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/beetroot_soup_gold": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/honey_cookie_gold": {
+    "criteria": {
+      "hasHoney": "2024-04-04 21:30:41 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2024-04-04 21:36:07 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/dark_oak_door_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-04-04 21:48:15 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/andesite_castel_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/silencer": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:10 +0200"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/iron_shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/coil_lv": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-04-04 22:15:28 +0200"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/andesite_castel_tile_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-04-04 21:22:08 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/acacia_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-04-04 21:29:01 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_iron_hammering": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/diorite_castel_tiles_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-04-04 21:33:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-04-06 00:14:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-04-04 21:28:58 +0200",
+      "minecraft:skeleton": "2024-04-04 21:43:16 +0200",
+      "minecraft:vindicator": "2024-04-04 21:28:51 +0200",
+      "minecraft:spider": "2024-04-06 00:43:53 +0200",
+      "minecraft:creeper": "2024-04-04 22:59:29 +0200",
+      "quark:wraith": "2024-04-04 22:38:11 +0200",
+      "minecraft:zombie": "2024-04-04 21:57:50 +0200"
+    },
+    "done": false
+  },
+  "create:recipes/create.base/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/misc/wheat_from_iron": {
+    "criteria": {
+      "ironQuality": "2024-04-04 21:47:18 +0200"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/mixed_salad_iron": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-04-04 22:07:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-04-06 00:37:15 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/oak_chest": {
+    "criteria": {
+      "has_oak_plank": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/andesite_alloy_from_block": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecutter": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/cart_assembler": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/jerky": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 21:48:08 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_boards_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/stun_grenade": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:10 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_respite_items/black_cod_gold": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2024-04-04 21:29:10 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_sweet_berries": "2024-04-04 21:30:42 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/raw_block_nickel_to_raw_nickel": {
+    "criteria": {
+      "has_raw_block_nickel": "2024-04-06 00:36:15 +0200"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/fieldsproot_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/diorite_castel_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "immersiveposts:recipes/immersiveposts/has_copper_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2024-04-04 21:32:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-04-04 21:30:39 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv_relay": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/jellyshroom_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/acacia_planks_from_acacia_logs_sawing": {
+    "criteria": {
+      "has_acacia_logs": "2024-04-04 21:22:16 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/manual": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-04-04 21:30:45 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 22:54:14 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/cherry_ladder": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/dark_oak_button_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-04-04 21:48:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_pillager_camp": "2024-04-04 22:12:46 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-04-06 00:11:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_scaffolding_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/rs_engineering": {
+    "criteria": {
+      "has_copper_ingot": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "thinair:signal_torch": {
+    "criteria": {
+      "use": "2024-04-04 22:20:19 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/sweet_berry_cookie_gold": {
+    "criteria": {
+      "hasSweet": "2024-04-04 21:30:42 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2024-04-06 00:37:15 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/miners_delight/sticky_basket": {
+    "criteria": {
+      "has_cobweb": "2024-04-06 00:02:07 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/food/apple_pie": {
+    "criteria": {
+      "has_apple": "2024-04-04 21:30:39 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_slab_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-04-04 23:00:40 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/vodka": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 21:30:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-04-04 21:22:16 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/acacia_stairs_from_acacia_logs_sawing": {
+    "criteria": {
+      "has_acacia_logs": "2024-04-04 21:22:16 +0200"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/warped_ladder": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-04-04 23:00:49 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-04-04 22:07:17 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/seismic_survey_tool": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/large_cogwheel": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-04-04 22:17:05 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/dark_oak_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/assault_rifle": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/upgrade_paddles": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/steak_and_potatoes_gold": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/flarestack": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_slab_from_oak_planks_sawing": {
+    "criteria": {
+      "has_oak_planks": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-04-06 00:14:35 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/acacia_barrel": {
+    "criteria": {
+      "has_acacia_plank": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-04-04 21:43:18 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/mushroom_stew_diamond": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/melon_popsicle_diamond": {
+    "criteria": {
+      "hasStick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/aurum_chest_boat": {
+    "criteria": {
+      "has_chest": "2024-04-04 22:30:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-04-04 22:07:17 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/andesite_tunnel": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_respite_items/green_tea_cookie_iron": {
+    "criteria": {
+      "hasWheat": "2024-04-04 21:47:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersiveengineering/ersatz_leather": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-04-04 21:30:45 +0200"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/cherry_bookshelf": {
+    "criteria": {
+      "has_item": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/oak_pressure_plate_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-04-04 22:17:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "barteringstation:recipes/decorations/bartering_station": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-04-04 22:59:59 +0200"
+    },
+    "done": true
+  },
+  "immersiveposts:recipes/immersiveposts/fence_iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2024-04-04 21:29:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/dark_oak_button_from_dark_oak_planks_sawing": {
+    "criteria": {
+      "has_dark_oak_planks": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:vindicator": "2024-04-04 21:28:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/metal_girder": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_barrel": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_nether_items/warped_moldy_meat_diamond": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-06 00:58:00 +0200"
+    },
+    "done": false
+  },
+  "twigs:recipes/tables/birch_table": {
+    "criteria": {
+      "has_bamboo": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/birch_button_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2024-04-04 22:32:47 +0200",
+      "minecraft:dark_forest": "2024-04-04 22:16:22 +0200",
+      "minecraft:river": "2024-04-04 21:53:48 +0200",
+      "minecraft:forest": "2024-04-04 22:32:57 +0200",
+      "minecraft:old_growth_birch_forest": "2024-04-04 22:17:18 +0200",
+      "minecraft:savanna": "2024-04-04 21:19:41 +0200"
+    },
+    "done": false
+  },
+  "woodworks:recipes/decorations/acacia_fence_from_acacia_planks_sawing": {
+    "criteria": {
+      "has_acacia_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/dark_oak_trapdoor_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-04-04 21:48:15 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-04-04 21:30:00 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_axe_repairing": {
+    "criteria": {
+      "has_stone_axe": "2024-04-04 21:30:02 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2024-04-04 22:59:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/jungle_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-06 00:58:00 +0200"
+    },
+    "done": false
+  },
+  "create:recipes/create.base/crafting/kinetics/display_board": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/avarice_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-04-04 22:07:17 +0200"
+    },
+    "done": false
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/smelting/arcane_crystal_dust_from_smelting": {
+    "criteria": {
+      "has_item": "2024-04-06 00:30:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-04-04 21:32:48 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 22:54:14 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/wisteria_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2024-04-04 22:07:17 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-04-04 21:30:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/cogwheel": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/heavy_rifle": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/wisteria_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_stairs_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-04-04 22:17:05 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/processed_obsidian_block_from_obsidian_ingot": {
+    "criteria": {
+      "has_obsidian_ingot": "2024-04-04 22:53:30 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/frozen_bench": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/egg_grog": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 22:17:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/fieldsproot_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_nether_items/warped_moldy_meat_gold": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "immersiveposts:recipes/immersiveposts/has_gold_rod": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/golden_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_barrel": {
+    "criteria": {
+      "has_birch_plank": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_boards": {
+    "criteria": {
+      "has_birch_planks": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/upgrade_reinforced_hull": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2024-04-04 22:36:33 +0200"
+    },
+    "done": true
+  },
+  "monobank:recipes/redstone/replacement_lock": {
+    "criteria": {
+      "has_iron": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2024-04-04 23:00:49 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_fence_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/empty_shell": {
+    "criteria": {
+      "has_coppper_ingot": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-04-04 21:30:38 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-06 00:58:00 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_silver3": {
+    "criteria": {
+      "has_raw_silver": "2024-04-06 00:16:10 +0200"
+    },
+    "done": true
+  },
+  "thinair:recipes/thinair.main/respirator": {
+    "criteria": {
+      "in_dangerous_air": "2024-04-04 21:53:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-04-04 21:47:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "create_central_kitchen:recipes/crafting/aloe_gel_bucket_from_block": {
+    "criteria": {
+      "has_bucket": "2024-04-04 22:59:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-04-04 21:30:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-04-04 22:15:37 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/acacia_fence_from_acacia_logs_sawing": {
+    "criteria": {
+      "has_acacia_logs": "2024-04-04 21:22:16 +0200"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2024-04-04 22:07:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-04-06 00:14:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/cooking/blazing_chili": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 21:30:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-04-04 21:30:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2024-04-04 21:38:13 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/sweet_berry_cookie_diamond": {
+    "criteria": {
+      "hasSweet": "2024-04-04 21:30:42 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/diorite_castel_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "clayworks:recipes/misc/charcoal_from_baking": {
+    "criteria": {
+      "has_log": "2024-04-04 21:22:16 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/acacia_boards_from_acacia_logs_sawing": {
+    "criteria": {
+      "has_acacia_logs": "2024-04-04 21:22:16 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/roast_chicken_block_iron": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/decorations/crafting/torch": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/mangrove_ladder": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/analog_lever": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/melon_popsicle_gold": {
+    "criteria": {
+      "hasStick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infernal_shield": {
+    "criteria": {
+      "has_parent_recipe": "2024-04-04 21:29:25 +0200"
+    },
+    "done": false
+  },
+  "aether_redux:recipes/transportation/blightwillow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-04-04 21:53:16 +0200"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/arcane_scrolls": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 22:07:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2024-04-04 22:30:42 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_1": {
+    "criteria": {
+      "has_birch_plank": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_bricks": {
+    "criteria": {
+      "has_item": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/chute_copper": {
+    "criteria": {
+      "has_plate": "2024-04-04 21:53:41 +0200"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/glacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-04-04 22:34:03 +0200",
+      "baked_potato": "2024-04-04 21:48:19 +0200",
+      "mushroom_stew": "2024-04-04 22:30:46 +0200",
+      "bread": "2024-04-04 21:33:11 +0200"
+    },
+    "done": false
+  },
+  "woodworks:recipes/building_blocks/oak_boards_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-04-04 22:17:05 +0200"
+    },
+    "done": true
+  },
+  "create_central_kitchen:recipes/crafting/aloe_gel_bucket": {
+    "criteria": {
+      "has_bucket": "2024-04-04 22:59:02 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/rabbit_stew_iron_from_red_mushroom": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/oxidized_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/andesite_bars_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/qualitysdelight_items/cooking/bone_broth_diamond": {
+    "criteria": {
+      "hasBone": "2024-04-04 21:43:18 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/exposed_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/grilled_salmon_iron": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/beetroot_soup_diamond": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/tools/slicer": {
+    "criteria": {
+      "has_tool": "2024-04-04 21:28:10 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2024-04-04 21:30:29 +0200"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
+    "criteria": {
+      "has_ginger": "2024-04-04 21:30:39 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersiveengineering/toolupgrade_drill_lube": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_pickaxe_repairing": {
+    "criteria": {
+      "has_wooden_pickaxe": "2024-04-04 21:28:05 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2024-04-04 21:29:02 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/diorite_castel_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-04-06 00:37:15 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wooden_sword_repairing": {
+    "criteria": {
+      "has_wooden_sword": "2024-04-04 21:28:02 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_3": {
+    "criteria": {
+      "has_birch_plank": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_2": {
+    "criteria": {
+      "has_birch_plank": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_4": {
+    "criteria": {
+      "has_birch_plank": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2024-04-04 22:17:00 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-04 21:19:41 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-04-04 21:30:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-04-04 21:32:48 +0200"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-04-04 21:53:16 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/jungle_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-04-04 21:29:01 +0200"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/waterskin": {
+    "criteria": {
+      "temperature": "2024-04-04 21:56:59 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/roasted_mutton_chops_gold": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/acacia_slab_from_acacia_logs_sawing": {
+    "criteria": {
+      "has_acacia_logs": "2024-04-04 21:22:16 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-04-04 22:17:00 +0200"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/crystal_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/rope_pulley": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-04-04 21:47:23 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2024-04-04 21:32:01 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/andesite_funnel": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2024-04-04 21:32:48 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/edelwood_ladder": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_slab_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/long_scope": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:10 +0200"
+    },
+    "done": true
+  },
+  "create_central_kitchen:recipes/crafting/mulberry_jam_bucket": {
+    "criteria": {
+      "has_bucket": "2024-04-04 22:59:02 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/computercraft/computer_normal": {
+    "criteria": {
+      "has_redstone": "2024-04-06 00:37:15 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-04-04 21:33:11 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/thicc_scroll": {
+    "criteria": {
+      "has_items": "2024-04-04 22:07:17 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/rabbit_stew_diamond_from_red_mushroom": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/golden_blacksmith_gavel": {
+    "criteria": {
+      "has_ingots/gold": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/cookie_diamond": {
+    "criteria": {
+      "hasWheat": "2024-04-04 21:30:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2024-04-06 00:02:06 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-06 00:58:00 +0200"
+    },
+    "done": false
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/component_iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/petcoke_items_to_block": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_respite_items/green_tea_cookie_gold": {
+    "criteria": {
+      "hasWheat": "2024-04-04 21:47:18 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_ladder_from_dark_oak_logs_sawing": {
+    "criteria": {
+      "has_dark_oak_logs": "2024-04-04 21:48:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/miners_delight/baked_tentacles_smoking": {
+    "criteria": {
+      "has_tentacles": "2024-04-06 00:13:02 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/tankard": {
+    "criteria": {
+      "has_nugget": "2024-04-04 21:29:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:48:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_boards": {
+    "criteria": {
+      "has_oak_planks": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/acacia_pressure_plate_from_acacia_logs_sawing": {
+    "criteria": {
+      "has_acacia_logs": "2024-04-04 21:22:16 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/birch_window": {
+    "criteria": {
+      "has_ingredient": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_ladder": {
+    "criteria": {
+      "has_stick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/acacia_ladder_from_acacia_planks_sawing": {
+    "criteria": {
+      "has_acacia_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/decorations/candle": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_nickel3": {
+    "criteria": {
+      "has_raw_nickel": "2024-04-06 00:36:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/glacia_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/miners_delight/baked_tentacles_campfire": {
+    "criteria": {
+      "has_tentacles": "2024-04-06 00:13:02 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_twist": {
+    "criteria": {
+      "has_parent_recipe": "2024-04-04 21:19:41 +0200"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/xp_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-04-04 22:07:17 +0200"
+    },
+    "done": false
+  },
+  "create:recipes/create.palettes/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/spruce_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-04-04 21:29:01 +0200"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/create.base/crafting/cogwheel": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/upgrade_rudders": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/oak_barrel": {
+    "criteria": {
+      "has_oak_plank": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-04-04 22:15:37 +0200"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-04-04 22:05:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jellyshroom_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2024-04-04 22:54:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-04-06 00:14:35 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/wisteria_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-04-04 21:29:01 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
+    "criteria": {
+      "has_item": "2024-04-04 22:36:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2024-04-04 22:07:17 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/oak_slab_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-04-04 22:17:05 +0200"
+    },
+    "done": true
+  },
+  "pyrologernfriends:doot": {
+    "criteria": {
+      "doot": "2024-04-04 21:30:01 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 21:30:53 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/barbecue_stick_diamond": {
+    "criteria": {
+      "hasStick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/copper_block_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-04-04 21:27:54 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-04-04 22:07:17 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/acacia_button_from_acacia_planks_sawing": {
+    "criteria": {
+      "has_acacia_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_limited_barrel_1": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-04-04 21:38:06 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/stuffed_potato_iron": {
+    "criteria": {
+      "hasMilk": "2024-04-04 22:54:14 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_limited_barrel_4": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/roast_chicken_block_diamond": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_limited_barrel_2": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_limited_barrel_3": {
+    "criteria": {
+      "has_dark_oak_plank": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/cut_copper_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/beetroot_soup_iron": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-04-04 21:41:30 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-04-04 21:43:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-04-06 00:13:53 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2024-04-06 00:02:07 +0200"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_sign_from_oak_logs_sawing": {
+    "criteria": {
+      "has_oak_logs": "2024-04-04 22:17:05 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/upgrade_base": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/super_magnet_ring": {
+    "criteria": {
+      "has_parent_recipe": "2024-04-04 21:29:38 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/miners_delight/smoked_bat_wing_campfire": {
+    "criteria": {
+      "has_bat_wing": "2024-04-06 00:28:02 +0200"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/small_large_half_shaft_cogwheel_to_large/large_half_shaft_cogwheel": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2024-04-04 22:36:33 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/acacia_stairs_from_acacia_planks_sawing": {
+    "criteria": {
+      "has_acacia_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-04-06 00:11:55 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_respite_items/black_cod_diamond": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-04-04 22:17:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-04-04 21:27:54 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2024-04-04 21:36:16 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/qualitysdelight_items/cooking/bone_broth_gold": {
+    "criteria": {
+      "hasBone": "2024-04-04 21:43:18 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/cherry_chest_boat": {
+    "criteria": {
+      "has_chest": "2024-04-04 22:30:24 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-04-04 21:30:12 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 21:30:45 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/willow_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-04-04 21:29:01 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/acacia_boards": {
+    "criteria": {
+      "has_acacia_planks": "2024-04-04 21:27:51 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/building_blocks/cut_copper_stairs_paraffin_waxed": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-04-04 21:22:16 +0200"
+    },
+    "done": true
+  },
+  "extendedgears:recipes/extendedgears/crafting/large_shaftless_cogwheel": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-04-06 00:37:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-04-04 22:30:22 +0200"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermometer": {
+    "criteria": {
+      "temperature": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-04-04 21:29:05 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/diamond_blacksmith_gavel": {
+    "criteria": {
+      "has_gems/diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2024-04-04 21:36:10 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-04-04 22:04:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/acacia_button_from_acacia_logs_sawing": {
+    "criteria": {
+      "has_acacia_logs": "2024-04-04 21:22:16 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/insignia": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:30:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-04-04 21:30:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "undead_unleashed:undead_unleashed": {
+    "criteria": {
+      "undead_unleashed": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/farmersrespite/brewing/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 22:54:14 +0200"
+    },
+    "done": true
+  },
+  "cold_sweat:extreme_temps": {
+    "criteria": {
+      "requirement": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-04-06 00:11:25 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-04-04 21:19:41 +0200"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/trough": {
+    "criteria": {
+      "has_item": "2024-04-04 21:48:21 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/smelting/ingot_nickel_from_blasting3": {
+    "criteria": {
+      "has_raw_nickel": "2024-04-06 00:36:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-04-04 21:29:10 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/bacon_and_eggs_iron": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/asphalt2": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/honey_glazed_ham_block_gold": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/grilled_salmon_diamond": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/pistol": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-04-06 00:39:25 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/light_engineering": {
+    "criteria": {
+      "has_copper_ingot": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-06 00:58:00 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-04-04 21:48:20 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/berserk_charm": {
+    "criteria": {
+      "has_parent_recipe": "2024-04-04 22:07:17 +0200"
+    },
+    "done": false
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/rice_roll_medley_block_iron": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/barbecue_stick_iron": {
+    "criteria": {
+      "hasStick": "2024-04-04 21:27:59 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/upgrade_icebreaker": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:25 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-04-06 00:58:00 +0200"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/windmill_bearing": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/cursed_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2024-04-04 22:07:17 +0200"
+    },
+    "done": false
+  },
+  "qualitysdelight:recipes/qualitysdelight_ender_items/strange_eclair_iron": {
+    "criteria": {
+      "hasWheat": "2024-04-04 21:47:18 +0200"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/short_scope": {
+    "criteria": {
+      "has_iron_ingot": "2024-04-04 21:29:10 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2024-04-04 21:54:24 +0200"
+    },
+    "done": true
+  },
+  "idas:fishermans_lodge": {
+    "criteria": {
+      "in_fishermans_lodge": "2024-04-04 22:46:46 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2024-04-04 21:36:14 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/rabbit_stew_diamond_from_brown_mushroom": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-04-04 21:29:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-04-06 00:37:15 +0200"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/oil_can": {
+    "criteria": {
+      "has_the_recipe": "2024-04-04 21:19:40 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/cherry_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-04-04 21:29:01 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/mangrove_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-04-04 21:29:01 +0200"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/fruit_salad_diamond": {
+    "criteria": {
+      "hasBowl": "2024-04-04 22:30:46 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/white_sail": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "goodending:recipes/muddy_oak_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 21:22:04 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2024-04-04 21:37:36 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-04-04 21:30:53 +0200"
+    },
+    "done": true
+  },
+  "thinair:recipes/thinair.main/air_bladder": {
+    "criteria": {
+      "in_dangerous_air": "2024-04-04 21:53:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-04-06 00:02:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-04-04 21:29:38 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/acacia_sign_from_acacia_logs_sawing": {
+    "criteria": {
+      "has_acacia_logs": "2024-04-04 21:22:16 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-04-06 00:35:51 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_axe_repairing": {
+    "criteria": {
+      "has_wooden_axe": "2024-04-04 21:28:10 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2024-04-04 21:32:48 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/linear_chassis": {
+    "criteria": {
+      "has_item": "2024-04-04 21:53:17 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

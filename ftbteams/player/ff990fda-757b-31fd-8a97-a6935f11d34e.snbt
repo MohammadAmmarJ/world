@@ -1,0 +1,17 @@
+{
+	id: "ff990fda-757b-31fd-8a97-a6935f11d34e"
+	type: "player"
+	player_name: "Mohammad_Gamer1"
+	ranks: {
+		ff990fda-757b-31fd-8a97-a6935f11d34e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Mohammad_Gamer1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFA7"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

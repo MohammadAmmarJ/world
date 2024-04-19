@@ -1,0 +1,17 @@
+{
+	id: "4c1bef11-efa1-4fa2-8c89-7822fbf21e96"
+	type: "player"
+	player_name: "RanerNP1"
+	ranks: {
+		4c1bef11-efa1-4fa2-8c89-7822fbf21e96: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "RanerNP1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5988FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

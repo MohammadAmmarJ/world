@@ -1,0 +1,17 @@
+{
+	id: "78db9eaa-b18b-3fd2-8f5c-bc5c4781328e"
+	type: "player"
+	player_name: "Senpai"
+	ranks: {
+		78db9eaa-b18b-3fd2-8f5c-bc5c4781328e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Senpai"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF8B"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
