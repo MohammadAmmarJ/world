@@ -617,6 +617,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-04-21 22:34:33 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
@@ -787,7 +793,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:25:50 +0200"
+      "log_spam_fixer": "2024-04-22 00:43:14 +0200"
     },
     "done": false
   },
@@ -890,6 +896,12 @@
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2024-04-06 23:09:54 +0200"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/jungle_table": {
+    "criteria": {
+      "has_jungle": "2024-04-21 23:40:39 +0200"
     },
     "done": true
   },
@@ -1237,7 +1249,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:25:50 +0200"
+      "log_spam_fixer": "2024-04-22 00:43:14 +0200"
     },
     "done": false
   },
@@ -1793,6 +1805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-04-21 22:34:33 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-04-16 00:47:04 +0200"
@@ -2174,6 +2192,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/jungle_button_from_jungle_planks_sawing": {
+    "criteria": {
+      "has_jungle_planks": "2024-04-21 23:40:39 +0200"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/spruce_ladder": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
@@ -2255,6 +2279,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/raw_silver_to_raw_block_silver": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:50 +0200"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/cracked_deepslate_tiles_from_baking": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-04-21 22:34:33 +0200"
     },
     "done": true
   },
@@ -3149,7 +3179,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:25:50 +0200"
+      "log_spam_fixer": "2024-04-22 00:43:14 +0200"
     },
     "done": false
   },
@@ -3534,6 +3564,12 @@
   "blue_skies:recipes/blue_skies_tools/horizonite_shovel": {
     "criteria": {
       "has_resource": "2024-04-08 22:37:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-04-22 00:21:23 +0200"
     },
     "done": true
   },
@@ -4128,7 +4164,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:25:50 +0200"
+      "log_spam_fixer": "2024-04-22 00:43:14 +0200"
     },
     "done": false
   },
@@ -4899,6 +4935,12 @@
     "criteria": {
       "has_parent_recipe": "2024-04-13 03:17:41 +0200",
       "has_core_block": "2024-04-20 00:49:06 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/jungle_barrel": {
+    "criteria": {
+      "has_jungle_plank": "2024-04-21 23:40:39 +0200"
     },
     "done": true
   },
@@ -5885,6 +5927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-04-21 22:34:33 +0200"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/pink_terracotta_vertical_slab": {
     "criteria": {
       "has_pink_terracotta": "2024-04-07 04:53:53 +0200"
@@ -6109,7 +6157,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:25:50 +0200"
+      "log_spam_fixer": "2024-04-22 00:43:14 +0200"
     },
     "done": false
   },
@@ -6386,6 +6434,12 @@
   "design_decor:recipes/design_decor/deepslate_castel_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-04-16 00:47:04 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/jungle_boards": {
+    "criteria": {
+      "has_jungle_planks": "2024-04-21 23:40:39 +0200"
     },
     "done": true
   },
@@ -6869,6 +6923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:40:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
@@ -7219,7 +7279,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:25:50 +0200"
+      "log_spam_fixer": "2024-04-22 00:43:14 +0200"
     },
     "done": false
   },
@@ -7823,6 +7883,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/jungle_ladder_from_jungle_planks_sawing": {
+    "criteria": {
+      "has_jungle_planks": "2024-04-21 23:40:39 +0200"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/scoria_castel_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-04-13 22:15:34 +0200"
@@ -8274,6 +8340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-04-21 22:34:33 +0200"
+    },
+    "done": true
+  },
   "qualitysdelight:recipes/qualitysdelight_items/grilled_salmon_diamond": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:51 +0200"
@@ -8288,7 +8360,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:25:50 +0200"
+      "log_spam_fixer": "2024-04-22 00:43:14 +0200"
     },
     "done": false
   },
@@ -8316,6 +8388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:40:39 +0200"
+    },
+    "done": true
+  },
   "qualitysdelight:recipes/qualitysdelight_items/barbecue_stick_iron": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
@@ -8330,7 +8408,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:25:50 +0200"
+      "log_spam_fixer": "2024-04-22 00:43:14 +0200"
     },
     "done": false
   },
@@ -8391,6 +8469,12 @@
   "aether:recipes/combat/iron_leggings_repairing": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:40:39 +0200"
     },
     "done": true
   },
@@ -9320,6 +9404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-04-21 22:34:33 +0200"
+    },
+    "done": true
+  },
   "chalk:recipes/tools/chalk_box": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:49 +0200"
@@ -9539,6 +9629,12 @@
   "create:recipes/create.palettes/oxidized_copper_shingle_slab": {
     "criteria": {
       "has_oxidized_copper_shingles": "2024-04-06 05:29:41 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/jungle_chest": {
+    "criteria": {
+      "has_jungle_plank": "2024-04-21 23:40:39 +0200"
     },
     "done": true
   },
@@ -10088,6 +10184,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/jungle_fence_from_jungle_planks_sawing": {
+    "criteria": {
+      "has_jungle_planks": "2024-04-21 23:40:39 +0200"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/cloudcap_chest_boat": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:49 +0200"
@@ -10108,7 +10210,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:25:50 +0200"
+      "log_spam_fixer": "2024-04-22 00:43:14 +0200"
     },
     "done": false
   },
@@ -10508,6 +10610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-04-21 22:34:33 +0200"
+    },
+    "done": true
+  },
   "cold_sweat:huddle_close": {
     "criteria": {
       "requirement": "2024-04-06 23:05:41 +0200"
@@ -10902,6 +11010,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:40:38 +0200"
     },
     "done": true
   },
@@ -11591,7 +11705,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:25:50 +0200"
+      "log_spam_fixer": "2024-04-22 00:43:14 +0200"
     },
     "done": false
   },
@@ -11902,6 +12016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:40:38 +0200"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-04-06 02:10:17 +0200"
@@ -12055,6 +12175,12 @@
   "create:drain": {
     "criteria": {
       "0": "2024-04-20 23:39:12 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/jungle_slab_from_jungle_planks_sawing": {
+    "criteria": {
+      "has_jungle_planks": "2024-04-21 23:40:38 +0200"
     },
     "done": true
   },
@@ -12296,6 +12422,12 @@
   "woodworks:recipes/redstone/birch_trapdoor_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-04-10 22:38:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:40:39 +0200"
     },
     "done": true
   },
@@ -13331,6 +13463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:40:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:49 +0200"
@@ -13635,6 +13773,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-04-16 22:25:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:40:39 +0200"
     },
     "done": true
   },
@@ -14058,6 +14202,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/jungle_limited_barrel_1": {
+    "criteria": {
+      "has_jungle_plank": "2024-04-21 23:40:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:50 +0200"
@@ -14067,6 +14217,12 @@
   "immersiveengineering:recipes/immersiveengineering/smelting/ingot_aluminum_from_blasting": {
     "criteria": {
       "has_ore_aluminum": "2024-04-17 23:48:29 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/jungle_limited_barrel_2": {
+    "criteria": {
+      "has_jungle_plank": "2024-04-21 23:40:39 +0200"
     },
     "done": true
   },
@@ -14094,9 +14250,27 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/jungle_limited_barrel_3": {
+    "criteria": {
+      "has_jungle_plank": "2024-04-21 23:40:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-04-21 22:34:33 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/jungle_limited_barrel_4": {
+    "criteria": {
+      "has_jungle_plank": "2024-04-21 23:40:39 +0200"
     },
     "done": true
   },
@@ -14193,6 +14367,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_barrel": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2024-04-21 23:40:38 +0200"
     },
     "done": true
   },
@@ -14344,7 +14524,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:25:50 +0200"
+      "log_spam_fixer": "2024-04-22 00:43:14 +0200"
     },
     "done": false
   },
@@ -14722,7 +14902,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:25:50 +0200"
+      "log_spam_fixer": "2024-04-22 00:43:14 +0200"
     },
     "done": false
   },
@@ -15532,6 +15712,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/jungle_stairs_from_jungle_planks_sawing": {
+    "criteria": {
+      "has_jungle_planks": "2024-04-21 23:40:39 +0200"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/dark_oak_table": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:49 +0200"
@@ -16333,6 +16519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:40:39 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_oak_window": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
@@ -16746,6 +16938,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-04-06 02:10:00 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/jungle_boards_from_jungle_planks_sawing": {
+    "criteria": {
+      "has_jungle_planks": "2024-04-21 23:40:39 +0200"
     },
     "done": true
   },

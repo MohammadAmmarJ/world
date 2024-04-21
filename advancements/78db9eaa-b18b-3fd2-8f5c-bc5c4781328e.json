@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-04-21 23:59:36 +0200"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2024-04-20 00:29:56 +0200"
@@ -404,6 +410,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-04-20 00:29:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-21 23:41:51 +0200"
     },
     "done": true
   },
@@ -559,6 +571,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/birch_fence_gate_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-04-21 23:17:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2024-04-18 00:43:09 +0200"
@@ -621,13 +639,19 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:06:08 +0200"
+      "log_spam_fixer": "2024-04-22 00:58:14 +0200"
     },
     "done": false
   },
   "create:recipes/create.base/crafting/materials/andesite_alloy_from_zinc": {
     "criteria": {
       "has_item": "2024-04-15 02:44:38 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_boards_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-04-21 23:17:18 +0200"
     },
     "done": true
   },
@@ -967,9 +991,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:17:21 +0200"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:06:08 +0200"
+      "log_spam_fixer": "2024-04-22 00:58:14 +0200"
     },
     "done": false
   },
@@ -1000,6 +1030,12 @@
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-04-17 12:59:47 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_planks_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-04-21 23:17:18 +0200"
     },
     "done": true
   },
@@ -1081,6 +1117,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/qualitysdelight_items/cooking/fried_rice_iron": {
+    "criteria": {
+      "hasEgg": "2024-04-22 00:15:13 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
     "criteria": {
       "has_copper_ingot": "2024-04-16 01:23:23 +0200"
@@ -1108,6 +1150,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/utrem_jar": {
     "criteria": {
       "has_item": "2024-04-16 06:43:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-21 23:41:51 +0200"
     },
     "done": true
   },
@@ -1267,6 +1315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/qualitysdelight_items/fried_egg_iron_from_smoking": {
+    "criteria": {
+      "has_egg_iron": "2024-04-22 00:15:13 +0200"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/c/biomesoplenty/redwood_window": {
     "criteria": {
       "has_planks": "2024-04-20 22:36:50 +0200"
@@ -1402,6 +1456,12 @@
   "create:recipes/create.palettes/crafting/kinetics/brown_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-04-20 00:31:16 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_ladder_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-04-21 23:17:18 +0200"
     },
     "done": true
   },
@@ -1845,6 +1905,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-04-22 00:07:39 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/stick_iron": {
     "criteria": {
       "has_iron_ingot": "2024-04-14 22:18:53 +0200"
@@ -2052,6 +2118,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2024-04-19 17:39:43 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_sign_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-04-21 23:17:18 +0200"
     },
     "done": true
   },
@@ -2583,6 +2655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:17:21 +0200"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/granite_castel_tile_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-04-14 23:56:25 +0200"
@@ -2621,7 +2699,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:06:08 +0200"
+      "log_spam_fixer": "2024-04-22 00:58:14 +0200"
     },
     "done": false
   },
@@ -2670,6 +2748,12 @@
   "design_decor:recipes/design_decor/limestone_castel_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-04-16 00:17:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:17:21 +0200"
     },
     "done": true
   },
@@ -3063,6 +3147,12 @@
     },
     "done": true
   },
+  "goodending:recipes/orange_dye_from_spicy_wildflowers": {
+    "criteria": {
+      "has_item": "2024-04-21 23:15:41 +0200"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/granite_castel_tile_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-04-14 23:56:25 +0200"
@@ -3108,6 +3198,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/spruce_limited_barrel_1": {
     "criteria": {
       "has_spruce_plank": "2024-04-20 02:17:36 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_stairs_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-04-21 23:17:21 +0200"
     },
     "done": true
   },
@@ -3309,6 +3405,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/birch_pressure_plate_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-04-21 23:17:18 +0200"
+    },
+    "done": true
+  },
   "interiors:recipes/interiors/crafting/chair/cyan_chair": {
     "criteria": {
       "has_seat": "2024-04-20 00:31:16 +0200"
@@ -3347,7 +3449,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:06:08 +0200"
+      "log_spam_fixer": "2024-04-22 00:58:14 +0200"
     },
     "done": false
   },
@@ -3474,6 +3576,12 @@
   "create:brass_casing": {
     "criteria": {
       "0": "2024-04-21 03:25:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-21 23:41:51 +0200"
     },
     "done": true
   },
@@ -3985,6 +4093,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_fishing_ship": "2024-04-22 00:31:21 +0200",
       "entered_castle": "2024-04-20 02:06:07 +0200",
       "entered_dungeon_variant": "2024-04-21 20:34:59 +0200",
       "entered_ruined_building": "2024-04-13 21:16:17 +0200"
@@ -4182,6 +4291,7 @@
       "redwood_forest": "2024-04-13 21:07:32 +0200",
       "cherry_blossom_grove": "2024-04-13 21:10:27 +0200",
       "visceral_heap": "2024-04-17 11:05:17 +0200",
+      "seasonal_orchard": "2024-04-21 23:14:34 +0200",
       "highland_moor": "2024-04-20 03:06:33 +0200",
       "seasonal_forest": "2024-04-20 23:38:23 +0200",
       "lavender_field": "2024-04-16 00:48:13 +0200",
@@ -4307,6 +4417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:17:21 +0200"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/acacia_chest": {
     "criteria": {
       "has_lots_of_items": "2024-04-11 21:09:48 +0200"
@@ -4421,6 +4537,12 @@
   "tetra:spelunking/find_scroll_howling": {
     "criteria": {
       "find": "2024-04-21 20:37:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-04-21 23:17:18 +0200"
     },
     "done": true
   },
@@ -4838,6 +4960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-21 23:41:51 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/magenta_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-04-20 00:31:16 +0200"
@@ -4853,6 +4981,12 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2024-04-17 12:11:46 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_fence_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-04-21 23:17:18 +0200"
     },
     "done": true
   },
@@ -4907,6 +5041,12 @@
   "tetra:scrolls/find_scroll_halberd": {
     "criteria": {
       "find": "2024-04-21 14:57:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:17:21 +0200"
     },
     "done": true
   },
@@ -4982,6 +5122,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-04-22 00:29:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2024-04-15 00:16:21 +0200"
@@ -5020,7 +5166,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:06:08 +0200"
+      "log_spam_fixer": "2024-04-22 00:58:14 +0200"
     },
     "done": false
   },
@@ -5332,6 +5478,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/birch_boards": {
+    "criteria": {
+      "has_birch_planks": "2024-04-21 23:17:21 +0200"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_reinforced_hull": {
     "criteria": {
       "has_the_recipe": "2024-04-11 20:29:51 +0200"
@@ -5614,6 +5766,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_1": {
+    "criteria": {
+      "has_birch_plank": "2024-04-21 23:17:21 +0200"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_bricks": {
     "criteria": {
       "has_item": "2024-04-11 21:38:45 +0200"
@@ -5653,6 +5811,12 @@
   "create:recipes/create.palettes/crafting/kinetics/green_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-04-20 00:31:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-21 23:41:51 +0200"
     },
     "done": true
   },
@@ -5707,6 +5871,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2024-04-11 21:18:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:17:21 +0200"
     },
     "done": true
   },
@@ -5767,6 +5937,24 @@
   "create:recipes/create.palettes/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-04-11 21:57:31 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_3": {
+    "criteria": {
+      "has_birch_plank": "2024-04-21 23:17:21 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_2": {
+    "criteria": {
+      "has_birch_plank": "2024-04-21 23:17:21 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_4": {
+    "criteria": {
+      "has_birch_plank": "2024-04-21 23:17:21 +0200"
     },
     "done": true
   },
@@ -5976,7 +6164,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:06:08 +0200"
+      "log_spam_fixer": "2024-04-22 00:58:14 +0200"
     },
     "done": false
   },
@@ -6295,6 +6483,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2024-04-14 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-21 23:41:51 +0200"
     },
     "done": true
   },
@@ -6853,6 +7047,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/birch_slab_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-04-21 23:17:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2024-04-16 00:42:36 +0200"
@@ -6921,7 +7121,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:06:08 +0200"
+      "log_spam_fixer": "2024-04-22 00:58:14 +0200"
     },
     "done": false
   },
@@ -6940,6 +7140,12 @@
   "farmersdelight:recipes/farmersdelight/onion_crate": {
     "criteria": {
       "has_onion": "2024-04-20 02:02:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:17:21 +0200"
     },
     "done": true
   },
@@ -6963,7 +7169,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:06:08 +0200"
+      "log_spam_fixer": "2024-04-22 00:58:14 +0200"
     },
     "done": false
   },
@@ -8173,6 +8379,12 @@
     },
     "done": true
   },
+  "qualitycrops:recipes/misc/egg_from_iron": {
+    "criteria": {
+      "ironQuality": "2024-04-22 00:15:13 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/large_cogwheel_from_little": {
     "criteria": {
       "has_item": "2024-04-16 00:28:35 +0200"
@@ -8212,6 +8424,12 @@
   "design_decor:recipes/design_decor/granite_castel_tiles_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-04-14 23:56:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/qualitysdelight_items/fried_egg_iron_from_campfire_cooking": {
+    "criteria": {
+      "has_egg_iron": "2024-04-22 00:15:13 +0200"
     },
     "done": true
   },
@@ -8260,6 +8478,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-04-14 22:18:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-04-21 23:17:18 +0200"
     },
     "done": true
   },
@@ -8457,7 +8681,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:06:08 +0200"
+      "log_spam_fixer": "2024-04-22 00:58:14 +0200"
     },
     "done": false
   },
@@ -8596,6 +8820,12 @@
   "create:recipes/create.palettes/brass_bars_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2024-04-16 05:25:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-21 23:41:51 +0200"
     },
     "done": true
   },
@@ -9103,6 +9333,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/birch_button_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-04-21 23:17:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2024-04-17 23:40:55 +0200"
@@ -9136,6 +9372,12 @@
   "enigmaticlegacy:book/misc/soul_compass": {
     "criteria": {
       "has_the_recipe": "2024-04-19 00:23:41 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_ladder_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-04-21 23:17:21 +0200"
     },
     "done": true
   },
@@ -9735,7 +9977,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:06:08 +0200"
+      "log_spam_fixer": "2024-04-22 00:58:14 +0200"
     },
     "done": false
   },
@@ -10077,6 +10319,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_chest": {
+    "criteria": {
+      "has_birch_plank": "2024-04-21 23:17:21 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/materials/brass_block_from_compacting": {
     "criteria": {
       "has_item": "2024-04-16 05:25:20 +0200"
@@ -10146,6 +10394,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-04-17 00:52:30 +0200"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/cracked_deepslate_bricks_from_baking": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-21 23:41:51 +0200"
     },
     "done": true
   },
@@ -10360,9 +10614,21 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/birch_trapdoor_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-04-21 23:17:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2024-04-14 23:56:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:17:21 +0200"
     },
     "done": true
   },
@@ -10943,6 +11209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-21 23:41:51 +0200"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-04-11 20:29:54 +0200"
@@ -11369,6 +11641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-21 23:41:51 +0200"
+    },
+    "done": true
+  },
   "twigs:recipes/calcite/calcite_stairs_stonecutting": {
     "criteria": {
       "has_item": "2024-04-16 00:17:40 +0200"
@@ -11384,6 +11662,12 @@
   "brewinandchewin:recipes/brewinandchewin/fermenting/jerky": {
     "criteria": {
       "has_any_ingredient": "2024-04-13 20:41:35 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_boards_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-04-21 23:17:21 +0200"
     },
     "done": true
   },
@@ -11642,6 +11926,12 @@
   "create:recipes/create.palettes/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-04-15 00:16:21 +0200"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/miners_delight/sticky_basket": {
+    "criteria": {
+      "has_cobweb": "2024-04-21 23:36:57 +0200"
     },
     "done": true
   },
@@ -11987,6 +12277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-21 23:41:51 +0200"
+    },
+    "done": true
+  },
   "immersiveposts:recipes/immersiveposts/fence_iron": {
     "criteria": {
       "has_iron_ingot": "2024-04-14 22:18:53 +0200"
@@ -12047,6 +12343,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/birch_table": {
+    "criteria": {
+      "has_bamboo": "2024-04-21 23:17:21 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-04-18 03:03:05 +0200"
@@ -12062,6 +12364,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/gold_to_diamond_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2024-04-16 01:47:14 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/birch_button_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-04-21 23:17:21 +0200"
     },
     "done": true
   },
@@ -12084,8 +12392,10 @@
       "minecraft:snowy_plains": "2024-04-20 23:38:24 +0200",
       "minecraft:dripstone_caves": "2024-04-18 02:09:15 +0200",
       "minecraft:snowy_taiga": "2024-04-20 23:38:18 +0200",
+      "minecraft:cold_ocean": "2024-04-21 23:13:24 +0200",
       "minecraft:forest": "2024-04-13 21:11:23 +0200",
       "minecraft:lush_caves": "2024-04-18 02:50:52 +0200",
+      "minecraft:deep_cold_ocean": "2024-04-21 23:13:50 +0200",
       "minecraft:frozen_ocean": "2024-04-20 02:32:09 +0200",
       "minecraft:deep_frozen_ocean": "2024-04-20 02:37:37 +0200",
       "minecraft:snowy_beach": "2024-04-20 02:34:00 +0200",
@@ -12171,7 +12481,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:06:08 +0200"
+      "log_spam_fixer": "2024-04-22 00:58:14 +0200"
     },
     "done": false
   },
@@ -12313,6 +12623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-21 23:41:51 +0200"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/processed_obsidian_block_from_obsidian_ingot": {
     "criteria": {
       "has_obsidian_ingot": "2024-04-19 00:48:10 +0200"
@@ -12427,6 +12743,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_barrel": {
+    "criteria": {
+      "has_birch_plank": "2024-04-21 23:17:21 +0200"
+    },
+    "done": true
+  },
   "twigs:recipes/calcite/calcite_wall_stonecutting": {
     "criteria": {
       "has_item": "2024-04-16 00:17:41 +0200"
@@ -12463,6 +12785,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/birch_fence_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-04-21 23:17:21 +0200"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/andesite_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2024-04-11 21:57:31 +0200"
@@ -12477,7 +12805,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-04-21 22:06:08 +0200"
+      "log_spam_fixer": "2024-04-22 00:58:14 +0200"
     },
     "done": false
   },
@@ -12562,6 +12890,12 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2024-04-20 02:08:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-04-21 23:17:21 +0200"
     },
     "done": true
   },
@@ -12778,6 +13112,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/birch_stairs_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-04-21 23:17:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-04-13 21:31:31 +0200",
@@ -12788,6 +13128,7 @@
       "sweet_berries": "2024-04-13 21:11:45 +0200",
       "apple": "2024-04-15 00:12:22 +0200",
       "bread": "2024-04-19 19:30:01 +0200",
+      "golden_apple": "2024-04-21 23:48:01 +0200",
       "rotten_flesh": "2024-04-13 20:47:55 +0200",
       "golden_carrot": "2024-04-18 00:05:48 +0200",
       "cod": "2024-04-20 02:53:20 +0200",
@@ -13041,6 +13382,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/birch_slab_from_birch_planks_sawing": {
+    "criteria": {
+      "has_birch_planks": "2024-04-21 23:17:21 +0200"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/long_scope": {
     "criteria": {
       "has_iron_ingot": "2024-04-13 21:16:47 +0200"
@@ -13170,6 +13517,12 @@
   "enigmaticlegacy:recipes/generic/forbidden_axe": {
     "criteria": {
       "has_items": "2024-04-17 12:59:47 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/birch_window": {
+    "criteria": {
+      "has_ingredient": "2024-04-21 23:17:21 +0200"
     },
     "done": true
   },
@@ -13762,6 +14115,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/birch_door_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-04-21 23:17:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-04-17 12:19:41 +0200"
@@ -13897,6 +14256,12 @@
   "enigmaticlegacy:recipes/generic/monster_charm": {
     "criteria": {
       "has_items": "2024-04-17 12:59:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/qualitysdelight_items/fried_egg_iron_from_smelting": {
+    "criteria": {
+      "has_egg_iron": "2024-04-22 00:15:13 +0200"
     },
     "done": true
   },
@@ -14139,9 +14504,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-04-21 23:41:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-04-20 01:59:35 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2024-04-21 23:58:22 +0200"
     },
     "done": true
   },
