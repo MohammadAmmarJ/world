@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/smelting/glass_from_tiled_glass": {
+    "criteria": {
+      "has_item": "2024-04-20 00:23:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:50 +0200"
@@ -677,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-04-20 03:04:57 +0200"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
     "criteria": {
       "has_planks": "2024-04-06 22:10:28 +0200"
@@ -775,7 +787,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-20 21:09:58 +0200"
+      "log_spam_fixer": "2024-04-21 03:40:48 +0200"
     },
     "done": false
   },
@@ -1225,7 +1237,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-20 21:09:58 +0200"
+      "log_spam_fixer": "2024-04-21 03:40:48 +0200"
     },
     "done": false
   },
@@ -2301,6 +2313,12 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/unripe_scarlet_cheese_wheel": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-19 17:54:35 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:50 +0200"
@@ -3051,6 +3069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-04-20 03:04:57 +0200"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/holystone_stonecutter": {
     "criteria": {
       "has_holystone": "2024-04-16 01:39:38 +0200"
@@ -3125,7 +3149,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-20 21:09:58 +0200"
+      "log_spam_fixer": "2024-04-21 03:40:48 +0200"
     },
     "done": false
   },
@@ -3276,6 +3300,12 @@
   "create:copper": {
     "criteria": {
       "0": "2024-04-06 01:59:32 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/glass_from_horizontal_framed_glass": {
+    "criteria": {
+      "has_item": "2024-04-20 00:32:00 +0200"
     },
     "done": true
   },
@@ -4098,7 +4128,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-04-20 21:09:58 +0200"
+      "log_spam_fixer": "2024-04-21 03:40:48 +0200"
     },
     "done": false
   },
@@ -4867,9 +4897,10 @@
   },
   "enigmaticlegacy:recipes/generic/redstonelamps": {
     "criteria": {
-      "has_parent_recipe": "2024-04-13 03:17:41 +0200"
+      "has_parent_recipe": "2024-04-13 03:17:41 +0200",
+      "has_core_block": "2024-04-20 00:49:06 +0200"
     },
-    "done": false
+    "done": true
   },
   "aether_redux:recipes/transportation/blightwillow_boat": {
     "criteria": {
@@ -5215,8 +5246,10 @@
       "minecraft:witch": "2024-04-06 05:58:16 +0200",
       "minecraft:wither_skeleton": "2024-04-16 22:19:52 +0200",
       "minecraft:cave_spider": "2024-04-06 05:53:40 +0200",
+      "quark:wraith": "2024-04-19 17:51:30 +0200",
       "minecraft:piglin": "2024-04-16 22:14:08 +0200",
       "minecraft:enderman": "2024-04-06 02:30:42 +0200",
+      "minecraft:silverfish": "2024-04-19 17:51:25 +0200",
       "minecraft:zombie": "2024-04-06 01:55:54 +0200",
       "minecraft:zombie_villager": "2024-04-06 05:29:31 +0200"
     },
@@ -5282,6 +5315,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_brick_stairs": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2024-04-19 17:56:42 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy_from_block": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:50 +0200"
@@ -5315,6 +5354,12 @@
   "enigmaticlegacy:book/tools/forbidden_axe": {
     "criteria": {
       "has_the_recipe": "2024-04-08 05:46:32 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/horizontal_framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2024-04-20 00:32:00 +0200"
     },
     "done": true
   },
@@ -6064,7 +6109,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-20 21:09:58 +0200"
+      "log_spam_fixer": "2024-04-21 03:40:48 +0200"
     },
     "done": false
   },
@@ -6644,6 +6689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-04-20 03:04:57 +0200"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/smelting/glass_from_framed_glass": {
     "criteria": {
       "has_item": "2024-04-11 01:00:22 +0200"
@@ -7004,6 +7055,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_brick_slab": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2024-04-19 17:56:42 +0200"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/discover_spellstone": {
     "criteria": {
       "spellstone": "2024-04-14 21:35:11 +0200"
@@ -7162,7 +7219,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-20 21:09:58 +0200"
+      "log_spam_fixer": "2024-04-21 03:40:48 +0200"
     },
     "done": false
   },
@@ -7388,6 +7445,12 @@
     },
     "done": true
   },
+  "ad_astra:challenger": {
+    "criteria": {
+      "challenger": "2024-04-20 21:41:34 +0200"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2024-04-06 00:48:11 +0200"
@@ -7415,6 +7478,12 @@
   "woodworks:recipes/redstone/warped_trapdoor_from_warped_stems_sawing": {
     "criteria": {
       "has_warped_stems": "2024-04-13 22:22:02 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/glass_from_vertical_framed_glass": {
+    "criteria": {
+      "has_item": "2024-04-20 00:34:18 +0200"
     },
     "done": true
   },
@@ -8219,7 +8288,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-20 21:09:58 +0200"
+      "log_spam_fixer": "2024-04-21 03:40:48 +0200"
     },
     "done": false
   },
@@ -8261,7 +8330,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-04-20 21:09:58 +0200"
+      "log_spam_fixer": "2024-04-21 03:40:48 +0200"
     },
     "done": false
   },
@@ -8400,6 +8469,12 @@
   "create:recipes/create.base/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-04-20 03:04:57 +0200"
     },
     "done": true
   },
@@ -8895,6 +8970,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2024-04-19 17:51:20 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/basin": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:50 +0200"
@@ -9284,6 +9365,12 @@
   "create:recipes/create.base/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-04-20 03:04:57 +0200"
     },
     "done": true
   },
@@ -10021,7 +10108,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-04-20 21:09:58 +0200"
+      "log_spam_fixer": "2024-04-21 03:40:48 +0200"
     },
     "done": false
   },
@@ -10457,6 +10544,12 @@
     },
     "done": true
   },
+  "create:fist_bump": {
+    "criteria": {
+      "0": "2024-04-20 05:18:13 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-04-13 22:15:34 +0200"
@@ -10634,6 +10727,12 @@
   "woodworks:recipes/redstone/warped_button_from_warped_planks_sawing": {
     "criteria": {
       "has_warped_planks": "2024-04-11 03:00:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-04-20 03:04:57 +0200"
     },
     "done": true
   },
@@ -10881,6 +10980,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_mv": {
     "criteria": {
       "has_steel_ingot": "2024-04-08 03:05:51 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/vertical_framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2024-04-20 00:34:18 +0200"
     },
     "done": true
   },
@@ -11442,6 +11547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-04-20 03:04:57 +0200"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/granite_castel_tile_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-04-06 20:20:29 +0200"
@@ -11480,7 +11591,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-04-20 21:09:58 +0200"
+      "log_spam_fixer": "2024-04-21 03:40:48 +0200"
     },
     "done": false
   },
@@ -11737,6 +11848,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-19 17:54:37 +0200"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/dead_chest_boat": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:51 +0200"
@@ -11818,6 +11935,12 @@
   "interiors:recipes/interiors/crafting/chair/orange_chair": {
     "criteria": {
       "has_seat": "2024-04-06 05:27:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-04-20 03:04:57 +0200"
     },
     "done": true
   },
@@ -11929,6 +12052,12 @@
     },
     "done": true
   },
+  "create:drain": {
+    "criteria": {
+      "0": "2024-04-20 23:39:12 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-04-06 22:43:26 +0200"
@@ -11980,6 +12109,12 @@
   "computercraft:recipes/computercraft/cable": {
     "criteria": {
       "has_computer": "2024-04-08 22:47:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-04-20 03:04:57 +0200"
     },
     "done": true
   },
@@ -12200,6 +12335,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-04-20 02:54:59 +0200"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-04-06 00:48:10 +0200"
@@ -12302,6 +12443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-04-20 03:04:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:50 +0200"
@@ -12317,6 +12464,12 @@
   "design_decor:recipes/design_decor/andesite_castel_tiles_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-04-20 03:04:57 +0200"
     },
     "done": true
   },
@@ -13401,6 +13554,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_integrated_stronghold": "2024-04-19 16:23:12 +0200"
+    },
+    "done": true
+  },
   "twigs:recipes/paper_lanterns/allium_paper_lantern": {
     "criteria": {
       "has_item": "2024-04-06 19:28:27 +0200"
@@ -13785,6 +13944,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/stink_bottle": {
+    "criteria": {
+      "sopa_de_macaco": "2024-04-19 17:54:57 +0200"
+    },
+    "done": true
+  },
   "qualitysdelight:recipes/qualitysdelight_items/steak_and_potatoes_gold": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:50 +0200"
@@ -13866,6 +14031,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-04-20 03:04:57 +0200"
     },
     "done": true
   },
@@ -14010,6 +14181,12 @@
   "create:millstone": {
     "criteria": {
       "0": "2024-04-06 02:49:37 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/redstone_lantern": {
+    "criteria": {
+      "has_the_recipe": "2024-04-20 00:49:06 +0200"
     },
     "done": true
   },
@@ -14167,7 +14344,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-20 21:09:58 +0200"
+      "log_spam_fixer": "2024-04-21 03:40:48 +0200"
     },
     "done": false
   },
@@ -14545,7 +14722,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-04-20 21:09:58 +0200"
+      "log_spam_fixer": "2024-04-21 03:40:48 +0200"
     },
     "done": false
   },
@@ -15145,6 +15322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-04-20 00:52:11 +0200"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/spruce_barrel": {
     "criteria": {
       "has_spruce_plank": "2024-04-06 02:37:24 +0200"
@@ -15190,6 +15373,12 @@
   "create:recipes/create.base/crafting/kinetics/depot": {
     "criteria": {
       "has_item": "2024-04-06 02:26:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2024-04-20 03:04:57 +0200"
     },
     "done": true
   },
@@ -15421,6 +15610,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/miners_delight/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-19 17:54:37 +0200"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/spruce_button_from_spruce_planks_sawing": {
     "criteria": {
       "has_spruce_planks": "2024-04-06 02:37:24 +0200"
@@ -15591,6 +15786,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/tiled_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2024-04-20 00:23:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-04-06 05:28:58 +0200"
@@ -15687,6 +15888,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_tuff_brick_wall": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2024-04-19 17:56:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/immersivepetroleum/asphalt_stairs_from_asphalt_stonecutting": {
     "criteria": {
       "has_asphalt": "2024-04-13 02:47:37 +0200"
@@ -15768,6 +15975,12 @@
   "aether:recipes/tools/diamond_shovel_repairing": {
     "criteria": {
       "has_diamond_shovel": "2024-04-06 19:38:13 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-19 17:54:37 +0200"
     },
     "done": true
   },
