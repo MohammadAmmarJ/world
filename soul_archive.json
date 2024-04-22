@@ -4,6 +4,20 @@
       "f_135804_": "minecraft",
       "f_135805_": "the_nether"
     },
+    "id": "faabdf5f-e53f-4db4-9c38-90f0698cd867",
+    "ownerID": "78db9eaa-b18b-3fd2-8f5c-bc5c4781328e",
+    "pos": {
+      "f_123285_": 617,
+      "f_123286_": 37,
+      "f_123289_": -2062
+    },
+    "type": 0
+  },
+  {
+    "dimension": {
+      "f_135804_": "minecraft",
+      "f_135805_": "the_nether"
+    },
     "id": "36b83351-5774-4016-81e2-9238d39a8db8",
     "ownerID": "16a9df5c-c831-3061-8d04-571502c8395f",
     "pos": {
