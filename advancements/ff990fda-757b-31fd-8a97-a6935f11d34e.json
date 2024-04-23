@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-04-23 22:25:32 +0200"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/mahogany_chest_boat": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:50 +0200"
@@ -755,6 +761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-04-23 22:25:32 +0200"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
     "criteria": {
       "has_item": "2024-04-18 02:54:46 +0200"
@@ -793,7 +805,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 18:16:58 +0200"
+      "log_spam_fixer": "2024-04-23 23:05:25 +0200"
     },
     "done": false
   },
@@ -1025,6 +1037,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_wall": {
+    "criteria": {
+      "has_cut_deepslate": "2024-04-23 22:32:09 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/shaft": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:50 +0200"
@@ -1046,6 +1064,12 @@
   "wares:recipes/decorations/cardboard_box": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scoria_wall": {
+    "criteria": {
+      "has_polished_cut_scoria": "2024-04-23 22:34:18 +0200"
     },
     "done": true
   },
@@ -1249,7 +1273,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 18:16:58 +0200"
+      "log_spam_fixer": "2024-04-23 23:05:25 +0200"
     },
     "done": false
   },
@@ -2823,6 +2847,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_stairs": {
+    "criteria": {
+      "has_polished_cut_scoria": "2024-04-23 22:34:18 +0200"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/disk_11": {
     "criteria": {
       "has_drive": "2024-04-08 22:49:56 +0200"
@@ -3221,7 +3251,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 18:16:58 +0200"
+      "log_spam_fixer": "2024-04-23 23:05:25 +0200"
     },
     "done": false
   },
@@ -4163,10 +4193,17 @@
   },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
+      "entered_deep_crypt": "2024-04-23 22:57:00 +0200",
       "entered_elders_temple": "2024-04-18 03:22:53 +0200",
       "entered_castle": "2024-04-18 03:18:07 +0200"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2024-04-23 22:25:32 +0200"
+    },
+    "done": true
   },
   "aether:recipes/combat/golden_dart": {
     "criteria": {
@@ -4206,7 +4243,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 18:16:58 +0200"
+      "log_spam_fixer": "2024-04-23 23:05:25 +0200"
     },
     "done": false
   },
@@ -4291,6 +4328,12 @@
   "design_decor:recipes/design_decor/limestone_castel_tiles_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-04-18 01:58:19 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_wall": {
+    "criteria": {
+      "has_cut_scoria": "2024-04-23 22:20:27 +0200"
     },
     "done": true
   },
@@ -4390,6 +4433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-04-23 22:25:32 +0200"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
@@ -4467,6 +4516,12 @@
   "create:recipes/create.base/crafting/materials/sand_paper": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-04-23 22:25:32 +0200"
     },
     "done": true
   },
@@ -4680,6 +4735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2024-04-23 22:25:32 +0200"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/dark_oak_boards": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:51 +0200"
@@ -4888,6 +4949,7 @@
     "criteria": {
       "entered_tower_of_the_undead": "2024-04-06 05:12:17 +0200",
       "entered_elders_temple": "2024-04-18 03:22:53 +0200",
+      "entered_deep_crypt": "2024-04-23 22:57:00 +0200",
       "entered_large_dungeon": "2024-04-06 23:08:54 +0200",
       "entered_castle": "2024-04-18 03:18:07 +0200",
       "entered_watch_tower": "2024-04-06 05:10:02 +0200",
@@ -5107,6 +5169,12 @@
   "create:recipes/create.palettes/framed_glass_pane": {
     "criteria": {
       "has_ingredient": "2024-04-11 01:00:22 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_stairs": {
+    "criteria": {
+      "has_cut_scoria": "2024-04-23 22:20:27 +0200"
     },
     "done": true
   },
@@ -5338,6 +5406,7 @@
       "minecraft:spider": "2024-04-06 03:07:42 +0200",
       "minecraft:creeper": "2024-04-06 03:07:35 +0200",
       "minecraft:wither": "2024-04-16 22:45:18 +0200",
+      "quark:forgotten": "2024-04-23 22:07:42 +0200",
       "minecraft:phantom": "2024-04-07 21:42:05 +0200",
       "minecraft:zombified_piglin": "2024-04-11 22:20:16 +0200",
       "minecraft:witch": "2024-04-06 05:58:16 +0200",
@@ -6218,7 +6287,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 18:16:58 +0200"
+      "log_spam_fixer": "2024-04-23 23:05:25 +0200"
     },
     "done": false
   },
@@ -6231,6 +6300,12 @@
   "interiors:recipes/interiors/crafting/chair/green_chair": {
     "criteria": {
       "has_seat": "2024-04-06 05:27:10 +0200"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-04-23 22:07:42 +0200"
     },
     "done": true
   },
@@ -6339,6 +6414,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-04-06 21:06:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2024-04-23 22:25:32 +0200"
     },
     "done": true
   },
@@ -6777,6 +6858,12 @@
   "twigs:recipes/tuff/polished_tuff_bricks_from_bloodstone_stonecutting": {
     "criteria": {
       "has_item": "2024-04-18 02:49:38 +0200"
+    },
+    "done": true
+  },
+  "clayworks:recipes/building_blocks/cracked_polished_blackstone_bricks_from_baking": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-04-23 22:25:32 +0200"
     },
     "done": true
   },
@@ -7358,7 +7445,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 18:16:58 +0200"
+      "log_spam_fixer": "2024-04-23 23:05:25 +0200"
     },
     "done": false
   },
@@ -7647,6 +7734,12 @@
   "create:recipes/create.palettes/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-04-13 22:15:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-04-23 22:25:32 +0200"
     },
     "done": true
   },
@@ -8173,6 +8266,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/endolocator": {
+    "criteria": {
+      "endolocator": "2024-04-23 22:48:24 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-04-13 22:15:34 +0200"
@@ -8463,7 +8562,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 18:16:58 +0200"
+      "log_spam_fixer": "2024-04-23 23:05:25 +0200"
     },
     "done": false
   },
@@ -8511,7 +8610,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 18:16:58 +0200"
+      "log_spam_fixer": "2024-04-23 23:05:25 +0200"
     },
     "done": false
   },
@@ -9481,6 +9580,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_stairs": {
+    "criteria": {
+      "has_cut_deepslate": "2024-04-23 22:32:09 +0200"
+    },
+    "done": true
+  },
   "aether_redux:recipes/golden_gummy_swet": {
     "criteria": {
       "has_golden_swet_ball": "2024-04-16 01:39:02 +0200"
@@ -9774,6 +9879,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_steel_to_slab": {
     "criteria": {
       "has_storage_steel": "2024-04-08 05:58:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2024-04-23 22:25:32 +0200"
     },
     "done": true
   },
@@ -10331,7 +10442,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 18:16:58 +0200"
+      "log_spam_fixer": "2024-04-23 23:05:25 +0200"
     },
     "done": false
   },
@@ -10416,6 +10527,12 @@
   "interiors:recipes/interiors/crafting/chair/lime_chair_from_seat": {
     "criteria": {
       "has_seat": "2024-04-06 05:27:10 +0200"
+    },
+    "done": true
+  },
+  "endrem:main/cryptic_eye": {
+    "criteria": {
+      "cryptic_eye": "2024-04-23 20:43:55 +0200"
     },
     "done": true
   },
@@ -10731,9 +10848,21 @@
     },
     "done": true
   },
+  "tetra:spelunking/ancient_ruins": {
+    "criteria": {
+      "extractor_ruin": "2024-04-23 22:40:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2024-04-21 22:34:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-04-23 22:25:32 +0200"
     },
     "done": true
   },
@@ -11248,6 +11377,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_brick_slab": {
+    "criteria": {
+      "has_cut_deepslate_bricks": "2024-04-23 22:32:09 +0200"
+    },
+    "done": true
+  },
   "qualitysdelight:recipes/qualitysdelight_items/rice_roll_medley_block_gold": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:49 +0200"
@@ -11335,6 +11470,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-04-06 23:12:26 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_slab": {
+    "criteria": {
+      "has_cut_scoria": "2024-04-23 22:20:27 +0200"
     },
     "done": true
   },
@@ -11557,6 +11698,12 @@
   "interiors:recipes/interiors/crafting/floor_chair/purple_floor_chair": {
     "criteria": {
       "has_seat": "2024-04-06 05:27:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-04-23 22:25:32 +0200"
     },
     "done": true
   },
@@ -11844,7 +11991,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 18:16:58 +0200"
+      "log_spam_fixer": "2024-04-23 23:05:25 +0200"
     },
     "done": false
   },
@@ -12077,6 +12224,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scoria_brick_slab": {
+    "criteria": {
+      "has_small_scoria_bricks": "2024-04-23 22:13:53 +0200"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/polished_tuff_stonecutting": {
     "criteria": {
       "has_item": "2024-04-18 02:49:39 +0200"
@@ -12185,6 +12338,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scoria_brick_stairs": {
+    "criteria": {
+      "has_small_scoria_bricks": "2024-04-23 22:13:53 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-04-18 03:37:33 +0200"
@@ -12281,6 +12440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-04-23 22:25:32 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
@@ -12320,6 +12485,12 @@
   "woodworks:recipes/building_blocks/spruce_boards_from_spruce_planks_sawing": {
     "criteria": {
       "has_spruce_planks": "2024-04-06 02:37:24 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_deepslate_slab": {
+    "criteria": {
+      "has_cut_deepslate": "2024-04-23 22:32:09 +0200"
     },
     "done": true
   },
@@ -12440,6 +12611,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-04-23 22:25:32 +0200"
     },
     "done": true
   },
@@ -12732,9 +12909,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_brick_stairs": {
+    "criteria": {
+      "has_cut_deepslate_bricks": "2024-04-23 22:32:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-04-20 03:04:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-04-23 22:25:32 +0200"
     },
     "done": true
   },
@@ -13074,6 +13263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-04-23 22:25:32 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/sticky_mechanical_piston": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:49 +0200"
@@ -13233,6 +13428,12 @@
   "create:recipes/create.palettes/asurine_pillar_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-04-23 22:25:32 +0200"
     },
     "done": true
   },
@@ -13515,6 +13716,12 @@
   "create:recipes/create.base/crafting/kinetics/clockwork_bearing": {
     "criteria": {
       "has_item": "2024-04-06 23:27:06 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_deepslate_brick_wall": {
+    "criteria": {
+      "has_cut_deepslate_bricks": "2024-04-23 22:32:09 +0200"
     },
     "done": true
   },
@@ -13855,6 +14062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2024-04-23 22:25:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-04-16 22:28:59 +0200"
@@ -14107,6 +14320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-04-23 22:25:32 +0200"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_gloves": "2024-04-16 22:22:37 +0200"
@@ -14188,6 +14407,12 @@
   "woodworks:recipes/decorations/warped_ladder": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-04-23 22:25:32 +0200"
     },
     "done": true
   },
@@ -14669,6 +14894,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scoria_brick_wall": {
+    "criteria": {
+      "has_small_scoria_bricks": "2024-04-23 22:13:53 +0200"
+    },
+    "done": true
+  },
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
       "has_stone_sword": "2024-04-06 02:31:28 +0200"
@@ -14725,7 +14956,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 18:16:58 +0200"
+      "log_spam_fixer": "2024-04-23 23:05:25 +0200"
     },
     "done": false
   },
@@ -15115,7 +15346,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 18:16:58 +0200"
+      "log_spam_fixer": "2024-04-23 23:05:25 +0200"
     },
     "done": false
   },
@@ -16117,6 +16348,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_slab": {
+    "criteria": {
+      "has_polished_cut_scoria": "2024-04-23 22:34:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/miners_delight/baked_tentacles_campfire": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:50 +0200"
@@ -16350,6 +16587,12 @@
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2024-04-06 01:53:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2024-04-23 22:25:32 +0200"
     },
     "done": true
   },
@@ -17046,6 +17289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2024-04-23 22:25:32 +0200"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_icebreaker": {
     "criteria": {
       "has_the_recipe": "2024-04-06 00:48:10 +0200"
@@ -17217,6 +17466,12 @@
   "ad_astra:ad_astra": {
     "criteria": {
       "ad_astra": "2024-04-08 03:19:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2024-04-23 22:25:32 +0200"
     },
     "done": true
   },

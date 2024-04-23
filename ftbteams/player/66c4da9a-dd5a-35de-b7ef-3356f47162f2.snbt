@@ -2,9 +2,7 @@
 	id: "66c4da9a-dd5a-35de-b7ef-3356f47162f2"
 	type: "player"
 	player_name: "Olegind"
-	ranks: {
-		66c4da9a-dd5a-35de-b7ef-3356f47162f2: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Olegind"
 		"ftbteams:description": ""

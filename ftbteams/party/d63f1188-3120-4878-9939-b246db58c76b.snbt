@@ -1,0 +1,21 @@
+{
+	id: "d63f1188-3120-4878-9939-b246db58c76b"
+	type: "party"
+	owner: "66c4da9a-dd5a-35de-b7ef-3356f47162f2"
+	ranks: {
+		66c4da9a-dd5a-35de-b7ef-3356f47162f2: "owner"
+		ff990fda-757b-31fd-8a97-a6935f11d34e: "invited"
+	}
+	properties: {
+		"ftbteams:display_name": "Olegind's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59D4FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1713901269198L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Olegind\"}]}" }
+		{ from: "66c4da9a-dd5a-35de-b7ef-3356f47162f2", date: 1713901269199L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Mohammad_Gamer1\"}]}" }
+	]
+	extra: { }
+}
