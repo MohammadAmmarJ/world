@@ -487,7 +487,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 23:00:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:17:58 +0200"
     },
     "done": false
   },
@@ -656,6 +656,12 @@
   "qualitysdelight:recipes/qualitysdelight_nether_items/warped_moldy_meat_iron": {
     "criteria": {
       "hasBowl": "2024-04-06 23:25:26 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_feet": {
+    "criteria": {
+      "has_steel_plate": "2024-04-23 15:53:52 +0200"
     },
     "done": true
   },
@@ -1380,6 +1386,12 @@
   "everycomp:recipes/everycomp/c/biomesoplenty/cherry_window": {
     "criteria": {
       "has_planks": "2024-04-10 01:56:24 +0200"
+    },
+    "done": true
+  },
+  "ad_astra:venus": {
+    "criteria": {
+      "venus": "2024-04-23 16:31:49 +0200"
     },
     "done": true
   },
@@ -2430,7 +2442,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 23:00:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:17:58 +0200"
     },
     "done": false
   },
@@ -3028,6 +3040,12 @@
   "create:recipes/create.palettes/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2024-04-08 03:24:33 +0200"
+    },
+    "done": true
+  },
+  "ad_astra:netherite_space_suit": {
+    "criteria": {
+      "netherite_space_suit": "2024-04-23 15:56:08 +0200"
     },
     "done": true
   },
@@ -3695,6 +3713,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2024-04-23 13:05:12 +0200"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/void_stone": {
     "criteria": {
       "has_items": "2024-04-06 16:39:35 +0200"
@@ -4337,6 +4361,12 @@
     },
     "done": true
   },
+  "chipped:recipes/carpenters_table": {
+    "criteria": {
+      "has_carpenters_table": "2024-04-23 12:13:59 +0200"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
     "criteria": {
       "has_lava_bucket": "2024-04-06 16:38:28 +0200"
@@ -4456,6 +4486,12 @@
       "red_mushroom": "2024-04-17 10:09:13 +0200"
     },
     "done": false
+  },
+  "twigs:recipes/silt/silt_from_clay": {
+    "criteria": {
+      "has_item": "2024-04-23 14:47:30 +0200"
+    },
+    "done": true
   },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
     "criteria": {
@@ -4897,7 +4933,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 23:00:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:17:58 +0200"
     },
     "done": false
   },
@@ -5447,6 +5483,12 @@
     },
     "done": true
   },
+  "ad_astra:tier_3_rocket": {
+    "criteria": {
+      "tier_3_rocket": "2024-04-23 16:16:46 +0200"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-04-06 01:31:06 +0200",
@@ -5902,6 +5944,12 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting_raw_copper": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:29:04 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_head": {
+    "criteria": {
+      "has_steel_plate": "2024-04-23 15:53:52 +0200"
     },
     "done": true
   },
@@ -6383,6 +6431,12 @@
   "incendium:misc/root": {
     "criteria": {
       "incendium:inverted_forest": "2024-04-10 04:05:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-04-23 14:47:30 +0200"
     },
     "done": true
   },
@@ -6886,7 +6940,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 23:00:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:17:58 +0200"
     },
     "done": false
   },
@@ -8470,7 +8524,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 23:00:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:17:58 +0200"
     },
     "done": false
   },
@@ -8680,7 +8734,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 23:00:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:17:58 +0200"
     },
     "done": false
   },
@@ -8987,6 +9041,12 @@
   "create:burner": {
     "criteria": {
       "0": "2024-04-10 03:50:45 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/earmuffs": {
+    "criteria": {
+      "has_iron_rod": "2024-04-23 15:52:09 +0200"
     },
     "done": true
   },
@@ -10592,7 +10652,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 23:00:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:17:58 +0200"
     },
     "done": false
   },
@@ -11226,6 +11286,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_chest": {
+    "criteria": {
+      "has_steel_plate": "2024-04-23 15:53:52 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-04-07 22:56:14 +0200"
@@ -11668,7 +11734,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 23:00:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:17:58 +0200"
     },
     "done": false
   },
@@ -13322,7 +13388,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 23:00:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:17:58 +0200"
     },
     "done": false
   },
@@ -13958,7 +14024,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 23:00:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:17:58 +0200"
     },
     "done": false
   },
@@ -14667,7 +14733,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 23:00:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:17:58 +0200"
     },
     "done": false
   },
@@ -15747,7 +15813,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 23:00:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:17:58 +0200"
     },
     "done": false
   },
@@ -15904,6 +15970,12 @@
   "incendium:toxic_heap/slime_poison": {
     "criteria": {
       "poison": "2024-04-15 23:44:55 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/chute_steel": {
+    "criteria": {
+      "has_plate": "2024-04-23 15:53:52 +0200"
     },
     "done": true
   },
@@ -16372,6 +16444,12 @@
   "dungeons_enhanced:wars_and_kingdoms": {
     "criteria": {
       "entered_castle": "2024-04-10 23:31:25 +0200"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2024-04-23 12:44:12 +0200"
     },
     "done": true
   },
@@ -17522,6 +17600,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/terracotta_from_baking": {
+    "criteria": {
+      "has_clay": "2024-04-23 14:47:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-04-13 02:08:11 +0200"
@@ -17591,6 +17675,12 @@
   "create:recipes/create.palettes/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-04-16 02:25:10 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/armor_steel_legs": {
+    "criteria": {
+      "has_steel_plate": "2024-04-23 15:53:52 +0200"
     },
     "done": true
   },

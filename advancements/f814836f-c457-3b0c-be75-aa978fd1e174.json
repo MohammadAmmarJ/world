@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2024-04-23 14:02:56 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/concrete": {
     "criteria": {
       "has_clay": "2024-04-06 01:56:15 +0200"
@@ -230,6 +236,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-04-06 05:48:05 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/food/cooked_venison": {
+    "criteria": {
+      "has_venison": "2024-04-23 17:43:05 +0200"
     },
     "done": true
   },
@@ -505,7 +517,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 00:19:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:16:59 +0200"
     },
     "done": false
   },
@@ -731,6 +743,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/arcane_crystal_from_arcane_crystal_block": {
+    "criteria": {
+      "has_item": "2024-04-23 17:48:08 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_item": "2024-04-06 16:12:33 +0200"
@@ -827,9 +845,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/darkstone_pedestal": {
+    "criteria": {
+      "has_item": "2024-04-23 15:25:03 +0200"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/crimsite_castel_tile_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-04-06 05:36:31 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_axe": {
+    "criteria": {
+      "has_ingots/deorum": "2024-04-23 15:59:11 +0200"
     },
     "done": true
   },
@@ -1010,6 +1040,12 @@
   "enigmaticlegacy:book/misc/infinimeal": {
     "criteria": {
       "has_the_recipe": "2024-04-14 22:15:28 +0200"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/deorum_knife": {
+    "criteria": {
+      "has_deorum": "2024-04-23 15:59:11 +0200"
     },
     "done": true
   },
@@ -1282,6 +1318,12 @@
     },
     "done": true
   },
+  "ad_astra:venus": {
+    "criteria": {
+      "venus": "2024-04-23 16:32:22 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/stick_iron": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:29:16 +0200"
@@ -1456,6 +1498,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_boots": {
+    "criteria": {
+      "has_ingots/deorum": "2024-04-23 15:59:11 +0200"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/acacia_door_from_acacia_logs_sawing": {
     "criteria": {
       "has_acacia_logs": "2024-04-18 23:43:58 +0200"
@@ -1489,6 +1537,12 @@
   "interiors:recipes/interiors/crafting/floor_chair/gray_floor_chair_from_seat": {
     "criteria": {
       "has_seat": "2024-04-07 00:11:49 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_leggings": {
+    "criteria": {
+      "has_ingots/deorum": "2024-04-23 15:59:11 +0200"
     },
     "done": true
   },
@@ -2316,7 +2370,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 00:19:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:16:59 +0200"
     },
     "done": false
   },
@@ -2359,6 +2413,12 @@
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2024-04-09 17:14:21 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-04-23 16:19:36 +0200"
     },
     "done": true
   },
@@ -3186,6 +3246,12 @@
     },
     "done": true
   },
+  "qualitycrops:recipes/qualitycrops_quality_items/salmon_iron_from_salmon_gold": {
+    "criteria": {
+      "hasQuality": "2024-04-23 14:04:55 +0200"
+    },
+    "done": true
+  },
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
       "inscription_table": "2024-04-06 16:12:14 +0200"
@@ -3354,6 +3420,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/golden_orchid_seeds": {
+    "criteria": {
+      "has_deorum_ingot": "2024-04-23 15:59:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:29:17 +0200"
@@ -3423,6 +3495,12 @@
   "create:recipes/create.palettes/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2024-04-06 17:12:39 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_trapdoor": {
+    "criteria": {
+      "has_ingots/deorum": "2024-04-23 15:59:11 +0200"
     },
     "done": true
   },
@@ -3654,6 +3732,12 @@
   "handcrafted:recipes/misc/frozen_bench": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:29:15 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2024-04-23 13:05:49 +0200"
     },
     "done": true
   },
@@ -4671,6 +4755,12 @@
     },
     "done": true
   },
+  "ad_astra:rocket_destroyed": {
+    "criteria": {
+      "rocket_destroyed": "2024-04-23 17:15:24 +0200"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_chestplate_repairing": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:29:15 +0200"
@@ -4779,6 +4869,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_hoe": {
+    "criteria": {
+      "has_ingots/deorum": "2024-04-23 15:59:11 +0200"
+    },
+    "done": true
+  },
   "qualitysdelight:recipes/qualitysdelight_items/honey_glazed_ham_block_gold": {
     "criteria": {
       "hasBowl": "2024-04-06 05:39:30 +0200"
@@ -4817,7 +4913,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 00:19:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:16:59 +0200"
     },
     "done": false
   },
@@ -4830,6 +4926,12 @@
   "aether:recipes/building_blocks/ambrosium_block": {
     "criteria": {
       "has_ambrosium_shard": "2024-04-19 00:45:59 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_pickaxe": {
+    "criteria": {
+      "has_ingots/deorum": "2024-04-23 15:59:11 +0200"
     },
     "done": true
   },
@@ -5004,6 +5106,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-04-07 16:44:07 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/dark_nether_star": {
+    "criteria": {
+      "has_obsidian_ingot": "2024-04-23 14:07:34 +0200"
     },
     "done": true
   },
@@ -5277,6 +5385,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/arcane_bone_meal": {
+    "criteria": {
+      "has_item": "2024-04-23 15:58:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-04-07 21:49:09 +0200"
@@ -5313,6 +5427,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2024-04-23 17:31:38 +0200"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_ring": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:29:16 +0200"
@@ -5343,6 +5463,12 @@
     },
     "done": true
   },
+  "ad_astra:tier_3_rocket": {
+    "criteria": {
+      "tier_3_rocket": "2024-04-23 16:39:09 +0200"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-04-06 05:16:22 +0200",
@@ -5353,6 +5479,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/mason_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-04-06 23:37:16 +0200"
+    },
+    "done": true
+  },
+  "twigs:recipes/decorated_blackstone_bricks/twisting_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2024-04-23 17:36:08 +0200"
     },
     "done": true
   },
@@ -6043,6 +6175,12 @@
   "minecraft:recipes/qualitycrops_items/cooked_porkchop_iron_from_smoking": {
     "criteria": {
       "has_porkchop_iron": "2024-04-15 15:17:03 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_chestplate": {
+    "criteria": {
+      "has_ingots/deorum": "2024-04-23 15:59:11 +0200"
     },
     "done": true
   },
@@ -6858,7 +6996,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 00:19:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:16:59 +0200"
     },
     "done": false
   },
@@ -7516,6 +7654,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-04-23 16:19:36 +0200"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/specialised_grip": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:29:17 +0200"
@@ -7645,6 +7789,12 @@
   "enigmaticlegacy:book/decorations/shroomlamp": {
     "criteria": {
       "has_the_recipe": "2024-04-07 21:28:27 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_ingot_from_deorum_nugget": {
+    "criteria": {
+      "has_deorum_nugget": "2024-04-23 16:15:16 +0200"
     },
     "done": true
   },
@@ -7843,6 +7993,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:29:18 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2024-04-23 14:02:40 +0200"
     },
     "done": true
   },
@@ -8260,6 +8416,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/qualitysdelight_items/cooking/fish_stew_gold": {
+    "criteria": {
+      "hasRawFishes": "2024-04-23 14:04:55 +0200"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/jungle_limited_barrel_1": {
     "criteria": {
       "has_jungle_plank": "2024-04-06 15:29:29 +0200"
@@ -8418,7 +8580,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 00:19:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:16:59 +0200"
     },
     "done": false
   },
@@ -8521,6 +8683,12 @@
   "create:recipes/create.base/crafting/kinetics/belt_connector": {
     "criteria": {
       "has_item": "2024-04-06 16:12:33 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/processed_obsidian_block_from_obsidian_ingot": {
+    "criteria": {
+      "has_obsidian_ingot": "2024-04-23 14:07:34 +0200"
     },
     "done": true
   },
@@ -8634,7 +8802,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 00:19:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:16:59 +0200"
     },
     "done": false
   },
@@ -9800,6 +9968,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_blacksmith_gavel": {
+    "criteria": {
+      "has_ingots/deorum": "2024-04-23 15:59:11 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-04-13 16:44:18 +0200"
@@ -10097,6 +10271,12 @@
   "create:recipes/create.base/crafting/kinetics/gantry_shaft": {
     "criteria": {
       "has_item": "2024-04-06 16:12:33 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_sword": {
+    "criteria": {
+      "has_ingots/deorum": "2024-04-23 15:59:11 +0200"
     },
     "done": true
   },
@@ -10494,9 +10674,15 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 00:19:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:16:59 +0200"
     },
     "done": false
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_chain": {
+    "criteria": {
+      "has_ingot": "2024-04-23 15:59:11 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
@@ -10675,6 +10861,12 @@
   "everycomp:recipes/everycomp/c/biomesoplenty/redwood_window_pane": {
     "criteria": {
       "has_planks": "2024-04-13 16:32:49 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/tiled_polished_darkstone_bricks_from_polished_darkstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_darkstone_bricks": "2024-04-23 15:29:41 +0200"
     },
     "done": true
   },
@@ -11242,6 +11434,12 @@
     },
     "done": true
   },
+  "environmental:recipes/food/cooked_venison_from_smoking": {
+    "criteria": {
+      "has_venison": "2024-04-23 17:43:05 +0200"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/stellarite_block_from_stellarite_piece": {
     "criteria": {
       "has_stellarite_piece": "2024-04-16 01:25:51 +0200"
@@ -11536,6 +11734,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_nugget_from_deorum_ingot": {
+    "criteria": {
+      "has_item": "2024-04-23 15:59:11 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-04-06 05:04:12 +0200"
@@ -11556,7 +11760,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 00:19:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:16:59 +0200"
     },
     "done": false
   },
@@ -11680,6 +11884,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_helmet": {
+    "criteria": {
+      "has_ingots/deorum": "2024-04-23 15:59:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-04-06 17:12:39 +0200"
@@ -11707,6 +11917,12 @@
   "handcrafted:recipes/misc/jungle_table": {
     "criteria": {
       "has_table": "2024-04-22 23:36:36 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/rice_wine": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-23 16:19:36 +0200"
     },
     "done": true
   },
@@ -12212,6 +12428,12 @@
     "criteria": {
       "0": "2024-04-09 16:51:06 +0200",
       "1": "2024-04-07 23:05:14 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/aureal_bottle": {
+    "criteria": {
+      "has_item": "2024-04-23 15:58:58 +0200"
     },
     "done": true
   },
@@ -12995,6 +13217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-04-23 17:30:25 +0200"
+    },
+    "done": true
+  },
   "environmental:recipes/food/apple_pie": {
     "criteria": {
       "has_apple": "2024-04-06 02:00:51 +0200"
@@ -13225,7 +13453,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 00:19:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:16:59 +0200"
     },
     "done": false
   },
@@ -13286,6 +13514,12 @@
   "interiors:recipes/interiors/crafting/floor_chair/magenta_floor_chair_from_other_floor_chair": {
     "criteria": {
       "has_floor_chair": "2024-04-22 23:54:20 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_door": {
+    "criteria": {
+      "has_ingots/deorum": "2024-04-23 15:59:11 +0200"
     },
     "done": true
   },
@@ -13817,6 +14051,12 @@
     },
     "done": true
   },
+  "ad_astra:jet_suit": {
+    "criteria": {
+      "jet_suit": "2024-04-23 16:26:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:29:15 +0200"
@@ -13849,7 +14089,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 00:19:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:16:59 +0200"
     },
     "done": false
   },
@@ -14504,7 +14744,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 00:19:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:16:59 +0200"
     },
     "done": false
   },
@@ -14595,6 +14835,12 @@
   "tetra:story/more_upgrades": {
     "criteria": {
       "hammer": "2024-04-16 12:52:04 +0200"
+    },
+    "done": true
+  },
+  "environmental:recipes/food/cooked_venison_from_campfire_cooking": {
+    "criteria": {
+      "has_venison": "2024-04-23 17:43:05 +0200"
     },
     "done": true
   },
@@ -14727,6 +14973,12 @@
   "qualitysdelight:recipes/qualitysdelight_respite_items/nether_wart_sourdough_iron": {
     "criteria": {
       "hasWart": "2024-04-07 17:44:03 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/tiled_polished_darkstone_bricks_from_polished_darkstone_stonecutting": {
+    "criteria": {
+      "has_polished_darkstone": "2024-04-23 15:25:03 +0200"
     },
     "done": true
   },
@@ -15063,6 +15315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/qualitycrops_items/cooked_salmon_gold_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon_gold": "2024-04-23 14:04:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2024-04-15 22:41:55 +0200"
@@ -15322,6 +15580,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:husbandry/collect_all_pike": {
+    "criteria": {
+      "16": "2024-04-23 16:20:04 +0200"
+    },
+    "done": false
+  },
   "create:mechanical_arm": {
     "criteria": {
       "0": "2024-04-13 02:07:14 +0200"
@@ -15397,6 +15661,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-04-10 21:39:43 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_block_from_deorum_ingot": {
+    "criteria": {
+      "has_deorum_ingot": "2024-04-23 15:59:11 +0200"
     },
     "done": true
   },
@@ -15582,7 +15852,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-04-23 00:19:30 +0200"
+      "log_spam_fixer": "2024-04-23 18:16:59 +0200"
     },
     "done": false
   },
@@ -16534,6 +16804,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "upgrade_aquatic:pike_bucket": "2024-04-23 16:20:04 +0200"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/acacia_table_slab": {
+    "criteria": {
+      "has_bamboo": "2024-04-23 17:56:30 +0200"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:29:16 +0200"
@@ -16842,9 +17124,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_pressure_plate": {
+    "criteria": {
+      "has_ingots/deorum": "2024-04-23 15:59:11 +0200"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/jungle_trapdoor_from_jungle_logs_sawing": {
     "criteria": {
       "has_jungle_logs": "2024-04-06 06:21:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/qualitycrops_items/cooked_salmon_gold_from_smelting": {
+    "criteria": {
+      "has_salmon_gold": "2024-04-23 14:04:55 +0200"
     },
     "done": true
   },
@@ -17142,6 +17436,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/arcane_edelwood_planks": {
+    "criteria": {
+      "has_ingots/deorum": "2024-04-23 15:59:11 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/stove": {
     "criteria": {
       "has_campfire": "2024-04-09 17:14:13 +0200"
@@ -17254,6 +17554,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-04-08 22:27:12 +0200"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_shovel": {
+    "criteria": {
+      "has_ingots/deorum": "2024-04-23 15:59:11 +0200"
     },
     "done": true
   },
@@ -18080,6 +18386,7 @@
       "atmospheric:rainforest": "2024-04-06 21:53:57 +0200",
       "minecraft:frozen_river": "2024-04-14 21:55:26 +0200",
       "minecraft:birch_forest": "2024-04-18 02:46:47 +0200",
+      "minecraft:windswept_hills": "2024-04-23 14:56:01 +0200",
       "minecraft:bamboo_jungle": "2024-04-06 21:53:44 +0200",
       "minecraft:beach": "2024-04-06 05:35:31 +0200",
       "minecraft:dark_forest": "2024-04-08 21:55:55 +0200",
@@ -18532,6 +18839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/qualitycrops_items/cooked_salmon_gold_from_smoking": {
+    "criteria": {
+      "has_salmon_gold": "2024-04-23 14:04:55 +0200"
+    },
+    "done": true
+  },
   "qualitysdelight:recipes/qualitysdelight_items/melon_popsicle_gold": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:29:17 +0200"
@@ -18609,6 +18922,7 @@
       "cooked_cod": "2024-04-11 13:17:16 +0200",
       "poisonous_potato": "2024-04-17 13:39:56 +0200",
       "supplementaries:candy": "2024-04-06 17:56:37 +0200",
+      "environmental:venison": "2024-04-23 17:43:08 +0200",
       "bread": "2024-04-06 05:01:51 +0200",
       "golden_apple": "2024-04-16 01:09:51 +0200",
       "rotten_flesh": "2024-04-11 01:22:57 +0200",

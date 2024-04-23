@@ -29,6 +29,34 @@
   },
   {
     "dimension": {
+      "f_135804_": "ad_astra",
+      "f_135805_": "venus"
+    },
+    "id": "362c4db6-bfb8-4ee0-b6af-b131b687b06c",
+    "ownerID": "f814836f-c457-3b0c-be75-aa978fd1e174",
+    "pos": {
+      "f_123285_": 55,
+      "f_123286_": 109,
+      "f_123289_": -1348
+    },
+    "type": 0
+  },
+  {
+    "dimension": {
+      "f_135804_": "ad_astra",
+      "f_135805_": "venus"
+    },
+    "id": "eb9e342a-da8f-4f6f-98f8-701c9e6c4b0a",
+    "ownerID": "f814836f-c457-3b0c-be75-aa978fd1e174",
+    "pos": {
+      "f_123285_": -36,
+      "f_123286_": 43,
+      "f_123289_": -2284
+    },
+    "type": 0
+  },
+  {
+    "dimension": {
       "f_135804_": "minecraft",
       "f_135805_": "the_nether"
     },
