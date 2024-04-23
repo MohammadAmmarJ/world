@@ -1,4 +1,10 @@
 {
+  "design_decor:recipes/design_decor/scoria_castel_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-04-11 21:38:45 +0200"
@@ -8,6 +14,12 @@
   "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2024-04-16 05:03:01 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/veridium_castel_tile_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
     },
     "done": true
   },
@@ -281,6 +293,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-04-14 23:58:11 +0200"
@@ -547,6 +565,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
+    },
+    "done": true
+  },
   "qualitycrops:recipes/food/porkchop_from_iron": {
     "criteria": {
       "ironQuality": "2024-04-13 21:31:00 +0200"
@@ -657,7 +681,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 17:59:25 +0200"
+      "log_spam_fixer": "2024-04-23 03:40:30 +0200"
     },
     "done": false
   },
@@ -979,6 +1003,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/scoria_castel_tile_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/jungle_pressure_plate_from_jungle_logs_sawing": {
     "criteria": {
       "has_jungle_logs": "2024-04-21 13:07:09 +0200"
@@ -1015,9 +1045,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-04-22 22:46:46 +0200"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 17:59:25 +0200"
+      "log_spam_fixer": "2024-04-23 03:40:30 +0200"
     },
     "done": false
   },
@@ -1156,6 +1192,12 @@
   "chalk:recipes/tools/chalk_from_blue_dye": {
     "criteria": {
       "has_calcite": "2024-04-16 00:17:41 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
     },
     "done": true
   },
@@ -1489,6 +1531,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-04-23 01:59:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-04-11 21:38:45 +0200"
@@ -1537,6 +1585,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-04-22 22:46:46 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-04-19 00:05:58 +0200"
@@ -1582,6 +1636,12 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/diamond_from_clibano_combusting": {
     "criteria": {
       "has_item": "2024-04-19 18:33:09 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/veridium_castel_tile_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
     },
     "done": true
   },
@@ -1654,6 +1714,12 @@
   "qualitysdelight:recipes/qualitysdelight_items/honey_cookie_diamond": {
     "criteria": {
       "hasHoney": "2024-04-20 01:58:08 +0200"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_warforge": {
+    "criteria": {
+      "find": "2024-04-22 22:06:19 +0200"
     },
     "done": true
   },
@@ -1798,6 +1864,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2024-04-16 01:23:23 +0200"
@@ -1807,6 +1879,12 @@
   "create:recipes/create.palettes/crafting/kinetics/pink_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2024-04-20 00:31:16 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
     },
     "done": true
   },
@@ -2560,6 +2638,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-04-20 01:56:21 +0200"
@@ -2605,6 +2689,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-04-15 01:18:33 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/scoria_castel_tile_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
     },
     "done": true
   },
@@ -2724,7 +2814,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 17:59:25 +0200"
+      "log_spam_fixer": "2024-04-23 03:40:30 +0200"
     },
     "done": false
   },
@@ -2809,6 +2899,12 @@
   "woodworks:recipes/decorations/crimson_chest": {
     "criteria": {
       "has_lots_of_items": "2024-04-11 21:09:48 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
     },
     "done": true
   },
@@ -2983,6 +3079,12 @@
   "brewinandchewin:recipes/brewinandchewin/fermenting/rice_wine": {
     "criteria": {
       "has_any_ingredient": "2024-04-18 23:29:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
     },
     "done": true
   },
@@ -3268,6 +3370,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_aluminum_hammering": {
     "criteria": {
       "has_aluminum_ingot": "2024-04-11 21:47:55 +0200"
@@ -3307,6 +3415,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/gas_generator": {
     "criteria": {
       "has_the_recipe": "2024-04-11 20:29:51 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/lamp": {
+    "criteria": {
+      "has_the_recipe": "2024-04-23 00:55:41 +0200"
     },
     "done": true
   },
@@ -3442,6 +3556,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/lamps": {
+    "criteria": {
+      "has_core_block": "2024-04-23 00:55:41 +0200"
+    },
+    "done": true
+  },
   "interiors:recipes/interiors/crafting/chair/cyan_chair": {
     "criteria": {
       "has_seat": "2024-04-20 00:31:16 +0200"
@@ -3457,6 +3577,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2024-04-17 23:28:24 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2024-04-23 02:08:52 +0200"
     },
     "done": true
   },
@@ -3480,7 +3606,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 17:59:25 +0200"
+      "log_spam_fixer": "2024-04-23 03:40:30 +0200"
     },
     "done": false
   },
@@ -3900,6 +4026,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/quartz_column": {
+    "criteria": {
+      "has_item": "2024-04-22 22:46:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-04-14 22:18:53 +0200"
@@ -3909,6 +4041,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-04-11 21:37:25 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-04-22 22:46:46 +0200"
     },
     "done": true
   },
@@ -4203,6 +4341,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/redstonelamps": {
+    "criteria": {
+      "has_parent_recipe": "2024-04-23 00:55:41 +0200"
+    },
+    "done": false
+  },
   "aether_redux:recipes/transportation/blightwillow_boat": {
     "criteria": {
       "in_water": "2024-04-11 21:18:18 +0200"
@@ -4314,6 +4458,7 @@
       "old_growth_woodland": "2024-04-16 00:19:46 +0200",
       "maple_woods": "2024-04-22 16:41:30 +0200",
       "crystalline_chasm": "2024-04-22 17:25:39 +0200",
+      "withered_abyss": "2024-04-22 21:29:41 +0200",
       "field": "2024-04-11 21:35:45 +0200",
       "orchard": "2024-04-13 21:07:20 +0200",
       "lavender_forest": "2024-04-11 21:06:18 +0200",
@@ -4322,16 +4467,19 @@
       "coniferous_forest": "2024-04-11 21:36:41 +0200",
       "spider_nest": "2024-04-13 20:53:02 +0200",
       "forested_field": "2024-04-22 16:41:24 +0200",
+      "lush_desert": "2024-04-23 01:50:14 +0200",
       "redwood_forest": "2024-04-13 21:07:32 +0200",
       "cherry_blossom_grove": "2024-04-13 21:10:27 +0200",
       "visceral_heap": "2024-04-17 11:05:17 +0200",
       "seasonal_orchard": "2024-04-21 23:14:34 +0200",
+      "dune_beach": "2024-04-23 01:51:56 +0200",
       "highland_moor": "2024-04-20 03:06:33 +0200",
       "seasonal_forest": "2024-04-20 23:38:23 +0200",
       "lavender_field": "2024-04-16 00:48:13 +0200",
       "fir_clearing": "2024-04-20 02:05:20 +0200",
       "pumpkin_patch": "2024-04-20 23:37:40 +0200",
       "grassland": "2024-04-11 21:35:26 +0200",
+      "prairie": "2024-04-23 01:53:09 +0200",
       "snowy_fir_clearing": "2024-04-20 02:05:56 +0200",
       "snowy_coniferous_forest": "2024-04-20 23:57:39 +0200",
       "undergrowth": "2024-04-22 17:55:20 +0200"
@@ -4529,6 +4677,7 @@
       "minecraft:vindicator": "2024-04-20 01:14:23 +0200",
       "minecraft:magma_cube": "2024-04-17 12:01:45 +0200",
       "minecraft:spider": "2024-04-13 21:13:46 +0200",
+      "minecraft:piglin_brute": "2024-04-22 22:05:37 +0200",
       "minecraft:creeper": "2024-04-15 01:53:10 +0200",
       "quark:forgotten": "2024-04-16 22:57:08 +0200",
       "minecraft:phantom": "2024-04-11 21:23:55 +0200",
@@ -4642,6 +4791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-22 22:46:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-04-14 23:56:25 +0200"
@@ -4651,6 +4806,12 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting": {
     "criteria": {
       "has_item": "2024-04-19 18:30:03 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
     },
     "done": true
   },
@@ -5098,6 +5259,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-04-23 01:06:34 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-04-15 00:36:27 +0200"
@@ -5164,6 +5331,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_shard": "2024-04-22 22:01:13 +0200"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-04-22 00:29:39 +0200"
@@ -5208,7 +5381,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 17:59:25 +0200"
+      "log_spam_fixer": "2024-04-23 03:40:30 +0200"
     },
     "done": false
   },
@@ -5352,15 +5525,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-04-22 21:45:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2024-04-20 01:58:08 +0200"
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
+    },
+    "done": true
+  },
   "interiors:recipes/interiors/crafting/chair/light_blue_chair": {
     "criteria": {
       "has_seat": "2024-04-20 00:31:16 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
     },
     "done": true
   },
@@ -5457,6 +5648,12 @@
   "enigmaticlegacy:book/relics/void_stone": {
     "criteria": {
       "has_items": "2024-04-17 11:23:12 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
     },
     "done": true
   },
@@ -5586,6 +5783,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/nixie_tube": {
     "criteria": {
       "has_item": "2024-04-21 03:25:10 +0200"
@@ -5595,6 +5798,12 @@
   "create:recipes/create.palettes/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-04-15 00:35:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-04-22 22:46:46 +0200"
     },
     "done": true
   },
@@ -5649,6 +5858,12 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2024-04-20 01:58:08 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
     },
     "done": true
   },
@@ -5811,6 +6026,12 @@
   "farmersdelight:recipes/farmersdelight/safety_net": {
     "criteria": {
       "has_rope": "2024-04-18 23:28:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-22 22:46:46 +0200"
     },
     "done": true
   },
@@ -6066,6 +6287,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2024-04-23 02:08:52 +0200"
+    },
+    "done": true
+  },
   "aether:recipes/combat/old_netherite_gloves_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-04-17 12:59:47 +0200"
@@ -6198,6 +6425,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/veridium_castel_tile_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/spruce_barrel_from_vanilla_barrel": {
     "criteria": {
       "has_vanilla_barrel": "2024-04-20 21:41:07 +0200"
@@ -6212,7 +6445,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 17:59:25 +0200"
+      "log_spam_fixer": "2024-04-23 03:40:30 +0200"
     },
     "done": false
   },
@@ -6255,6 +6488,12 @@
   "qualitysdelight:recipes/qualitysdelight_respite_items/green_tea_cookie_gold": {
     "criteria": {
       "hasWheat": "2024-04-20 02:27:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/miners_delight/baked_tentacles_smoking": {
+    "criteria": {
+      "has_tentacles": "2024-04-23 00:25:46 +0200"
     },
     "done": true
   },
@@ -6468,6 +6707,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-04-17 23:37:33 +0200"
@@ -6480,11 +6725,23 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/scoria_castel_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/eldritch_amulet": {
     "criteria": {
       "is_the_cursed_one": "2024-04-17 00:23:06 +0200"
     },
     "done": false
+  },
+  "design_decor:recipes/design_decor/veridium_castel_tiles_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
+    },
+    "done": true
   },
   "interiors:recipes/interiors/crafting/chair/pink_chair_from_seat": {
     "criteria": {
@@ -6687,6 +6944,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-04-16 00:17:18 +0200"
@@ -6726,6 +6989,12 @@
   "miners_delight:recipes/miners_delight/improvised_barbecue_stick": {
     "criteria": {
       "has_cave_carrot": "2024-04-16 04:37:01 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/veridium_castel_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
     },
     "done": true
   },
@@ -6771,11 +7040,18 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/scoria_castel_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/shroomlamps": {
     "criteria": {
+      "has_parent_recipe": "2024-04-23 00:55:41 +0200",
       "has_core_block": "2024-04-17 12:33:15 +0200"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
@@ -6945,6 +7221,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-04-21 14:59:01 +0200"
@@ -7026,6 +7308,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-04-14 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-04-22 22:13:54 +0200"
     },
     "done": true
   },
@@ -7181,7 +7469,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 17:59:25 +0200"
+      "log_spam_fixer": "2024-04-23 03:40:30 +0200"
     },
     "done": false
   },
@@ -7229,7 +7517,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 17:59:25 +0200"
+      "log_spam_fixer": "2024-04-23 03:40:30 +0200"
     },
     "done": false
   },
@@ -7386,6 +7674,12 @@
   "design_decor:recipes/design_decor/dripstone_castel_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-04-18 03:03:05 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2024-04-23 02:08:52 +0200"
     },
     "done": true
   },
@@ -7755,6 +8049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/miners_delight/baked_tentacles": {
+    "criteria": {
+      "has_tentacles": "2024-04-23 00:25:46 +0200"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/tome_uncrafting/tattered_tome": {
     "criteria": {
       "has_items": "2024-04-14 22:07:35 +0200"
@@ -7782,6 +8082,12 @@
   "interiors:recipes/interiors/crafting/chair/pink_chair": {
     "criteria": {
       "has_seat": "2024-04-20 00:31:16 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/veridium_castel_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
     },
     "done": true
   },
@@ -7820,6 +8126,12 @@
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-04-17 23:29:12 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
     },
     "done": true
   },
@@ -7959,6 +8271,12 @@
   "create:recipes/create.palettes/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-04-15 00:16:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-04-22 22:46:46 +0200"
     },
     "done": true
   },
@@ -8132,6 +8450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-04-22 22:46:46 +0200"
+    },
+    "done": true
+  },
   "farmersrespite:recipes/farmersrespite/cooking/tea_curry": {
     "criteria": {
       "has_any_ingredient": "2024-04-18 23:29:08 +0200"
@@ -8201,6 +8525,12 @@
   "undead_unleashed:nerves_of_steel": {
     "criteria": {
       "nerves_of_steel": "2024-04-16 00:34:03 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/veridium_castel_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
     },
     "done": true
   },
@@ -8301,9 +8631,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/oak_trapdoor_from_oak_logs_sawing": {
     "criteria": {
       "has_oak_logs": "2024-04-11 21:26:39 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/scoria_castel_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
     },
     "done": true
   },
@@ -8340,6 +8682,12 @@
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-04-17 12:59:47 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
     },
     "done": true
   },
@@ -8547,6 +8895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-04-22 22:46:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-04-21 23:17:18 +0200"
@@ -8747,7 +9101,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 17:59:25 +0200"
+      "log_spam_fixer": "2024-04-23 03:40:30 +0200"
     },
     "done": false
   },
@@ -8772,6 +9126,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-04-14 22:16:17 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2024-04-22 21:58:55 +0200"
     },
     "done": true
   },
@@ -8838,6 +9198,12 @@
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2024-04-11 21:15:17 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
     },
     "done": true
   },
@@ -8979,6 +9345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-22 22:46:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2024-04-11 21:37:25 +0200"
@@ -9114,6 +9486,12 @@
   "woodworks:recipes/redstone/acacia_trapdoor_from_acacia_logs_sawing": {
     "criteria": {
       "has_acacia_logs": "2024-04-11 20:31:51 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
     },
     "done": true
   },
@@ -9339,6 +9717,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/stonecutting/concrete_chiseled": {
     "criteria": {
       "has_concrete": "2024-04-16 00:37:54 +0200"
@@ -9372,6 +9756,12 @@
   "enigmaticlegacy:book/brewing/recall_potion": {
     "criteria": {
       "has_items": "2024-04-17 10:27:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/qualitysdelight_nether_items/hoglin_sirloin_iron_from_smoking": {
+    "criteria": {
+      "has_hoglin_loin_iron": "2024-04-22 22:00:45 +0200"
     },
     "done": true
   },
@@ -9594,6 +9984,12 @@
   "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_planks": "2024-04-20 22:36:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/qualitysdelight_nether_items/hoglin_sirloin_iron_from_smelting": {
+    "criteria": {
+      "has_hoglin_loin_iron": "2024-04-22 22:00:45 +0200"
     },
     "done": true
   },
@@ -10049,7 +10445,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 17:59:25 +0200"
+      "log_spam_fixer": "2024-04-23 03:40:30 +0200"
     },
     "done": false
   },
@@ -10198,6 +10594,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/smooth_quartz_from_baking": {
+    "criteria": {
+      "has_quartz_block": "2024-04-22 22:46:46 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-04-16 00:17:18 +0200"
@@ -10316,6 +10718,12 @@
   "create:recipes/create.palettes/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2024-04-20 00:29:56 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
     },
     "done": true
   },
@@ -10613,6 +11021,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-04-23 02:16:48 +0200"
+    },
+    "done": true
+  },
   "toms_storage:unlock_dia_pearl": {
     "criteria": {
       "inv_changed-ender_pearl": "2024-04-11 20:29:54 +0200",
@@ -10623,6 +11037,12 @@
   "qualitycrops:recipes/food/cooked_porkchop_from_iron": {
     "criteria": {
       "ironQuality": "2024-04-13 21:31:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2024-04-22 22:06:02 +0200"
     },
     "done": true
   },
@@ -10674,6 +11094,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-04-22 22:46:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-04-13 21:17:33 +0200"
@@ -10722,6 +11148,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-04-23 00:26:43 +0200"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-04-11 20:29:50 +0200"
@@ -10761,6 +11193,12 @@
   "woodworks:recipes/redstone/spruce_trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-04-16 01:50:09 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
     },
     "done": true
   },
@@ -11118,6 +11556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-04-23 00:55:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-04-16 23:11:53 +0200"
@@ -11157,6 +11601,12 @@
   "woodworks:recipes/redstone/oak_button_from_oak_planks_sawing": {
     "criteria": {
       "has_oak_planks": "2024-04-14 22:38:18 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
     },
     "done": true
   },
@@ -11248,6 +11698,12 @@
   "interiors:recipes/interiors/crafting/floor_chair/red_floor_chair": {
     "criteria": {
       "has_seat": "2024-04-20 00:31:16 +0200"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/shroomlamp": {
+    "criteria": {
+      "has_the_recipe": "2024-04-23 00:55:41 +0200"
     },
     "done": true
   },
@@ -11485,9 +11941,21 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/silt_from_silt_balls": {
+    "criteria": {
+      "has_item": "2024-04-22 21:58:14 +0200"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2024-04-13 21:40:58 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-04-23 02:37:15 +0200"
     },
     "done": true
   },
@@ -11530,6 +11998,12 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting": {
     "criteria": {
       "has_item": "2024-04-19 17:39:43 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
     },
     "done": true
   },
@@ -11650,6 +12124,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-04-17 12:19:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-22 22:46:46 +0200"
     },
     "done": true
   },
@@ -12073,6 +12553,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/silt_brick": {
+    "criteria": {
+      "has_item": "2024-04-22 21:58:14 +0200"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/acacia_stairs_from_acacia_logs_sawing": {
     "criteria": {
       "has_acacia_logs": "2024-04-11 20:31:51 +0200"
@@ -12235,6 +12721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-04-22 22:46:46 +0200"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/nethersdelight/hoglin_sirloin_from_campfire_cooking": {
     "criteria": {
       "hoglin_sirloin": "2024-04-18 00:03:19 +0200"
@@ -12250,6 +12742,12 @@
   "qualitysdelight:recipes/qualitysdelight_items/melon_popsicle_diamond": {
     "criteria": {
       "hasStick": "2024-04-11 21:37:27 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
     },
     "done": true
   },
@@ -12322,6 +12820,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/jungle_limited_barrel_3": {
     "criteria": {
       "has_jungle_plank": "2024-04-21 13:10:16 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/veridium_castel_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
     },
     "done": true
   },
@@ -12460,6 +12964,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-04-18 23:58:27 +0200",
+      "minecraft:deep_ocean": "2024-04-23 01:51:20 +0200",
       "minecraft:frozen_river": "2024-04-20 02:28:20 +0200",
       "minecraft:birch_forest": "2024-04-13 21:10:53 +0200",
       "minecraft:windswept_hills": "2024-04-20 02:04:43 +0200",
@@ -12467,6 +12972,7 @@
       "minecraft:dark_forest": "2024-04-18 02:39:53 +0200",
       "minecraft:mangrove_swamp": "2024-04-13 21:20:39 +0200",
       "minecraft:river": "2024-04-11 21:18:18 +0200",
+      "minecraft:lukewarm_ocean": "2024-04-22 22:50:04 +0200",
       "minecraft:snowy_plains": "2024-04-20 23:38:24 +0200",
       "minecraft:stony_shore": "2024-04-22 16:41:21 +0200",
       "minecraft:dripstone_caves": "2024-04-18 02:09:15 +0200",
@@ -12476,8 +12982,13 @@
       "minecraft:lush_caves": "2024-04-18 02:50:52 +0200",
       "minecraft:deep_cold_ocean": "2024-04-21 23:13:50 +0200",
       "minecraft:frozen_ocean": "2024-04-20 02:32:09 +0200",
+      "minecraft:desert": "2024-04-23 01:49:03 +0200",
       "minecraft:deep_frozen_ocean": "2024-04-20 02:37:37 +0200",
+      "minecraft:ocean": "2024-04-23 01:51:46 +0200",
       "minecraft:snowy_beach": "2024-04-20 02:34:00 +0200",
+      "minecraft:windswept_savanna": "2024-04-23 01:47:49 +0200",
+      "minecraft:warm_ocean": "2024-04-23 01:48:05 +0200",
+      "minecraft:deep_lukewarm_ocean": "2024-04-23 01:47:58 +0200",
       "minecraft:old_growth_birch_forest": "2024-04-13 21:11:13 +0200",
       "minecraft:deep_dark": "2024-04-18 02:20:29 +0200",
       "minecraft:meadow": "2024-04-18 02:08:46 +0200",
@@ -12560,7 +13071,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 17:59:25 +0200"
+      "log_spam_fixer": "2024-04-23 03:40:30 +0200"
     },
     "done": false
   },
@@ -12570,9 +13081,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2024-04-23 00:30:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-04-11 21:31:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-04-22 22:04:56 +0200"
     },
     "done": true
   },
@@ -12840,6 +13363,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2024-04-16 00:52:12 +0200"
@@ -12870,6 +13399,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/quartz_column_stonecutting": {
+    "criteria": {
+      "has_item": "2024-04-22 22:46:46 +0200"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/andesite_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2024-04-11 21:57:31 +0200"
@@ -12884,7 +13419,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 17:59:25 +0200"
+      "log_spam_fixer": "2024-04-23 03:40:30 +0200"
     },
     "done": false
   },
@@ -13265,6 +13800,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
     "criteria": {
       "has_ginger": "2024-04-13 20:44:00 +0200"
@@ -13373,6 +13914,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_white_dye": "2024-04-16 00:52:12 +0200"
@@ -13424,6 +13971,18 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-04-14 23:58:11 +0200"
+    },
+    "done": true
+  },
+  "cold_sweat:survival_tactics": {
+    "criteria": {
+      "freezing_on_fire": "2024-04-22 22:58:28 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2024-04-22 22:12:05 +0200"
     },
     "done": true
   },
@@ -13502,6 +14061,12 @@
   "farmersrespite:recipes/farmersrespite/nether_wart_sourdough": {
     "criteria": {
       "has_wart": "2024-04-17 11:23:18 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
     },
     "done": true
   },
@@ -13727,6 +14292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/miners_delight/baked_tentacles_campfire": {
+    "criteria": {
+      "has_tentacles": "2024-04-23 00:25:46 +0200"
+    },
+    "done": true
+  },
   "delightful:recipes/melon_slice": {
     "criteria": {
       "has_mini_melon": "2024-04-13 20:50:43 +0200"
@@ -13767,6 +14338,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/printer": {
     "criteria": {
       "has_computer": "2024-04-20 20:17:17 +0200"
@@ -13794,6 +14371,12 @@
   "create:recipes/create.base/crafting/kinetics/propeller": {
     "criteria": {
       "has_item": "2024-04-16 02:02:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
     },
     "done": true
   },
@@ -13949,6 +14532,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/scoria_castel_tiles_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
+    },
+    "done": true
+  },
   "qualitysdelight:recipes/qualitysdelight_items/stuffed_potato_iron": {
     "criteria": {
       "hasMilk": "2024-04-19 19:33:17 +0200"
@@ -13970,6 +14559,12 @@
   "create:recipes/create.base/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2024-04-16 02:02:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/qualitysdelight_nether_items/hoglin_sirloin_iron_from_campfire_cooking": {
+    "criteria": {
+      "has_hoglin_loin_iron": "2024-04-22 22:00:45 +0200"
     },
     "done": true
   },
@@ -14018,6 +14613,12 @@
   "create:recipes/create.palettes/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-04-16 00:17:41 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
     },
     "done": true
   },
@@ -14316,6 +14917,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-04-18 02:13:50 +0200"
@@ -14403,6 +15010,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-04-13 21:16:47 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/scoria_castel_tile_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-04-22 21:58:55 +0200"
     },
     "done": true
   },
@@ -14534,6 +15147,12 @@
   "aether:recipes/misc/book_of_lore": {
     "criteria": {
       "has_book": "2024-04-14 22:21:42 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-04-23 02:29:15 +0200"
     },
     "done": true
   },

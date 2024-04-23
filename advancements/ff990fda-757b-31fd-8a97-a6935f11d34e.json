@@ -793,7 +793,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 18:01:32 +0200"
+      "log_spam_fixer": "2024-04-23 03:55:30 +0200"
     },
     "done": false
   },
@@ -1249,7 +1249,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 18:01:32 +0200"
+      "log_spam_fixer": "2024-04-23 03:55:30 +0200"
     },
     "done": false
   },
@@ -1361,6 +1361,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:50 +0200"
@@ -1370,6 +1376,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/asurine_castel_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
@@ -1562,6 +1574,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:49 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
@@ -2018,6 +2036,12 @@
     },
     "done": false
   },
+  "cccbridge:place_animatronic": {
+    "criteria": {
+      "placed_animatronic": "2024-04-22 21:58:07 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:49 +0200"
@@ -2225,6 +2249,12 @@
   "ad_astra:venus": {
     "criteria": {
       "venus": "2024-04-15 03:55:22 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
@@ -2529,6 +2559,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:51 +0200"
@@ -2580,6 +2616,12 @@
   "woodworks:recipes/redstone/jungle_fence_gate_from_jungle_logs_sawing": {
     "criteria": {
       "has_jungle_logs": "2024-04-07 22:45:52 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2024-04-23 01:49:07 +0200"
     },
     "done": true
   },
@@ -3179,7 +3221,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 18:01:32 +0200"
+      "log_spam_fixer": "2024-04-23 03:55:30 +0200"
     },
     "done": false
   },
@@ -4164,7 +4206,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 18:01:32 +0200"
+      "log_spam_fixer": "2024-04-23 03:55:30 +0200"
     },
     "done": false
   },
@@ -5074,6 +5116,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/acacia_ladder_from_acacia_logs_sawing": {
     "criteria": {
       "has_acacia_logs": "2024-04-06 01:54:57 +0200"
@@ -5248,6 +5296,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/asurine_castel_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
@@ -5277,6 +5331,7 @@
       "minecraft:pillager": "2024-04-06 04:43:19 +0200",
       "minecraft:blaze": "2024-04-16 22:20:05 +0200",
       "minecraft:skeleton": "2024-04-06 03:11:45 +0200",
+      "minecraft:ravager": "2024-04-23 02:00:57 +0200",
       "minecraft:ghast": "2024-04-16 22:26:21 +0200",
       "minecraft:vindicator": "2024-04-06 06:12:17 +0200",
       "minecraft:magma_cube": "2024-04-16 22:27:47 +0200",
@@ -5450,6 +5505,12 @@
   "create:recipes/create.palettes/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-04-18 03:42:53 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
@@ -6157,7 +6218,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 18:01:32 +0200"
+      "log_spam_fixer": "2024-04-23 03:55:30 +0200"
     },
     "done": false
   },
@@ -6401,6 +6462,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2024-04-23 02:39:48 +0200"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/void_stone": {
     "criteria": {
       "has_items": "2024-04-16 22:22:18 +0200"
@@ -6422,6 +6489,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/stairs_steel_scaffolding_standard": {
     "criteria": {
       "has_steel_scaffolding_standard": "2024-04-13 02:16:01 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/asurine_castel_tile_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
@@ -7067,6 +7140,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/asurine_castel_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_chestplate_repairing": {
     "criteria": {
       "has_golden_chestplate": "2024-04-16 22:14:16 +0200"
@@ -7279,7 +7358,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 18:01:32 +0200"
+      "log_spam_fixer": "2024-04-23 03:55:30 +0200"
     },
     "done": false
   },
@@ -7739,6 +7818,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2024-04-23 01:40:38 +0200"
+    },
+    "done": true
+  },
   "qualitysdelight:recipes/qualitysdelight_items/barbecue_stick_diamond": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
@@ -8004,6 +8089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-04-23 02:19:03 +0200"
+    },
+    "done": true
+  },
   "aether:recipes/combat/skyroot_sword": {
     "criteria": {
       "has_planks": "2024-04-16 01:57:29 +0200"
@@ -8067,6 +8158,12 @@
   "create:recipes/create.palettes/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-04-13 01:09:21 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
@@ -8366,7 +8463,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 18:01:32 +0200"
+      "log_spam_fixer": "2024-04-23 03:55:30 +0200"
     },
     "done": false
   },
@@ -8414,7 +8511,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 18:01:32 +0200"
+      "log_spam_fixer": "2024-04-23 03:55:30 +0200"
     },
     "done": false
   },
@@ -8637,6 +8734,12 @@
   "aether:the_aether": {
     "criteria": {
       "the_aether": "2024-04-16 01:38:02 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
@@ -8919,6 +9022,12 @@
   "create:recipes/create.palettes/cut_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-04-18 03:37:33 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
@@ -10154,6 +10263,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/asurine_castel_tile_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/miners_delight/smoked_bat_wing": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
@@ -10216,7 +10331,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 18:01:32 +0200"
+      "log_spam_fixer": "2024-04-23 03:55:30 +0200"
     },
     "done": false
   },
@@ -10736,6 +10851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-04-23 02:19:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-04-07 05:59:30 +0200"
@@ -11109,6 +11230,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_chest": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
@@ -11358,6 +11485,12 @@
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2024-04-11 03:00:50 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
@@ -11711,7 +11844,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 18:01:32 +0200"
+      "log_spam_fixer": "2024-04-23 03:55:30 +0200"
     },
     "done": false
   },
@@ -11742,6 +11875,18 @@
   "delightful:recipes/torch_from_animal_oil_bottle": {
     "criteria": {
       "has_oil_bottle": "2024-04-17 23:04:13 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2024-04-23 03:35:34 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
@@ -12133,6 +12278,12 @@
   "design_decor:recipes/design_decor/andesite_castel_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
@@ -12629,6 +12780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-04-23 02:19:03 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/clutch": {
     "criteria": {
       "has_item": "2024-04-06 02:26:02 +0200"
@@ -12674,6 +12831,12 @@
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
@@ -12812,6 +12975,12 @@
   "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
     "criteria": {
       "has_planks": "2024-04-06 22:10:28 +0200"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/asurine_castel_tiles_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
@@ -13058,6 +13227,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/obsidian_skull": {
     "criteria": {
       "has_item": "2024-04-06 22:43:26 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/asurine_pillar_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
@@ -13313,6 +13488,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-04-23 02:58:34 +0200"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/dripstone_castel_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-04-13 01:09:21 +0200"
@@ -13493,6 +13674,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/asurine_castel_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-04-11 02:50:46 +0200"
@@ -13647,6 +13834,12 @@
   "twigs:recipes/basalt_blocks/smooth_basalt_brick_stairs_from_smooth_basalt_stonecutting": {
     "criteria": {
       "has_item": "2024-04-18 02:54:46 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
@@ -14423,6 +14616,7 @@
       "minecraft:old_growth_pine_taiga": "2024-04-06 05:09:31 +0200",
       "minecraft:taiga": "2024-04-06 05:08:42 +0200",
       "atmospheric:rainforest_basin": "2024-04-06 06:00:27 +0200",
+      "minecraft:deep_ocean": "2024-04-23 01:51:12 +0200",
       "atmospheric:rainforest": "2024-04-06 05:59:57 +0200",
       "minecraft:frozen_river": "2024-04-08 06:19:19 +0200",
       "minecraft:birch_forest": "2024-04-06 04:42:53 +0200",
@@ -14451,6 +14645,7 @@
       "minecraft:old_growth_spruce_taiga": "2024-04-18 01:40:57 +0200",
       "minecraft:snowy_beach": "2024-04-14 21:56:06 +0200",
       "minecraft:windswept_savanna": "2024-04-06 06:08:02 +0200",
+      "minecraft:warm_ocean": "2024-04-23 01:48:00 +0200",
       "minecraft:deep_lukewarm_ocean": "2024-04-08 05:18:31 +0200",
       "atmospheric:sparse_rainforest": "2024-04-06 05:58:26 +0200",
       "minecraft:old_growth_birch_forest": "2024-04-06 04:45:57 +0200",
@@ -14530,7 +14725,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 18:01:32 +0200"
+      "log_spam_fixer": "2024-04-23 03:55:30 +0200"
     },
     "done": false
   },
@@ -14585,6 +14780,12 @@
   "biomesoplenty:recipes/willow_chest_boat": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-04-23 02:19:03 +0200"
     },
     "done": true
   },
@@ -14645,6 +14846,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2024-04-10 22:15:43 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
@@ -14908,7 +15115,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-04-22 18:01:32 +0200"
+      "log_spam_fixer": "2024-04-23 03:55:30 +0200"
     },
     "done": false
   },
@@ -15496,6 +15703,12 @@
     },
     "done": true
   },
+  "design_decor:recipes/design_decor/asurine_castel_tile_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
@@ -15535,6 +15748,12 @@
   "qualitysdelight:recipes/qualitysdelight_items/roasted_mutton_chops_gold": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:49 +0200"
+    },
+    "done": true
+  },
+  "cold_sweat:survival_tactics": {
+    "criteria": {
+      "freezing_on_fire": "2024-04-22 22:35:28 +0200"
     },
     "done": true
   },
@@ -15799,6 +16018,12 @@
   "farmersdelight:recipes/farmersdelight/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2024-04-06 05:29:40 +0200"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/unripe_flaxen_cheese_wheel": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-23 02:14:33 +0200"
     },
     "done": true
   },
@@ -16299,6 +16524,12 @@
   "handcrafted:recipes/misc/phantom_trophy": {
     "criteria": {
       "has_phantom_membrane": "2024-04-07 21:42:06 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
@@ -17004,6 +17235,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:51 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2024-04-23 01:55:28 +0200"
     },
     "done": true
   },
