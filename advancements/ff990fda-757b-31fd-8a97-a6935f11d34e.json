@@ -805,7 +805,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 20:29:09 +0200"
+      "log_spam_fixer": "2024-04-25 01:26:34 +0200"
     },
     "done": false
   },
@@ -1273,7 +1273,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 20:29:09 +0200"
+      "log_spam_fixer": "2024-04-25 01:26:34 +0200"
     },
     "done": false
   },
@@ -3263,7 +3263,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 20:29:09 +0200"
+      "log_spam_fixer": "2024-04-25 01:26:34 +0200"
     },
     "done": false
   },
@@ -4083,6 +4083,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2024-04-25 01:26:59 +0200"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/insignia": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
@@ -4255,9 +4261,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 20:29:09 +0200"
+      "requirement": "2024-04-25 01:26:36 +0200",
+      "log_spam_fixer": "2024-04-25 01:26:34 +0200"
     },
-    "done": false
+    "done": true
   },
   "woodworks:recipes/redstone/dark_oak_fence_gate_from_dark_oak_logs_sawing": {
     "criteria": {
@@ -5226,6 +5233,12 @@
     },
     "done": true
   },
+  "aether_redux:recipes/decorations/enchant_crystal_sapling": {
+    "criteria": {
+      "has_crystal_sapling": "2024-04-24 21:01:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-04-06 01:57:16 +0200"
@@ -5991,6 +6004,12 @@
     },
     "done": true
   },
+  "aether_redux:recipes/building_blocks/crystal_wood": {
+    "criteria": {
+      "has_log": "2024-04-24 21:00:14 +0200"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/assault_rifle": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:48 +0200"
@@ -6299,7 +6318,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 20:29:09 +0200"
+      "log_spam_fixer": "2024-04-25 01:26:34 +0200"
     },
     "done": false
   },
@@ -7457,7 +7476,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 20:29:09 +0200"
+      "log_spam_fixer": "2024-04-25 01:26:34 +0200"
     },
     "done": false
   },
@@ -8574,7 +8593,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 20:29:09 +0200"
+      "log_spam_fixer": "2024-04-25 01:26:34 +0200"
     },
     "done": false
   },
@@ -8622,7 +8641,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 20:29:09 +0200"
+      "log_spam_fixer": "2024-04-25 01:26:34 +0200"
     },
     "done": false
   },
@@ -10260,6 +10279,12 @@
     },
     "done": true
   },
+  "aether_redux:recipes/building_blocks/fieldsproot_planks": {
+    "criteria": {
+      "has_log": "2024-04-24 20:55:57 +0200"
+    },
+    "done": true
+  },
   "undead_unleashed:boo": {
     "criteria": {
       "boo": "2024-04-06 06:39:42 +0200"
@@ -10472,7 +10497,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 20:29:09 +0200"
+      "log_spam_fixer": "2024-04-25 01:26:34 +0200"
     },
     "done": false
   },
@@ -12021,7 +12046,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 20:29:09 +0200"
+      "log_spam_fixer": "2024-04-25 01:26:34 +0200"
     },
     "done": false
   },
@@ -14986,7 +15011,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 20:29:09 +0200"
+      "log_spam_fixer": "2024-04-25 01:26:34 +0200"
     },
     "done": false
   },
@@ -15376,7 +15401,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 20:29:09 +0200"
+      "log_spam_fixer": "2024-04-25 01:26:34 +0200"
     },
     "done": false
   },
@@ -16318,6 +16343,12 @@
     },
     "done": true
   },
+  "aether_redux:recipes/building_blocks/fieldsproot_wood": {
+    "criteria": {
+      "has_log": "2024-04-24 20:55:57 +0200"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/warped_pressure_plate_from_warped_stems_sawing": {
     "criteria": {
       "has_warped_stems": "2024-04-13 22:22:02 +0200"
@@ -16809,6 +16840,12 @@
   "create:recipes/create.palettes/oxidized_copper_shingle_slab_from_oxidized_copper_shingles_stonecutting": {
     "criteria": {
       "has_oxidized_copper_shingles": "2024-04-06 05:29:41 +0200"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/building_blocks/crystal_planks": {
+    "criteria": {
+      "has_log": "2024-04-24 21:00:14 +0200"
     },
     "done": true
   },
