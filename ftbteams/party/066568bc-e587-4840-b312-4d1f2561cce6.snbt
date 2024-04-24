@@ -8,9 +8,9 @@
 	properties: {
 		"ftbteams:display_name": "ABD_PU's Party"
 		"ftbteams:description": ""
-		"ftbteams:color": "#8D59FF"
-		"ftbteams:free_to_join": 0b
-		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:color": "#78FF59"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 20
 	}
 	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1712510514112L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ABD_PU\"}]}" }]
 	extra: { }
