@@ -293,9 +293,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/cherry_log": {
+    "criteria": {
+      "has_log": "2024-04-24 17:56:23 +0300"
+    },
+    "done": true
+  },
   "interiors:recipes/interiors/crafting/floor_chair/pink_floor_chair_from_seat": {
     "criteria": {
       "has_seat": "2024-04-20 01:31:16 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/qualitycrops_items/cooked_mutton_iron_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton_iron": "2024-04-24 17:44:40 +0300"
     },
     "done": true
   },
@@ -464,6 +476,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2024-04-15 01:48:53 +0300"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_cushion": "2024-04-24 17:44:40 +0300"
     },
     "done": true
   },
@@ -699,7 +717,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 17:07:17 +0300"
+      "log_spam_fixer": "2024-04-24 18:59:35 +0300"
     },
     "done": false
   },
@@ -754,6 +772,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2024-04-11 22:15:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-04-24 17:44:40 +0300"
     },
     "done": true
   },
@@ -1083,7 +1107,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 17:07:17 +0300"
+      "log_spam_fixer": "2024-04-24 18:59:35 +0300"
     },
     "done": false
   },
@@ -2892,7 +2916,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 17:07:17 +0300"
+      "log_spam_fixer": "2024-04-24 18:59:35 +0300"
     },
     "done": false
   },
@@ -3163,6 +3187,12 @@
   "create:recipes/create.palettes/veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-04-23 03:29:15 +0300"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/food/mutton_from_iron": {
+    "criteria": {
+      "ironQuality": "2024-04-24 17:44:40 +0300"
     },
     "done": true
   },
@@ -3720,7 +3750,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 17:07:17 +0300"
+      "log_spam_fixer": "2024-04-24 18:59:35 +0300"
     },
     "done": false
   },
@@ -4242,6 +4272,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_sheet": "2024-04-24 17:44:40 +0300"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/misc/twisted_mirror": {
     "criteria": {
       "has_the_recipe": "2024-04-19 01:23:41 +0300"
@@ -4311,6 +4347,12 @@
   "twigs:recipes/schist/schist": {
     "criteria": {
       "has_item": "2024-04-21 01:26:02 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/qualitycrops_items/cooked_mutton_iron_from_smoking": {
+    "criteria": {
+      "has_mutton_iron": "2024-04-24 17:44:40 +0300"
     },
     "done": true
   },
@@ -4597,6 +4639,7 @@
       "bayou": "2024-04-13 22:19:03 +0300",
       "erupting_inferno": "2024-04-18 01:13:45 +0300",
       "highland": "2024-04-13 22:08:38 +0300",
+      "jade_cliffs": "2024-04-24 17:48:20 +0300",
       "wetland": "2024-04-20 03:18:44 +0300",
       "cold_desert": "2024-04-20 03:05:33 +0300",
       "old_growth_woodland": "2024-04-16 01:19:46 +0300",
@@ -4842,6 +4885,7 @@
       "minecraft:vex": "2024-04-22 18:28:44 +0300",
       "minecraft:zombie": "2024-04-11 22:08:19 +0300",
       "quark:foxhound": "2024-04-18 01:09:59 +0300",
+      "minecraft:drowned": "2024-04-24 17:22:36 +0300",
       "minecraft:zombie_villager": "2024-04-17 01:06:58 +0300"
     },
     "done": false
@@ -5580,7 +5624,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 17:07:17 +0300"
+      "log_spam_fixer": "2024-04-24 18:59:35 +0300"
     },
     "done": false
   },
@@ -6444,6 +6488,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2024-04-24 17:43:31 +0300"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_4": {
     "criteria": {
       "has_birch_plank": "2024-04-22 00:17:21 +0300"
@@ -6704,7 +6754,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 17:07:17 +0300"
+      "log_spam_fixer": "2024-04-24 18:59:35 +0300"
     },
     "done": false
   },
@@ -7770,7 +7820,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 17:07:17 +0300"
+      "log_spam_fixer": "2024-04-24 18:59:35 +0300"
     },
     "done": false
   },
@@ -7818,7 +7868,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 17:07:17 +0300"
+      "log_spam_fixer": "2024-04-24 18:59:35 +0300"
     },
     "done": false
   },
@@ -9124,6 +9174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-04-24 17:44:40 +0300"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/birch_ladder": {
     "criteria": {
       "has_stick": "2024-04-11 22:37:27 +0300"
@@ -9528,7 +9584,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 17:07:17 +0300"
+      "log_spam_fixer": "2024-04-24 18:59:35 +0300"
     },
     "done": false
   },
@@ -9934,9 +9990,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-04-24 17:44:40 +0300"
+    },
+    "done": true
+  },
   "tetra:spelunking/ancient_ruins": {
     "criteria": {
       "extractor_ruin": "2024-04-23 23:21:36 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2024-04-24 17:59:14 +0300"
     },
     "done": true
   },
@@ -10956,7 +11024,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 17:07:17 +0300"
+      "log_spam_fixer": "2024-04-24 18:59:35 +0300"
     },
     "done": false
   },
@@ -11854,6 +11922,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2024-04-17 01:23:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-04-24 17:44:40 +0300"
     },
     "done": true
   },
@@ -13076,6 +13150,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-04-24 17:56:23 +0300"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/rs_engineering": {
     "criteria": {
       "has_redstone": "2024-04-15 02:18:33 +0300"
@@ -13085,6 +13165,12 @@
   "qualitysdelight:recipes/qualitysdelight_items/sweet_berry_cookie_gold": {
     "criteria": {
       "hasSweet": "2024-04-13 21:44:00 +0300"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/cherrywood_planks_from_thin_cherrywood_log": {
+    "criteria": {
+      "has_item": "2024-04-24 17:56:23 +0300"
     },
     "done": true
   },
@@ -13265,6 +13351,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-04-15 00:58:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-04-24 17:44:40 +0300"
     },
     "done": true
   },
@@ -13514,6 +13606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/qualitycrops_items/cooked_mutton_iron_from_smelting": {
+    "criteria": {
+      "has_mutton_iron": "2024-04-24 17:44:40 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2024-04-17 12:22:23 +0300"
@@ -13594,15 +13692,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-04-24 17:42:04 +0300",
       "minecraft:old_growth_pine_taiga": "2024-04-19 00:58:27 +0300",
       "minecraft:deep_ocean": "2024-04-23 02:51:20 +0300",
       "atmospheric:rainforest_basin": "2024-04-24 17:02:06 +0300",
       "minecraft:frozen_river": "2024-04-20 03:28:20 +0300",
+      "minecraft:sunflower_plains": "2024-04-24 17:45:11 +0300",
       "minecraft:birch_forest": "2024-04-13 22:10:53 +0300",
       "minecraft:windswept_hills": "2024-04-20 03:04:43 +0300",
       "minecraft:beach": "2024-04-13 22:26:55 +0300",
       "minecraft:dark_forest": "2024-04-18 03:39:53 +0300",
       "minecraft:mangrove_swamp": "2024-04-13 22:20:39 +0300",
+      "minecraft:sparse_jungle": "2024-04-24 17:38:36 +0300",
       "minecraft:river": "2024-04-11 22:18:18 +0300",
       "minecraft:lukewarm_ocean": "2024-04-22 23:50:04 +0300",
       "minecraft:snowy_plains": "2024-04-21 00:38:24 +0300",
@@ -13622,6 +13723,7 @@
       "minecraft:warm_ocean": "2024-04-23 02:48:05 +0300",
       "minecraft:deep_lukewarm_ocean": "2024-04-23 02:47:58 +0300",
       "atmospheric:sparse_rainforest": "2024-04-24 17:02:22 +0300",
+      "minecraft:frozen_peaks": "2024-04-24 17:48:52 +0300",
       "minecraft:old_growth_birch_forest": "2024-04-13 22:11:13 +0300",
       "minecraft:deep_dark": "2024-04-18 03:20:29 +0300",
       "minecraft:meadow": "2024-04-18 03:08:46 +0300",
@@ -13663,6 +13765,12 @@
   "twigs:recipes/lamps/crimson_shroomlamp": {
     "criteria": {
       "has_item": "2024-04-17 13:33:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-04-24 17:44:40 +0300"
     },
     "done": true
   },
@@ -13710,7 +13818,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 17:07:17 +0300"
+      "log_spam_fixer": "2024-04-24 18:59:35 +0300"
     },
     "done": false
   },
@@ -14076,7 +14184,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-04-24 17:07:17 +0300"
+      "log_spam_fixer": "2024-04-24 18:59:35 +0300"
     },
     "done": false
   },
@@ -14151,6 +14259,12 @@
       "has_white_wool": "2024-04-20 01:29:56 +0300"
     },
     "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2024-04-24 18:01:51 +0300"
+    },
+    "done": false
   },
   "qualitycrops:recipes/qualitycrops_quality_items/porkchop_gold_from_porkchop_diamond": {
     "criteria": {
@@ -15184,6 +15298,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-04-13 22:10:36 +0300"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-24 17:44:40 +0300"
     },
     "done": true
   },
