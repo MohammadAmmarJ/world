@@ -801,7 +801,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-26 08:29:52 +0300"
+      "log_spam_fixer": "2024-04-27 22:47:46 +0300"
     },
     "done": false
   },
@@ -1215,7 +1215,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-26 08:29:52 +0300"
+      "log_spam_fixer": "2024-04-27 22:47:46 +0300"
     },
     "done": false
   },
@@ -3234,7 +3234,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-26 08:29:52 +0300"
+      "log_spam_fixer": "2024-04-27 22:47:46 +0300"
     },
     "done": false
   },
@@ -3307,6 +3307,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-04-26 02:24:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-04-27 22:46:34 +0300"
     },
     "done": true
   },
@@ -4212,7 +4218,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-04-26 08:29:52 +0300"
+      "log_spam_fixer": "2024-04-27 22:47:46 +0300"
     },
     "done": false
   },
@@ -6281,7 +6287,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-26 08:29:52 +0300"
+      "log_spam_fixer": "2024-04-27 22:47:46 +0300"
     },
     "done": false
   },
@@ -7519,7 +7525,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-26 08:29:52 +0300"
+      "log_spam_fixer": "2024-04-27 22:47:46 +0300"
     },
     "done": false
   },
@@ -8675,7 +8681,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-26 08:29:52 +0300"
+      "log_spam_fixer": "2024-04-27 22:47:46 +0300"
     },
     "done": false
   },
@@ -8723,7 +8729,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-04-26 08:29:52 +0300"
+      "log_spam_fixer": "2024-04-27 22:47:46 +0300"
     },
     "done": false
   },
@@ -9830,6 +9836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-04-27 22:46:39 +0300"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/tactical_stock": {
     "criteria": {
       "has_iron_ingot": "2024-04-13 22:16:47 +0300"
@@ -10607,7 +10619,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-04-26 08:29:52 +0300"
+      "log_spam_fixer": "2024-04-27 22:47:46 +0300"
     },
     "done": false
   },
@@ -12233,7 +12245,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-04-26 08:29:52 +0300"
+      "log_spam_fixer": "2024-04-27 22:47:46 +0300"
     },
     "done": false
   },
@@ -15276,7 +15288,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-26 08:29:52 +0300"
+      "log_spam_fixer": "2024-04-27 22:47:46 +0300"
     },
     "done": false
   },
@@ -15672,7 +15684,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-04-26 08:29:52 +0300"
+      "log_spam_fixer": "2024-04-27 22:47:46 +0300"
     },
     "done": false
   },
