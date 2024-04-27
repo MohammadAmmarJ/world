@@ -2,62 +2,6 @@
   {
     "dimension": {
       "f_135804_": "minecraft",
-      "f_135805_": "the_nether"
-    },
-    "id": "36b83351-5774-4016-81e2-9238d39a8db8",
-    "ownerID": "16a9df5c-c831-3061-8d04-571502c8395f",
-    "pos": {
-      "f_123285_": -1175,
-      "f_123286_": 12,
-      "f_123289_": 431
-    },
-    "type": 1
-  },
-  {
-    "dimension": {
-      "f_135804_": "minecraft",
-      "f_135805_": "overworld"
-    },
-    "id": "b55d220a-af40-4042-8534-ea0bd02215bb",
-    "ownerID": "78db9eaa-b18b-3fd2-8f5c-bc5c4781328e",
-    "pos": {
-      "f_123285_": -363,
-      "f_123286_": 79,
-      "f_123289_": 186
-    },
-    "type": 0
-  },
-  {
-    "dimension": {
-      "f_135804_": "minecraft",
-      "f_135805_": "overworld"
-    },
-    "id": "05ae0729-d6cd-4a90-976d-44f998473c59",
-    "ownerID": "78db9eaa-b18b-3fd2-8f5c-bc5c4781328e",
-    "pos": {
-      "f_123285_": -367,
-      "f_123286_": 47,
-      "f_123289_": 316
-    },
-    "type": 0
-  },
-  {
-    "dimension": {
-      "f_135804_": "minecraft",
-      "f_135805_": "overworld"
-    },
-    "id": "9f6d2142-fbf7-4800-9d6b-9f2caf506df9",
-    "ownerID": "78db9eaa-b18b-3fd2-8f5c-bc5c4781328e",
-    "pos": {
-      "f_123285_": -373,
-      "f_123286_": 67,
-      "f_123289_": 293
-    },
-    "type": 0
-  },
-  {
-    "dimension": {
-      "f_135804_": "minecraft",
       "f_135805_": "overworld"
     },
     "id": "df49299b-5df2-4442-bf1b-f7fb681eece5",
@@ -74,62 +18,6 @@
       "f_135804_": "minecraft",
       "f_135805_": "overworld"
     },
-    "id": "a9bcac45-80ab-4c37-97fb-679d189b990b",
-    "ownerID": "78db9eaa-b18b-3fd2-8f5c-bc5c4781328e",
-    "pos": {
-      "f_123285_": -395,
-      "f_123286_": 66,
-      "f_123289_": 286
-    },
-    "type": 0
-  },
-  {
-    "dimension": {
-      "f_135804_": "minecraft",
-      "f_135805_": "overworld"
-    },
-    "id": "b1216241-60bf-45fd-896b-4dbe0a32f5dd",
-    "ownerID": "78db9eaa-b18b-3fd2-8f5c-bc5c4781328e",
-    "pos": {
-      "f_123285_": -402,
-      "f_123286_": 68,
-      "f_123289_": 252
-    },
-    "type": 0
-  },
-  {
-    "dimension": {
-      "f_135804_": "minecraft",
-      "f_135805_": "overworld"
-    },
-    "id": "89bef1b6-69d0-4a59-b5fd-fbae4143d34c",
-    "ownerID": "78db9eaa-b18b-3fd2-8f5c-bc5c4781328e",
-    "pos": {
-      "f_123285_": -330,
-      "f_123286_": 68,
-      "f_123289_": 259
-    },
-    "type": 0
-  },
-  {
-    "dimension": {
-      "f_135804_": "minecraft",
-      "f_135805_": "overworld"
-    },
-    "id": "72eeecc3-e71c-4d84-938d-1e48c333ce1a",
-    "ownerID": "78db9eaa-b18b-3fd2-8f5c-bc5c4781328e",
-    "pos": {
-      "f_123285_": -373,
-      "f_123286_": 59,
-      "f_123289_": 312
-    },
-    "type": 0
-  },
-  {
-    "dimension": {
-      "f_135804_": "minecraft",
-      "f_135805_": "overworld"
-    },
     "id": "15f622c7-2770-4de9-8036-17e7ec3bce88",
     "ownerID": "b96abece-9875-439b-be5c-1ad1c6243805",
     "pos": {
@@ -138,5 +26,19 @@
       "f_123289_": 116
     },
     "type": 0
+  },
+  {
+    "dimension": {
+      "f_135804_": "minecraft",
+      "f_135805_": "the_nether"
+    },
+    "id": "36b83351-5774-4016-81e2-9238d39a8db8",
+    "ownerID": "16a9df5c-c831-3061-8d04-571502c8395f",
+    "pos": {
+      "f_123285_": -1175,
+      "f_123286_": 12,
+      "f_123289_": 431
+    },
+    "type": 1
   }
 ]
