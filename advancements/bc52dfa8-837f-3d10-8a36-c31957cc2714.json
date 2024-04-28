@@ -830,7 +830,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-25 14:40:22 +0200"
+      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
     },
     "done": false
   },
@@ -1226,7 +1226,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-25 14:40:22 +0200"
+      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
     },
     "done": false
   },
@@ -2355,6 +2355,12 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/unripe_scarlet_cheese_wheel": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-28 21:45:04 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-04-08 06:01:03 +0200"
@@ -2637,6 +2643,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/wooden_hoe_repairing": {
+    "criteria": {
+      "has_wooden_hoe": "2024-04-28 21:44:17 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-04-06 03:03:50 +0200"
@@ -2856,6 +2868,12 @@
   "create:recipes/create.base/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2024-04-09 21:43:22 +0200"
+    },
+    "done": true
+  },
+  "tetra:spelunking/chthonic_hammer": {
+    "criteria": {
+      "module": "2024-04-28 21:51:11 +0300"
     },
     "done": true
   },
@@ -3185,7 +3203,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-25 14:40:22 +0200"
+      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
     },
     "done": false
   },
@@ -4193,7 +4211,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-04-25 14:40:22 +0200"
+      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
     },
     "done": false
   },
@@ -5203,6 +5221,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/refill_cell": {
+    "criteria": {
+      "refill_cell": "2024-04-28 21:37:20 +0300"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/silencer": {
     "criteria": {
       "has_iron_ingot": "2024-04-06 01:49:11 +0200"
@@ -5646,6 +5670,12 @@
   "create:recipes/create.palettes/cut_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-04-24 22:14:47 +0200"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_cell": {
+    "criteria": {
+      "get_cell": "2024-04-28 21:37:20 +0300"
     },
     "done": true
   },
@@ -6221,7 +6251,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-25 14:40:22 +0200"
+      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
     },
     "done": false
   },
@@ -7000,6 +7030,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/containers": {
+    "criteria": {
+      "crate2": "2024-04-28 21:32:45 +0300"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blue_bowl": {
     "criteria": {
       "has_terracotta": "2024-04-21 12:50:22 +0200"
@@ -7404,7 +7440,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-25 14:40:22 +0200"
+      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
     },
     "done": false
   },
@@ -8522,7 +8558,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-25 14:40:22 +0200"
+      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
     },
     "done": false
   },
@@ -8570,7 +8606,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-04-25 14:40:22 +0200"
+      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
     },
     "done": false
   },
@@ -10302,6 +10338,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/loot_ruins": {
+    "criteria": {
+      "platform_slab": "2024-04-28 21:23:24 +0300"
+    },
+    "done": true
+  },
   "clayworks:recipes/misc/nether_brick_from_baking": {
     "criteria": {
       "has_netherrack": "2024-04-14 14:58:09 +0200"
@@ -10460,7 +10502,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-04-25 14:40:22 +0200"
+      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
     },
     "done": false
   },
@@ -10869,6 +10911,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-04-07 20:37:47 +0200"
+    },
+    "done": true
+  },
+  "tetra:spelunking/schematic_pry": {
+    "criteria": {
+      "module": "2024-04-28 21:48:23 +0300"
     },
     "done": true
   },
@@ -12051,7 +12099,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-04-25 14:40:22 +0200"
+      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
     },
     "done": false
   },
@@ -14554,6 +14602,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/chthonic_extractor": {
+    "criteria": {
+      "earthpiercer": "2024-04-28 21:38:31 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-04-06 16:40:41 +0200"
@@ -14897,7 +14951,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-25 14:40:22 +0200"
+      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
     },
     "done": false
   },
@@ -15305,7 +15359,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-04-25 14:40:22 +0200"
+      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
     },
     "done": false
   },
@@ -15673,6 +15727,7 @@
       "upgrade_aquatic:mulberry": "2024-04-11 12:47:24 +0200",
       "salmon": "2024-04-16 10:20:53 +0200",
       "cooked_chicken": "2024-04-06 20:06:45 +0200",
+      "quark:ancient_fruit": "2024-04-28 21:21:54 +0300",
       "chicken": "2024-04-17 12:08:43 +0200",
       "cooked_mutton": "2024-04-06 14:46:59 +0200",
       "sweet_berries": "2024-04-06 14:14:21 +0200",
