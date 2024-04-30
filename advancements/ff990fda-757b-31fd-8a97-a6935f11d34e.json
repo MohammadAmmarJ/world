@@ -805,7 +805,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:45:49 +0300"
+      "log_spam_fixer": "2024-04-30 21:01:17 +0300"
     },
     "done": false
   },
@@ -1273,7 +1273,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:45:49 +0300"
+      "log_spam_fixer": "2024-04-30 21:01:17 +0300"
     },
     "done": false
   },
@@ -3275,7 +3275,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:45:49 +0300"
+      "log_spam_fixer": "2024-04-30 21:01:17 +0300"
     },
     "done": false
   },
@@ -3294,6 +3294,12 @@
   "minecraft:recipes/decorations/soul_lantern": {
     "criteria": {
       "has_soul_torch": "2024-04-08 04:55:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-04-30 19:26:54 +0300"
     },
     "done": true
   },
@@ -4273,9 +4279,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:45:49 +0300"
+      "requirement": "2024-04-30 21:01:36 +0300",
+      "log_spam_fixer": "2024-04-30 21:01:17 +0300"
     },
-    "done": false
+    "done": true
   },
   "woodworks:recipes/redstone/dark_oak_fence_gate_from_dark_oak_logs_sawing": {
     "criteria": {
@@ -5292,6 +5299,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/refill_cell": {
+    "criteria": {
+      "refill_cell": "2024-04-30 19:53:32 +0300"
+    },
+    "done": true
+  },
   "shieldexp:recipes/iron_shield": {
     "criteria": {
       "has_the_recipe": "2024-04-06 01:30:47 +0200"
@@ -5697,6 +5710,12 @@
     },
     "done": true
   },
+  "tetra:upgrades/workbench": {
+    "criteria": {
+      "hammer": "2024-04-30 19:53:32 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/item_drain": {
     "criteria": {
       "has_item": "2024-04-06 03:13:14 +0200"
@@ -5736,6 +5755,12 @@
   "farmersdelight:recipes/qualitycrops_items/cooking/rabbit_stew_diamond": {
     "criteria": {
       "hasMushroom": "2024-04-18 01:49:46 +0200"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_cell": {
+    "criteria": {
+      "get_cell": "2024-04-30 19:53:32 +0300"
     },
     "done": true
   },
@@ -6341,7 +6366,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:45:49 +0300"
+      "log_spam_fixer": "2024-04-30 21:01:17 +0300"
     },
     "done": false
   },
@@ -7499,7 +7524,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:45:49 +0300"
+      "log_spam_fixer": "2024-04-30 21:01:17 +0300"
     },
     "done": false
   },
@@ -8628,7 +8653,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:45:49 +0300"
+      "log_spam_fixer": "2024-04-30 21:01:17 +0300"
     },
     "done": false
   },
@@ -8676,7 +8701,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:45:49 +0300"
+      "log_spam_fixer": "2024-04-30 21:01:17 +0300"
     },
     "done": false
   },
@@ -10544,7 +10569,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:45:49 +0300"
+      "log_spam_fixer": "2024-04-30 21:01:17 +0300"
     },
     "done": false
   },
@@ -12099,7 +12124,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:45:49 +0300"
+      "log_spam_fixer": "2024-04-30 21:01:17 +0300"
     },
     "done": false
   },
@@ -14248,6 +14273,12 @@
     },
     "done": true
   },
+  "tetra:recipes/workbench": {
+    "criteria": {
+      "hammer": "2024-04-30 19:53:32 +0300"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/tiled_polished_darkstone_bricks_from_darkstone_stonecutting": {
     "criteria": {
       "has_darkstone": "2024-04-18 23:57:25 +0200"
@@ -15070,7 +15101,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:45:49 +0300"
+      "log_spam_fixer": "2024-04-30 21:01:17 +0300"
     },
     "done": false
   },
@@ -15460,7 +15491,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:45:49 +0300"
+      "log_spam_fixer": "2024-04-30 21:01:17 +0300"
     },
     "done": false
   },
@@ -17309,6 +17340,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-04-08 21:10:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-04-30 19:26:54 +0300"
     },
     "done": true
   },

@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2024-04-30 19:28:11 +0300"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_tune_enchanting": {
     "criteria": {
       "has_disc": "2024-04-11 14:00:02 +0200"
@@ -830,7 +836,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
+      "log_spam_fixer": "2024-04-30 21:08:56 +0300"
     },
     "done": false
   },
@@ -1226,9 +1232,15 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
+      "log_spam_fixer": "2024-04-30 21:08:56 +0300"
     },
     "done": false
+  },
+  "woodworks:recipes/decorations/mangrove_fence_from_mangrove_planks_sawing": {
+    "criteria": {
+      "has_mangrove_planks": "2024-04-30 19:41:41 +0300"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
@@ -3203,7 +3215,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
+      "log_spam_fixer": "2024-04-30 21:08:56 +0300"
     },
     "done": false
   },
@@ -3216,6 +3228,12 @@
   "create:recipes/create.palettes/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-04-11 22:04:13 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/mangrove_sign_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2024-04-30 19:28:11 +0300"
     },
     "done": true
   },
@@ -3264,6 +3282,12 @@
   "aether:recipes/tools/diamond_hoe_repairing": {
     "criteria": {
       "has_diamond_hoe": "2024-04-11 13:57:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2024-04-30 19:41:41 +0300"
     },
     "done": true
   },
@@ -4083,6 +4107,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/mangrove_pressure_plate_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2024-04-30 19:28:11 +0300"
+    },
+    "done": true
+  },
   "monobank:recipes/decorations/monobank": {
     "criteria": {
       "has_iron": "2024-04-06 02:08:35 +0200"
@@ -4116,6 +4146,12 @@
   "create:recipes/create.palettes/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-04-09 16:40:45 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_flower": "2024-04-30 19:08:56 +0300"
     },
     "done": true
   },
@@ -4211,7 +4247,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
+      "log_spam_fixer": "2024-04-30 21:08:56 +0300"
     },
     "done": false
   },
@@ -4504,6 +4540,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/mangrove_fence_gate_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2024-04-30 19:28:11 +0300"
+    },
+    "done": true
+  },
   "twigs:recipes/azalea_flowers_from_flowering_azalea": {
     "criteria": {
       "has_item": "2024-04-14 21:38:43 +0200"
@@ -4543,6 +4585,12 @@
   "interiors:recipes/interiors/crafting/floor_chair/orange_floor_chair": {
     "criteria": {
       "has_seat": "2024-04-06 20:33:10 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_boards": {
+    "criteria": {
+      "has_mangrove_planks": "2024-04-30 19:41:41 +0300"
     },
     "done": true
   },
@@ -5029,9 +5077,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/mangrove_limited_barrel_1": {
+    "criteria": {
+      "has_mangrove_plank": "2024-04-30 19:41:41 +0300"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/coil_mv": {
     "criteria": {
       "has_iron_ingot": "2024-04-06 02:08:34 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/mangrove_limited_barrel_2": {
+    "criteria": {
+      "has_mangrove_plank": "2024-04-30 19:41:41 +0300"
     },
     "done": true
   },
@@ -5097,6 +5157,7 @@
       "rocky_shrubland": "2024-04-06 20:37:35 +0200",
       "scrubland": "2024-04-06 21:18:49 +0200",
       "bayou": "2024-04-11 22:38:56 +0200",
+      "erupting_inferno": "2024-04-30 18:13:29 +0300",
       "lush_savanna": "2024-04-21 12:48:15 +0200",
       "highland": "2024-04-06 02:36:00 +0200",
       "bamboo_grove": "2024-04-08 17:55:14 +0200",
@@ -5287,6 +5348,18 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/mangrove_limited_barrel_3": {
+    "criteria": {
+      "has_mangrove_plank": "2024-04-30 19:41:41 +0300"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/mangrove_limited_barrel_4": {
+    "criteria": {
+      "has_mangrove_plank": "2024-04-30 19:41:41 +0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2024-04-06 01:30:44 +0200"
@@ -5380,6 +5453,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-04-06 16:07:24 +0200",
+      "minecraft:blaze": "2024-04-30 18:12:46 +0300",
       "minecraft:skeleton": "2024-04-06 16:43:30 +0200",
       "minecraft:ravager": "2024-04-11 12:43:53 +0200",
       "minecraft:vindicator": "2024-04-06 15:19:25 +0200",
@@ -5390,6 +5464,7 @@
       "minecraft:phantom": "2024-04-07 17:04:49 +0200",
       "minecraft:zombified_piglin": "2024-04-10 22:15:29 +0200",
       "minecraft:witch": "2024-04-07 20:39:37 +0200",
+      "minecraft:wither_skeleton": "2024-04-30 18:14:24 +0300",
       "minecraft:husk": "2024-04-11 12:31:54 +0200",
       "minecraft:cave_spider": "2024-04-06 17:12:49 +0200",
       "quark:wraith": "2024-04-24 22:37:42 +0200",
@@ -5679,6 +5754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2024-04-30 19:41:41 +0300"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/dripstone_castel_tile_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-04-09 23:14:15 +0200"
@@ -5943,6 +6024,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/mining_charm": {
+    "criteria": {
+      "has_the_recipe": "2024-04-30 18:15:27 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-04-06 21:18:30 +0200"
@@ -5976,6 +6063,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-04-18 21:55:28 +0200"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_quality_items/apple_gold_from_apple_diamond": {
+    "criteria": {
+      "hasQuality": "2024-04-30 20:27:10 +0300"
     },
     "done": true
   },
@@ -6251,7 +6344,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
+      "log_spam_fixer": "2024-04-30 21:08:56 +0300"
     },
     "done": false
   },
@@ -6412,6 +6505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-04-30 18:14:24 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2024-04-21 13:16:42 +0200"
@@ -6427,6 +6526,12 @@
   "create:recipes/create.palettes/layered_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-04-11 15:04:09 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/mangrove_window": {
+    "criteria": {
+      "has_ingredient": "2024-04-30 19:41:41 +0300"
     },
     "done": true
   },
@@ -6601,6 +6706,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_reinforced_hull": {
     "criteria": {
       "has_the_recipe": "2024-04-06 00:49:03 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/mangrove_button_from_mangrove_planks_sawing": {
+    "criteria": {
+      "has_mangrove_planks": "2024-04-30 19:41:41 +0300"
     },
     "done": true
   },
@@ -7108,6 +7219,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/mangrove_button_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2024-04-30 19:28:11 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-04-07 20:39:38 +0200"
@@ -7135,6 +7252,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-04-15 23:51:13 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/mangrove_barrel": {
+    "criteria": {
+      "has_mangrove_plank": "2024-04-30 19:41:41 +0300"
     },
     "done": true
   },
@@ -7440,7 +7563,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
+      "log_spam_fixer": "2024-04-30 21:08:56 +0300"
     },
     "done": false
   },
@@ -7579,6 +7702,12 @@
   "twigs:recipes/tuff/tuff_slab_stonecutting": {
     "criteria": {
       "has_item": "2024-04-09 23:03:57 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2024-04-30 16:43:52 +0300"
     },
     "done": true
   },
@@ -8208,6 +8337,12 @@
     },
     "done": true
   },
+  "iter_rpg:iter_cursed": {
+    "criteria": {
+      "iter_cursed": "2024-04-30 18:18:34 +0300"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/acacia_stairs_from_acacia_planks_sawing": {
     "criteria": {
       "has_acacia_planks": "2024-04-07 17:15:48 +0200"
@@ -8253,6 +8388,12 @@
   "create:recipes/create.palettes/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-04-24 22:16:38 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/mangrove_chest": {
+    "criteria": {
+      "has_mangrove_plank": "2024-04-30 19:41:41 +0300"
     },
     "done": true
   },
@@ -8343,6 +8484,12 @@
   "handcrafted:recipes/misc/white_plate": {
     "criteria": {
       "has_terracotta": "2024-04-21 12:50:22 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_slab_from_mangrove_planks_sawing": {
+    "criteria": {
+      "has_mangrove_planks": "2024-04-30 19:41:41 +0300"
     },
     "done": true
   },
@@ -8496,6 +8643,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/mangrove_ladder_from_mangrove_planks_sawing": {
+    "criteria": {
+      "has_mangrove_planks": "2024-04-30 19:41:41 +0300"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/smelting/ingot_nickel_from_blasting3": {
     "criteria": {
       "has_raw_nickel": "2024-04-19 16:54:52 +0200"
@@ -8558,7 +8711,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
+      "log_spam_fixer": "2024-04-30 21:08:56 +0300"
     },
     "done": false
   },
@@ -8606,7 +8759,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
+      "log_spam_fixer": "2024-04-30 21:08:56 +0300"
     },
     "done": false
   },
@@ -9416,6 +9569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-04-30 19:41:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/qualitycrops_items/cooked_chicken_iron_from_campfire_cooking": {
     "criteria": {
       "has_chicken_iron": "2024-04-06 01:52:39 +0200"
@@ -9491,6 +9650,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-04-07 16:52:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-04-30 16:43:52 +0300"
     },
     "done": true
   },
@@ -9655,6 +9820,12 @@
   "chalk:recipes/tools/chalk_box": {
     "criteria": {
       "has_paper": "2024-04-06 16:40:41 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/mangrove_door_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2024-04-30 19:28:11 +0300"
     },
     "done": true
   },
@@ -10171,10 +10342,11 @@
   "tetra:upgrades/sword_improvement_hone": {
     "criteria": {
       "tempered": "2024-04-16 12:00:42 +0200",
+      "hooked+": "2024-04-30 18:50:18 +0300",
       "hooked": "2024-04-16 12:11:42 +0200",
       "serrated": "2024-04-16 11:59:32 +0200"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/qualitycrops_items/dried_kelp_gold_from_smelting": {
     "criteria": {
@@ -10502,7 +10674,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
+      "log_spam_fixer": "2024-04-30 21:08:56 +0300"
     },
     "done": false
   },
@@ -10881,6 +11053,12 @@
   "nethersdelight:recipes/nethersdelight/iron_machete": {
     "criteria": {
       "has_iron_ingot": "2024-04-06 02:08:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2024-04-30 19:41:41 +0300"
     },
     "done": true
   },
@@ -11316,6 +11494,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/mangrove_slab_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2024-04-30 19:28:11 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-04-06 01:30:44 +0200"
@@ -11688,6 +11872,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/mangrove_stairs_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2024-04-30 19:28:11 +0300"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_leaf_pile": {
     "criteria": {
       "has_dark_oak_leaves": "2024-04-06 01:32:27 +0200"
@@ -11892,6 +12082,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/mining_charm": {
+    "criteria": {
+      "has_items": "2024-04-30 18:15:27 +0300"
+    },
+    "done": true
+  },
   "environmental:recipes/decorations/yak_hair_rug": {
     "criteria": {
       "has_yak_hair": "2024-04-08 05:39:36 +0200"
@@ -12091,6 +12287,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/mangrove_boards_from_mangrove_planks_sawing": {
+    "criteria": {
+      "has_mangrove_planks": "2024-04-30 19:41:41 +0300"
+    },
+    "done": true
+  },
   "environmental:recipes/building_blocks/yak_hair_block": {
     "criteria": {
       "has_yak_hair": "2024-04-08 05:39:36 +0200"
@@ -12099,7 +12301,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
+      "log_spam_fixer": "2024-04-30 21:08:56 +0300"
     },
     "done": false
   },
@@ -12419,6 +12621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-04-30 19:41:41 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-04-09 16:41:08 +0200"
@@ -12629,6 +12837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-04-30 19:41:41 +0300"
+    },
+    "done": true
+  },
   "twigs:recipes/bone_meal_from_seashells": {
     "criteria": {
       "has_item": "2024-04-06 15:50:33 +0200"
@@ -12770,6 +12984,12 @@
   "create:recipes/create.palettes/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-04-09 16:41:08 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-04-30 19:06:47 +0300"
     },
     "done": true
   },
@@ -13050,6 +13270,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/redstone/mangrove_trapdoor_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2024-04-30 19:28:11 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-04-06 01:30:44 +0200"
@@ -13089,6 +13315,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2024-04-21 13:27:42 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_boards_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2024-04-30 19:28:11 +0300"
     },
     "done": true
   },
@@ -13281,6 +13513,12 @@
   "design_decor:recipes/design_decor/asurine_castel_tiles_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-04-19 17:05:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2024-04-30 19:41:41 +0300"
     },
     "done": true
   },
@@ -13555,6 +13793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2024-04-30 19:28:11 +0300"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_nickel_hammering": {
     "criteria": {
       "has_nickel_ingot": "2024-04-19 18:45:06 +0200"
@@ -13708,6 +13952,12 @@
   "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-04-10 21:21:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2024-04-30 19:41:41 +0300"
     },
     "done": true
   },
@@ -14404,6 +14654,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/mangrove_table": {
+    "criteria": {
+      "has_bamboo": "2024-04-30 19:41:41 +0300"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/acacia_stairs_from_acacia_logs_sawing": {
     "criteria": {
       "has_acacia_logs": "2024-04-06 01:56:19 +0200"
@@ -14951,7 +15207,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
+      "log_spam_fixer": "2024-04-30 21:08:56 +0300"
     },
     "done": false
   },
@@ -15225,6 +15481,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/decorations/mangrove_fence_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2024-04-30 19:28:11 +0300"
+    },
+    "done": true
+  },
   "qualitysdelight:recipes/qualitysdelight_nether_items/warped_moldy_meat_gold": {
     "criteria": {
       "hasBowl": "2024-04-08 06:09:07 +0200"
@@ -15359,7 +15621,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-04-28 23:14:42 +0300"
+      "log_spam_fixer": "2024-04-30 21:08:56 +0300"
     },
     "done": false
   },
@@ -16179,6 +16441,12 @@
     },
     "done": true
   },
+  "woodworks:recipes/building_blocks/mangrove_stairs_from_mangrove_planks_sawing": {
+    "criteria": {
+      "has_mangrove_planks": "2024-04-30 19:41:41 +0300"
+    },
+    "done": true
+  },
   "brewinandchewin:recipes/brewinandchewin/tankard": {
     "criteria": {
       "has_nugget": "2024-04-06 01:49:11 +0200"
@@ -16281,6 +16549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2024-04-30 19:41:41 +0300"
+    },
+    "done": true
+  },
   "brewinandchewin:recipes/brewinandchewin/fermenting/unripe_flaxen_cheese_wheel": {
     "criteria": {
       "has_any_ingredient": "2024-04-17 12:15:01 +0200"
@@ -16356,6 +16630,12 @@
   "clayworks:recipes/building_blocks/terracotta_brick_stairs_from_terracotta_stonecutting": {
     "criteria": {
       "has_terracotta": "2024-04-21 12:50:22 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/mangrove_ladder_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2024-04-30 19:28:11 +0300"
     },
     "done": true
   },
@@ -16437,6 +16717,12 @@
     "criteria": {
       "has_parent_recipe": "2024-04-06 16:40:41 +0200",
       "has_items": "2024-04-06 16:45:46 +0200"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/mangrove_planks_from_mangrove_logs_sawing": {
+    "criteria": {
+      "has_mangrove_logs": "2024-04-30 19:28:11 +0300"
     },
     "done": true
   },
