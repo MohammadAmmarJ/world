@@ -819,7 +819,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 14:04:14 +0300"
+      "log_spam_fixer": "2024-05-01 15:03:13 +0300"
     },
     "done": false
   },
@@ -1239,7 +1239,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 14:04:14 +0300"
+      "log_spam_fixer": "2024-05-01 15:03:13 +0300"
     },
     "done": false
   },
@@ -3300,7 +3300,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 14:04:14 +0300"
+      "log_spam_fixer": "2024-05-01 15:03:13 +0300"
     },
     "done": false
   },
@@ -4314,7 +4314,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 14:04:14 +0300"
+      "log_spam_fixer": "2024-05-01 15:03:13 +0300"
     },
     "done": false
   },
@@ -6415,7 +6415,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 14:04:14 +0300"
+      "log_spam_fixer": "2024-05-01 15:03:13 +0300"
     },
     "done": false
   },
@@ -6868,6 +6868,12 @@
   "handcrafted:recipes/misc/terracotta_medium_pot": {
     "criteria": {
       "has_terracotta": "2024-04-26 06:41:14 +0300"
+    },
+    "done": true
+  },
+  "ad_astra:tier_2_rocket": {
+    "criteria": {
+      "tier_2_rocket": "2024-05-01 14:35:38 +0300"
     },
     "done": true
   },
@@ -7671,7 +7677,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 14:04:14 +0300"
+      "log_spam_fixer": "2024-05-01 15:03:13 +0300"
     },
     "done": false
   },
@@ -8839,7 +8845,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 14:04:14 +0300"
+      "log_spam_fixer": "2024-05-01 15:03:13 +0300"
     },
     "done": false
   },
@@ -8887,7 +8893,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 14:04:14 +0300"
+      "log_spam_fixer": "2024-05-01 15:03:13 +0300"
     },
     "done": false
   },
@@ -10831,7 +10837,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 14:04:14 +0300"
+      "log_spam_fixer": "2024-05-01 15:03:13 +0300"
     },
     "done": false
   },
@@ -12493,7 +12499,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 14:04:14 +0300"
+      "log_spam_fixer": "2024-05-01 15:03:13 +0300"
     },
     "done": false
   },
@@ -15580,7 +15586,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 14:04:14 +0300"
+      "log_spam_fixer": "2024-05-01 15:03:13 +0300"
     },
     "done": false
   },
@@ -15988,7 +15994,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 14:04:14 +0300"
+      "log_spam_fixer": "2024-05-01 15:03:13 +0300"
     },
     "done": false
   },
@@ -18215,6 +18221,12 @@
   "create:recipes/create.palettes/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-04-21 12:04:09 +0300"
+    },
+    "done": true
+  },
+  "ad_astra:mars": {
+    "criteria": {
+      "mars": "2024-05-01 14:56:24 +0300"
     },
     "done": true
   },
