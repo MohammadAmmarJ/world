@@ -27,11 +27,13 @@ local startX = screenWidth + 1
 local startY = math.floor(screenHeight / 2)
 local message = "Spells & block"
 
+while true do
 local animationDuration = 10 -- Adjust duration as needed
-for i = startX, -#message * 6, -1 do
+for i = startX, -#message * 30, -1 do
 monitor.clear()
 monitor.setCursorPos(i, startY)
 shineText(message, colors.white, colors.red, 0.5)
+end
 end
 monitor.setCursorPos(1, 1)
 

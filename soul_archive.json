@@ -43,6 +43,20 @@
   },
   {
     "dimension": {
+      "f_135804_": "ad_astra",
+      "f_135805_": "mars"
+    },
+    "id": "c9b84347-e4ab-4928-b5b6-5a3e24f5de63",
+    "ownerID": "78db9eaa-b18b-3fd2-8f5c-bc5c4781328e",
+    "pos": {
+      "f_123285_": -197,
+      "f_123286_": -19,
+      "f_123289_": 457
+    },
+    "type": 0
+  },
+  {
+    "dimension": {
       "f_135804_": "minecraft",
       "f_135805_": "overworld"
     },

@@ -505,7 +505,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 00:13:27 +0300"
+      "log_spam_fixer": "2024-05-01 17:01:37 +0300"
     },
     "done": false
   },
@@ -2580,9 +2580,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 00:13:27 +0300"
+      "requirement": "2024-05-01 17:02:02 +0300",
+      "log_spam_fixer": "2024-05-01 17:01:37 +0300"
     },
-    "done": false
+    "done": true
   },
   "woodworks:recipes/redstone/dark_oak_fence_gate_from_dark_oak_logs_sawing": {
     "criteria": {
@@ -5260,7 +5261,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 00:13:27 +0300"
+      "log_spam_fixer": "2024-05-01 17:01:37 +0300"
     },
     "done": false
   },
@@ -6175,6 +6176,12 @@
   "clayworks:recipes/building_blocks/purple_terracotta_stairs": {
     "criteria": {
       "has_purple_terracotta": "2024-04-23 23:32:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2024-05-01 15:18:45 +0300"
     },
     "done": true
   },
@@ -7381,7 +7388,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 00:13:27 +0300"
+      "log_spam_fixer": "2024-05-01 17:01:37 +0300"
     },
     "done": false
   },
@@ -9067,7 +9074,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 00:13:27 +0300"
+      "log_spam_fixer": "2024-05-01 17:01:37 +0300"
     },
     "done": false
   },
@@ -9289,7 +9296,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 00:13:27 +0300"
+      "log_spam_fixer": "2024-05-01 17:01:37 +0300"
     },
     "done": false
   },
@@ -11340,7 +11347,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 00:13:27 +0300"
+      "log_spam_fixer": "2024-05-01 17:01:37 +0300"
     },
     "done": false
   },
@@ -12500,7 +12507,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 00:13:27 +0300"
+      "log_spam_fixer": "2024-05-01 17:01:37 +0300"
     },
     "done": false
   },
@@ -14293,7 +14300,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 00:13:27 +0300"
+      "log_spam_fixer": "2024-05-01 17:01:37 +0300"
     },
     "done": false
   },
@@ -14977,7 +14984,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 00:13:27 +0300"
+      "log_spam_fixer": "2024-05-01 17:01:37 +0300"
     },
     "done": false
   },
@@ -15534,6 +15541,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-05-01 16:39:04 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-04-10 21:38:01 +0200"
@@ -15716,7 +15729,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 00:13:27 +0300"
+      "log_spam_fixer": "2024-05-01 17:01:37 +0300"
     },
     "done": false
   },
@@ -16832,7 +16845,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-05-01 00:13:27 +0300"
+      "log_spam_fixer": "2024-05-01 17:01:37 +0300"
     },
     "done": false
   },
@@ -19594,6 +19607,7 @@
       "minecraft:windswept_hills": "2024-04-06 04:33:03 +0200",
       "minecraft:wooded_badlands": "2024-04-16 11:37:14 +0200",
       "minecraft:bamboo_jungle": "2024-04-22 12:38:55 +0200",
+      "minecraft:badlands": "2024-05-01 15:17:53 +0300",
       "minecraft:savanna_plateau": "2024-05-01 00:11:36 +0300",
       "minecraft:beach": "2024-04-06 05:31:45 +0200",
       "minecraft:dark_forest": "2024-04-06 05:31:10 +0200",
