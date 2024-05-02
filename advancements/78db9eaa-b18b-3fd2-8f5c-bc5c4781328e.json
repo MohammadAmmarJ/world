@@ -422,7 +422,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-02 20:08:45 +0300"
+      "log_spam_fixer": "2024-05-02 21:40:16 +0300"
     },
     "done": false
   },
@@ -2315,7 +2315,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-05-02 20:08:45 +0300"
+      "log_spam_fixer": "2024-05-02 21:40:16 +0300"
     },
     "done": false
   },
@@ -4592,7 +4592,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-05-02 20:08:45 +0300"
+      "log_spam_fixer": "2024-05-02 21:40:16 +0300"
     },
     "done": false
   },
@@ -6491,7 +6491,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-05-02 20:08:45 +0300"
+      "log_spam_fixer": "2024-05-02 21:40:16 +0300"
     },
     "done": false
   },
@@ -8023,7 +8023,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-02 20:08:45 +0300"
+      "log_spam_fixer": "2024-05-02 21:40:16 +0300"
     },
     "done": false
   },
@@ -8209,7 +8209,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-05-02 20:08:45 +0300"
+      "log_spam_fixer": "2024-05-02 21:40:16 +0300"
     },
     "done": false
   },
@@ -8269,6 +8269,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2024-05-02 20:23:33 +0300",
       "incendium:weeping_valley": "2024-04-22 18:26:09 +0300",
       "incendium:infernal_dunes": "2024-05-02 18:46:54 +0300",
       "incendium:quartz_flats": "2024-04-22 18:47:03 +0300",
@@ -8568,6 +8569,12 @@
     },
     "done": true
   },
+  "cold_sweat:lava_sea": {
+    "criteria": {
+      "near_lava": "2024-05-02 20:22:31 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-05-01 09:57:06 +0300"
@@ -8739,6 +8746,12 @@
   "handcrafted:recipes/misc/blue_plate": {
     "criteria": {
       "has_terracotta": "2024-04-26 06:41:14 +0300"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2024-05-02 20:23:33 +0300"
     },
     "done": true
   },
@@ -9316,6 +9329,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-04-22 00:41:51 +0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/the_twist": {
+    "criteria": {
+      "twist": "2024-05-02 21:10:03 +0300"
     },
     "done": true
   },
@@ -9977,7 +9996,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-02 20:08:45 +0300"
+      "log_spam_fixer": "2024-05-02 21:40:16 +0300"
     },
     "done": false
   },
@@ -10980,7 +10999,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-05-02 20:08:45 +0300"
+      "log_spam_fixer": "2024-05-02 21:40:16 +0300"
     },
     "done": false
   },
@@ -12570,7 +12589,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-05-02 20:08:45 +0300"
+      "log_spam_fixer": "2024-05-02 21:40:16 +0300"
     },
     "done": false
   },
@@ -13176,7 +13195,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-05-02 20:08:45 +0300"
+      "log_spam_fixer": "2024-05-02 21:40:16 +0300"
     },
     "done": false
   },
@@ -13843,7 +13862,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-05-02 20:08:45 +0300"
+      "log_spam_fixer": "2024-05-02 21:40:16 +0300"
     },
     "done": false
   },
@@ -14849,7 +14868,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-05-02 20:08:45 +0300"
+      "log_spam_fixer": "2024-05-02 21:40:16 +0300"
     },
     "done": false
   },
@@ -17558,6 +17577,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/storage_aluminum_to_ingot_aluminum": {
     "criteria": {
       "has_storage_aluminum": "2024-04-11 22:47:55 +0300"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/enchantments/eternal_binding_curse": {
+    "criteria": {
+      "has_items": "2024-05-02 21:38:54 +0300"
     },
     "done": true
   },
