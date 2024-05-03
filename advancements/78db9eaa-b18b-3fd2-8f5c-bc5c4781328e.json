@@ -126,6 +126,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/pyrope_chestplate": {
+    "criteria": {
+      "has_item": "2024-05-03 13:21:33 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-04-21 15:59:01 +0300"
@@ -201,6 +207,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-04-15 01:36:27 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/blinding_stairs": {
+    "criteria": {
+      "has_item": "2024-05-03 13:51:09 +0300"
     },
     "done": true
   },
@@ -372,6 +384,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/cherry_pie_with_iron": {
+    "criteria": {
+      "has_item": "2024-05-03 13:21:34 +0300"
+    },
+    "done": true
+  },
   "woodworks:recipes/redstone/birch_fence_gate_from_birch_logs_sawing": {
     "criteria": {
       "has_birch_logs": "2024-04-22 00:17:18 +0300"
@@ -434,7 +452,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 12:17:49 +0300"
+      "log_spam_fixer": "2024-05-03 15:15:25 +0300"
     },
     "done": false
   },
@@ -678,6 +696,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/arcane_crystal_from_arcane_crystal_block": {
+    "criteria": {
+      "has_item": "2024-05-03 14:54:57 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_item": "2024-04-16 01:28:35 +0300"
@@ -753,6 +777,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
     "criteria": {
       "has_copper_ingot": "2024-04-16 02:23:23 +0300"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/darkstone_pedestal": {
+    "criteria": {
+      "has_item": "2024-05-03 14:41:01 +0300"
     },
     "done": true
   },
@@ -1062,9 +1092,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/aquite_hoe": {
+    "criteria": {
+      "has_resource": "2024-05-03 13:21:31 +0300"
+    },
+    "done": true
+  },
   "everycomp:recipes/everycomp/c/biomesoplenty/fir_window": {
     "criteria": {
       "has_planks": "2024-04-15 00:55:53 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/kill_alchemist": {
+    "criteria": {
+      "kill_alchemist": "2024-05-03 13:49:08 +0300"
     },
     "done": true
   },
@@ -1176,6 +1218,12 @@
   "create:recipes/create.palettes/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-04-23 03:29:15 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2024-05-03 13:49:30 +0300"
     },
     "done": true
   },
@@ -1515,6 +1563,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-05-03 13:50:40 +0300"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/calcite_pillar_trim": {
     "criteria": {
       "has_pillar_trim": "2024-04-16 01:17:40 +0300"
@@ -1611,6 +1665,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/blinding_stairs_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-05-03 13:51:09 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-04-11 22:57:31 +0300"
@@ -1656,6 +1716,12 @@
   "immersiveengineering:recipes/immersiveengineering/smelting/ingot_silver_from_blasting3": {
     "criteria": {
       "has_raw_silver": "2024-04-15 01:24:52 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-05-03 14:14:44 +0300"
     },
     "done": true
   },
@@ -2181,6 +2247,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:32 +0300"
+    },
+    "done": true
+  },
   "interiors:recipes/interiors/crafting/chair/black_chair_from_seat": {
     "criteria": {
       "has_seat": "2024-04-20 01:31:16 +0300"
@@ -2339,7 +2411,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 12:17:49 +0300"
+      "log_spam_fixer": "2024-05-03 15:15:25 +0300"
     },
     "done": false
   },
@@ -2947,6 +3019,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_cobblestone_stairs_stonecutting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:38 +0300"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2024-04-20 02:58:39 +0300"
@@ -3054,6 +3132,12 @@
   "handcrafted:recipes/misc/berry_jam_jar": {
     "criteria": {
       "has_sweet_berries": "2024-04-13 21:44:00 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/blinding_slab": {
+    "criteria": {
+      "has_item": "2024-05-03 13:51:09 +0300"
     },
     "done": true
   },
@@ -3258,6 +3342,12 @@
   "create:recipes/misc/blasting/iron_ingot_from_crushed": {
     "criteria": {
       "has_item": "2024-05-02 14:32:29 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_sword": {
+    "criteria": {
+      "has_resource": "2024-05-03 13:15:38 +0300"
     },
     "done": true
   },
@@ -3501,6 +3591,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_wall_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-05-03 13:50:40 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/display_board": {
     "criteria": {
       "has_item": "2024-04-16 01:28:35 +0300"
@@ -3719,6 +3815,12 @@
     },
     "done": true
   },
+  "blue_skies:get_pyrope": {
+    "criteria": {
+      "obtain_material": "2024-05-03 13:21:33 +0300"
+    },
+    "done": true
+  },
   "railways:recipes/railways/crafting/smokestack_long": {
     "criteria": {
       "has_item": "2024-04-21 01:04:56 +0300"
@@ -3848,6 +3950,12 @@
   "farmersdelight:recipes/farmersdelight/safety_net": {
     "criteria": {
       "has_rope": "2024-04-19 00:28:59 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:32 +0300"
     },
     "done": true
   },
@@ -4211,6 +4319,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_wall": {
+    "criteria": {
+      "has_item": "2024-05-03 13:50:17 +0300"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/smelting/ingot_nickel3": {
     "criteria": {
       "has_raw_nickel": "2024-04-15 01:42:50 +0300"
@@ -4319,6 +4433,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-04-20 01:29:56 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:progression/unlock_everdawn_blinding_key_trade": {
+    "criteria": {
+      "click_keystone": "2024-05-03 13:20:24 +0300"
     },
     "done": true
   },
@@ -4700,9 +4820,15 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_slab_stonecutting_glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-05-03 13:50:17 +0300"
+    },
+    "done": true
+  },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 12:17:49 +0300"
+      "log_spam_fixer": "2024-05-03 15:15:25 +0300"
     },
     "done": false
   },
@@ -4883,6 +5009,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-04-19 19:15:19 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_axe": {
+    "criteria": {
+      "has_resource": "2024-05-03 13:21:31 +0300"
     },
     "done": true
   },
@@ -5096,6 +5228,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/aquite_sword": {
+    "criteria": {
+      "has_resource": "2024-05-03 13:21:31 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-04-18 00:29:12 +0300"
@@ -5147,6 +5285,12 @@
   "biomesoplenty:recipes/building_blocks/stripped_fir_wood": {
     "criteria": {
       "has_log": "2024-04-15 02:12:36 +0300"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/arcane_bone_meal": {
+    "criteria": {
+      "has_item": "2024-05-03 15:13:09 +0300"
     },
     "done": true
   },
@@ -5560,6 +5704,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2024-05-03 13:50:40 +0300"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/dripstone_castel_tile_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-04-18 04:03:05 +0300"
@@ -5605,6 +5755,12 @@
   "design_decor:recipes/design_decor/granite_castel_tiles_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-04-15 00:56:25 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2024-05-03 13:50:40 +0300"
     },
     "done": true
   },
@@ -6058,6 +6214,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_axe": {
+    "criteria": {
+      "has_resource": "2024-05-03 13:15:38 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-04-22 22:58:55 +0300"
@@ -6350,6 +6512,12 @@
   "design_decor:recipes/design_decor/scorchia_castel_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-04-23 23:25:58 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_axe": {
+    "criteria": {
+      "has_resource": "2024-05-03 13:21:33 +0300"
     },
     "done": true
   },
@@ -6661,7 +6829,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 12:17:49 +0300"
+      "log_spam_fixer": "2024-05-03 15:15:25 +0300"
     },
     "done": false
   },
@@ -7387,6 +7555,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/deorum_ingot_from_deorum_nugget": {
+    "criteria": {
+      "has_deorum_nugget": "2024-05-03 14:41:26 +0300"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/obsidian_skull": {
     "criteria": {
       "has_item": "2024-04-17 01:52:30 +0300"
@@ -7753,6 +7927,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_hoe": {
+    "criteria": {
+      "has_resource": "2024-05-03 13:15:38 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_integrated_stronghold": "2024-04-23 23:13:21 +0300"
@@ -7774,6 +7954,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/tiled_polished_darkstone_bricks_from_darkstone_stonecutting": {
     "criteria": {
       "has_darkstone": "2024-04-15 03:20:22 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_pickaxe": {
+    "criteria": {
+      "has_resource": "2024-05-03 13:15:38 +0300"
     },
     "done": true
   },
@@ -7837,6 +8023,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/aquite_block": {
+    "criteria": {
+      "has_item": "2024-05-03 13:21:31 +0300"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/cherrywood_planks_from_thin_cherrywood_log": {
     "criteria": {
       "has_item": "2024-04-24 17:56:23 +0300"
@@ -7864,6 +8056,12 @@
   "create:recipes/create.palettes/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-04-15 01:16:21 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_hoe": {
+    "criteria": {
+      "has_resource": "2024-05-03 13:21:33 +0300"
     },
     "done": true
   },
@@ -7912,6 +8110,12 @@
   "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
       "has_book": "2024-04-14 23:21:42 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_stairs": {
+    "criteria": {
+      "has_item": "2024-05-03 13:50:17 +0300"
     },
     "done": true
   },
@@ -7975,6 +8179,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_stairs_stonecutting_glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-05-03 13:50:17 +0300"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/nethersdelight/hoglin_sirloin_from_campfire_cooking": {
     "criteria": {
       "hoglin_sirloin": "2024-04-18 01:03:19 +0300"
@@ -7996,6 +8206,12 @@
   "forbidden_arcanus:recipes/forbidden_arcanus/aurum_chest_boat": {
     "criteria": {
       "has_chest": "2024-04-14 23:09:13 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/blinding_slab_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-05-03 13:51:09 +0300"
     },
     "done": true
   },
@@ -8107,6 +8323,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/aquite_shovel": {
+    "criteria": {
+      "has_resource": "2024-05-03 13:21:31 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-04-18 04:03:05 +0300"
@@ -8146,6 +8368,12 @@
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
       "has_stone_sword": "2024-04-19 19:20:54 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_cobblestone_wall": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:38 +0300"
     },
     "done": true
   },
@@ -8199,7 +8427,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 12:17:49 +0300"
+      "log_spam_fixer": "2024-05-03 15:15:25 +0300"
     },
     "done": false
   },
@@ -8385,7 +8613,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 12:17:49 +0300"
+      "log_spam_fixer": "2024-05-03 15:15:25 +0300"
     },
     "done": false
   },
@@ -8493,6 +8721,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-04-20 02:56:21 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/maple_spear": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:32 +0300"
     },
     "done": true
   },
@@ -8877,6 +9111,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/pyrope_leggings": {
+    "criteria": {
+      "has_item": "2024-05-03 13:21:33 +0300"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/heavy_engineering": {
     "criteria": {
       "has_electrum_ingot": "2024-04-26 05:28:06 +0300"
@@ -8904,6 +9144,12 @@
   "enigmaticlegacy:recipes/generic/forbidden_axe": {
     "criteria": {
       "has_items": "2024-04-17 13:59:47 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_cobblestone_slab_stonecutting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:38 +0300"
     },
     "done": true
   },
@@ -9009,6 +9255,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/decorations/anvil_compat": {
+    "criteria": {
+      "has_item": "2024-05-03 13:49:30 +0300"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_purple": {
     "criteria": {
       "has_sheetmetal": "2024-04-26 02:06:19 +0300"
@@ -9078,6 +9330,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2024-04-18 00:28:24 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/moonstone_from_block": {
+    "criteria": {
+      "has_item": "2024-05-03 13:51:34 +0300"
     },
     "done": true
   },
@@ -9165,6 +9423,12 @@
   "handcrafted:recipes/misc/phantom_trophy": {
     "criteria": {
       "has_phantom_membrane": "2024-04-16 07:07:08 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2024-05-03 13:49:30 +0300"
     },
     "done": true
   },
@@ -9385,9 +9649,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/aquite_helmet": {
+    "criteria": {
+      "has_item": "2024-05-03 13:21:31 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
     "criteria": {
       "has_item": "2024-04-16 06:03:01 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/pyrope_helmet": {
+    "criteria": {
+      "has_item": "2024-05-03 13:21:33 +0300"
     },
     "done": true
   },
@@ -9936,6 +10212,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2024-05-03 13:50:40 +0300"
+    },
+    "done": true
+  },
   "ad_astra:mercury": {
     "criteria": {
       "mercury": "2024-05-02 00:10:10 +0300"
@@ -9945,6 +10227,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2024-04-21 00:43:24 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-05-03 14:16:43 +0300"
     },
     "done": true
   },
@@ -10232,7 +10520,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 12:17:49 +0300"
+      "log_spam_fixer": "2024-05-03 15:15:25 +0300"
     },
     "done": false
   },
@@ -10260,6 +10548,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/carved_blinding_stone_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-05-03 13:51:09 +0300"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_lectern": {
     "criteria": {
       "has_book": "2024-04-14 23:21:42 +0300"
@@ -10278,6 +10572,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/blinding_stone_pillar_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-05-03 13:51:09 +0300"
+    },
+    "done": true
+  },
   "clayworks:recipes/building_blocks/pink_terracotta_bricks_from_pink_dye": {
     "criteria": {
       "has_terracotta": "2024-04-26 06:41:14 +0300"
@@ -10287,6 +10587,12 @@
   "design_decor:recipes/design_decor/asurine_castel_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-04-21 12:04:09 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-05-03 13:50:40 +0300"
     },
     "done": true
   },
@@ -10374,6 +10680,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
+    "criteria": {
+      "has_resource": "2024-05-03 13:21:33 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-04-14 23:38:18 +0300"
@@ -10422,6 +10734,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-05-03 13:50:40 +0300"
+    },
+    "done": true
+  },
   "immersiveposts:recipes/immersiveposts/fence_gold": {
     "criteria": {
       "has_gold_ingot": "2024-04-14 23:18:53 +0300"
@@ -10431,6 +10749,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-04-15 01:36:27 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:enter_blinding_dungeon": {
+    "criteria": {
+      "entered_everdawn_blinding_dungeon": "2024-05-03 13:19:54 +0300"
     },
     "done": true
   },
@@ -10575,6 +10899,12 @@
   "aether:recipes/combat/leather_leggings_repairing": {
     "criteria": {
       "has_leather_leggings": "2024-04-18 00:07:20 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_wall_stonecutting_glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-05-03 13:50:17 +0300"
     },
     "done": true
   },
@@ -11253,7 +11583,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 12:17:49 +0300"
+      "log_spam_fixer": "2024-05-03 15:15:25 +0300"
     },
     "done": false
   },
@@ -11491,6 +11821,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/aquite_leggings": {
+    "criteria": {
+      "has_item": "2024-05-03 13:21:31 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_cobblestone_stairs": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:38 +0300"
+    },
+    "done": true
+  },
   "goodending:recipes/orange_dye_from_spicy_wildflowers": {
     "criteria": {
       "has_item": "2024-04-22 00:15:41 +0300"
@@ -11548,6 +11890,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_steel_from_slab": {
     "criteria": {
       "has_sheetmetal_steel": "2024-04-26 05:28:23 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/blinding_wall": {
+    "criteria": {
+      "has_item": "2024-05-03 13:51:09 +0300"
     },
     "done": true
   },
@@ -11623,6 +11971,12 @@
     },
     "done": true
   },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2024-05-03 13:15:32 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-04-16 01:17:41 +0300"
@@ -11638,6 +11992,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-04-16 23:27:41 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2024-05-03 13:49:30 +0300"
     },
     "done": true
   },
@@ -11846,6 +12206,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/forbidden_arcanus/aureal_bottle": {
+    "criteria": {
+      "has_item": "2024-05-03 15:13:09 +0300"
+    },
+    "done": true
+  },
   "interiors:recipes/interiors/crafting/floor_chair/lime_floor_chair": {
     "criteria": {
       "has_seat": "2024-04-20 01:31:16 +0300"
@@ -12005,6 +12371,12 @@
   "aquamirae:adventure/obtain_anglers_fang": {
     "criteria": {
       "anglers_fang": "2024-04-21 01:12:14 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/aquite_boots": {
+    "criteria": {
+      "has_item": "2024-05-03 13:21:31 +0300"
     },
     "done": true
   },
@@ -12206,6 +12578,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:32 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2024-04-17 12:22:28 +0300"
@@ -12227,6 +12605,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-04-13 22:40:58 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2024-05-03 13:49:30 +0300"
     },
     "done": true
   },
@@ -12358,6 +12742,12 @@
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2024-04-11 22:37:27 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:32 +0300"
     },
     "done": true
   },
@@ -12873,7 +13263,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 12:17:49 +0300"
+      "log_spam_fixer": "2024-05-03 15:15:25 +0300"
     },
     "done": false
   },
@@ -12997,6 +13387,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:32 +0300"
+    },
+    "done": true
+  },
   "environmental:recipes/transportation/wisteria_boat": {
     "criteria": {
       "in_water": "2024-04-11 22:18:18 +0300"
@@ -13042,6 +13438,12 @@
   "handcrafted:recipes/misc/white_cushion": {
     "criteria": {
       "has_cushion": "2024-04-20 01:29:56 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-05-03 14:14:44 +0300"
     },
     "done": true
   },
@@ -13237,6 +13639,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/cherry_spear": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:32 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2024-04-20 03:36:40 +0300"
@@ -13255,9 +13663,21 @@
     },
     "done": true
   },
+  "blue_skies:get_aquite": {
+    "criteria": {
+      "obtain_material": "2024-05-03 13:21:31 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-04-22 23:46:46 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/decorations/furnace_compat": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:38 +0300"
     },
     "done": true
   },
@@ -13479,7 +13899,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 12:17:49 +0300"
+      "log_spam_fixer": "2024-05-03 15:15:25 +0300"
     },
     "done": false
   },
@@ -13690,6 +14110,12 @@
   "farmersdelight:recipes/farmersdelight/jungle_cabinet": {
     "criteria": {
       "has_jungle_trapdoor": "2024-04-24 19:30:53 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/pyrope_boots": {
+    "criteria": {
+      "has_item": "2024-05-03 13:21:33 +0300"
     },
     "done": true
   },
@@ -14030,6 +14456,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_cobblestone_wall_stonecutting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:38 +0300"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/acacia_boards": {
     "criteria": {
       "has_acacia_planks": "2024-04-11 22:37:25 +0300"
@@ -14158,7 +14590,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 12:17:49 +0300"
+      "log_spam_fixer": "2024-05-03 15:15:25 +0300"
     },
     "done": false
   },
@@ -14360,6 +14792,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/lunar_lever": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:38 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.base/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-04-15 01:15:50 +0300"
@@ -14393,6 +14831,12 @@
   "qualitysdelight:recipes/qualitysdelight_respite_items/nether_wart_sourdough_iron": {
     "criteria": {
       "hasWart": "2024-04-17 12:23:18 +0300"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/tiled_polished_darkstone_bricks_from_polished_darkstone_stonecutting": {
+    "criteria": {
+      "has_polished_darkstone": "2024-05-03 14:41:01 +0300"
     },
     "done": true
   },
@@ -14471,6 +14915,12 @@
   "chalk:recipes/tools/chalk_from_lime_dye": {
     "criteria": {
       "has_calcite": "2024-04-16 01:17:40 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/aquite_chestplate": {
+    "criteria": {
+      "has_item": "2024-05-03 13:21:31 +0300"
     },
     "done": true
   },
@@ -14612,6 +15062,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_slab": {
+    "criteria": {
+      "has_item": "2024-05-03 13:50:17 +0300"
+    },
+    "done": true
+  },
   "interiors:recipes/interiors/crafting/chair/pink_chair": {
     "criteria": {
       "has_seat": "2024-04-20 01:31:16 +0300"
@@ -14726,6 +15182,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-04-11 22:36:30 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/get_wood": {
+    "criteria": {
+      "has_lunar_log": "2024-05-03 13:50:57 +0300"
     },
     "done": true
   },
@@ -14906,6 +15368,12 @@
   "create:recipes/create.palettes/oxidized_copper_shingle_slab": {
     "criteria": {
       "has_oxidized_copper_shingles": "2024-05-01 07:50:22 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:32 +0300"
     },
     "done": true
   },
@@ -15194,7 +15662,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 12:17:49 +0300"
+      "log_spam_fixer": "2024-05-03 15:15:25 +0300"
     },
     "done": false
   },
@@ -15420,6 +15888,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/pyrope_sword": {
+    "criteria": {
+      "has_resource": "2024-05-03 13:21:33 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2024-04-26 06:41:14 +0300"
@@ -15525,6 +15999,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/sheetmetal_colored_light_gray": {
     "criteria": {
       "has_sheetmetal": "2024-04-26 02:06:19 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_planks": {
+    "criteria": {
+      "has_item": "2024-05-03 13:50:57 +0300"
     },
     "done": true
   },
@@ -16062,6 +16542,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-05-03 15:09:13 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-04-18 04:03:05 +0300"
@@ -16195,9 +16681,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-05-03 13:49:30 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-04-18 04:03:05 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_pickaxe": {
+    "criteria": {
+      "has_resource": "2024-05-03 13:21:31 +0300"
     },
     "done": true
   },
@@ -16234,6 +16732,12 @@
   "create:recipes/create.palettes/small_scoria_brick_stairs": {
     "criteria": {
       "has_small_scoria_bricks": "2024-04-23 23:15:54 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_cobblestone_slab": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:38 +0300"
     },
     "done": true
   },
@@ -16472,6 +16976,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2024-05-03 15:09:13 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2024-04-15 00:56:25 +0300"
@@ -16595,6 +17105,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-05-01 09:57:06 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stone_from_smelting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:38 +0300"
     },
     "done": true
   },
@@ -16736,6 +17252,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:32 +0300"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/jungle_ladder": {
     "criteria": {
       "has_stick": "2024-04-11 22:37:27 +0300"
@@ -16799,6 +17321,12 @@
   "create:recipes/create.palettes/layered_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-04-23 23:25:58 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/gold_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-05-03 14:16:43 +0300"
     },
     "done": true
   },
@@ -17109,6 +17637,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/pyrope_pickaxe": {
+    "criteria": {
+      "has_resource": "2024-05-03 13:21:33 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-04-16 23:16:28 +0300"
@@ -17265,6 +17799,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/pyrope_block": {
+    "criteria": {
+      "has_item": "2024-05-03 13:21:33 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-04-17 13:19:41 +0300"
@@ -17319,6 +17859,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/cherry_pie_with_ventium": {
+    "criteria": {
+      "has_item": "2024-05-03 13:21:34 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-04-18 00:28:24 +0300"
@@ -17367,9 +17913,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/blinding_wall_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-05-03 13:51:09 +0300"
+    },
+    "done": true
+  },
   "create:copper_casing": {
     "criteria": {
       "0": "2024-04-23 20:08:13 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2024-05-03 13:49:30 +0300"
     },
     "done": true
   },
@@ -17454,6 +18012,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/alu_scaffolding_standard": {
     "criteria": {
       "has_alu_ingot": "2024-04-11 22:47:55 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_shovel": {
+    "criteria": {
+      "has_resource": "2024-05-03 13:15:38 +0300"
     },
     "done": true
   },
@@ -18056,6 +18620,12 @@
     },
     "done": true
   },
+  "blue_skies:keys": {
+    "criteria": {
+      "obtain_key": "2024-05-03 13:21:32 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2024-04-16 04:26:27 +0300"
@@ -18207,6 +18777,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2024-05-03 13:15:32 +0300"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-04-16 01:17:18 +0300"
@@ -18300,6 +18876,12 @@
   "create:recipes/create.base/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2024-04-16 06:03:01 +0300"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stonebrick_slab_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-05-03 13:50:40 +0300"
     },
     "done": true
   },
