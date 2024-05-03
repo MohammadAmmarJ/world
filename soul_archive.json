@@ -128,6 +128,20 @@
   {
     "dimension": {
       "f_135804_": "minecraft",
+      "f_135805_": "overworld"
+    },
+    "id": "62cca5eb-c697-491c-9bdb-204269f8710f",
+    "ownerID": "78db9eaa-b18b-3fd2-8f5c-bc5c4781328e",
+    "pos": {
+      "f_123285_": -4177,
+      "f_123286_": 72,
+      "f_123289_": 157
+    },
+    "type": 0
+  },
+  {
+    "dimension": {
+      "f_135804_": "minecraft",
       "f_135805_": "the_nether"
     },
     "id": "edad2a9c-1ae6-40cb-86ec-1590a67f235f",
