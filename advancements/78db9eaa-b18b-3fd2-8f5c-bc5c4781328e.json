@@ -452,7 +452,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 13:19:00 +0300"
+      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
     },
     "done": false
   },
@@ -2429,10 +2429,9 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2024-05-04 13:19:06 +0300",
-      "log_spam_fixer": "2024-05-04 13:19:00 +0300"
+      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
     },
-    "done": true
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/ender_slayer": {
     "criteria": {
@@ -3093,6 +3092,7 @@
       "minecraft:piglin": "2024-04-17 12:22:35 +0300",
       "minecraft:enderman": "2024-04-17 11:27:13 +0300",
       "minecraft:silverfish": "2024-04-23 23:13:35 +0300",
+      "minecraft:stray": "2024-05-04 15:48:45 +0300",
       "minecraft:vex": "2024-04-22 18:28:44 +0300",
       "minecraft:zombie": "2024-04-11 22:08:19 +0300",
       "quark:foxhound": "2024-04-18 01:09:59 +0300",
@@ -4848,7 +4848,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 13:19:00 +0300"
+      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
     },
     "done": false
   },
@@ -6879,7 +6879,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 13:19:00 +0300"
+      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
     },
     "done": false
   },
@@ -8483,7 +8483,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 13:19:00 +0300"
+      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
     },
     "done": false
   },
@@ -8675,7 +8675,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 13:19:00 +0300"
+      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
     },
     "done": false
   },
@@ -10594,7 +10594,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 13:19:00 +0300"
+      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
     },
     "done": false
   },
@@ -11658,7 +11658,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 13:19:00 +0300"
+      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
     },
     "done": false
   },
@@ -13376,7 +13376,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 13:19:00 +0300"
+      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
     },
     "done": false
   },
@@ -14012,7 +14012,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 13:19:00 +0300"
+      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
     },
     "done": false
   },
@@ -14709,7 +14709,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 13:19:00 +0300"
+      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
     },
     "done": false
   },
@@ -15787,7 +15787,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 13:19:00 +0300"
+      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
     },
     "done": false
   },
