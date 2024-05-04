@@ -452,7 +452,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
+      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
     },
     "done": false
   },
@@ -2373,6 +2373,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_flower": "2024-05-04 20:46:06 +0300"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks": {
     "criteria": {
       "has_smooth_stone": "2024-04-23 18:28:04 +0300"
@@ -2429,7 +2435,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
+      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
     },
     "done": false
   },
@@ -3308,6 +3314,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-05-03 12:17:12 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/transportation/crafting/kinetics/furnace_minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2024-05-04 19:56:06 +0300"
     },
     "done": true
   },
@@ -4848,7 +4860,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
+      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
     },
     "done": false
   },
@@ -6879,7 +6891,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
+      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
     },
     "done": false
   },
@@ -7911,6 +7923,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/find_scroll_throwing": {
+    "criteria": {
+      "find": "2024-05-04 21:22:00 +0300"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_chest": {
     "criteria": {
       "has_oak_plank": "2024-04-14 23:38:18 +0300"
@@ -8361,6 +8379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2024-05-04 21:31:05 +0300"
+    },
+    "done": true
+  },
   "chalk:recipes/tools/chalk_from_brown_dye": {
     "criteria": {
       "has_calcite": "2024-04-16 01:17:41 +0300"
@@ -8483,7 +8507,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
+      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
     },
     "done": false
   },
@@ -8675,7 +8699,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
+      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
     },
     "done": false
   },
@@ -10594,7 +10618,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
+      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
     },
     "done": false
   },
@@ -11658,7 +11682,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
+      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
     },
     "done": false
   },
@@ -12575,6 +12599,12 @@
     },
     "done": true
   },
+  "create:recipes/transportation/crafting/kinetics/minecart_from_contraption_cart": {
+    "criteria": {
+      "has_item": "2024-05-04 19:56:06 +0300"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_button": {
     "criteria": {
       "has_planks": "2024-04-20 23:36:50 +0300"
@@ -13376,7 +13406,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
+      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
     },
     "done": false
   },
@@ -13581,6 +13611,12 @@
   "interiors:recipes/interiors/crafting/floor_chair/orange_floor_chair_from_seat": {
     "criteria": {
       "has_seat": "2024-04-20 01:31:16 +0300"
+    },
+    "done": true
+  },
+  "unusualend:hyperspace_jump": {
+    "criteria": {
+      "hyperspace_jump": "2024-05-04 20:09:12 +0300"
     },
     "done": true
   },
@@ -14012,7 +14048,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
+      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
     },
     "done": false
   },
@@ -14709,7 +14745,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
+      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
     },
     "done": false
   },
@@ -15112,6 +15148,12 @@
   "design_decor:recipes/design_decor/tinted_framed_glass_from_glass_tinted_stonecutting": {
     "criteria": {
       "has_glass_tinted": "2024-04-24 14:30:23 +0300"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-05-04 21:40:02 +0300"
     },
     "done": true
   },
@@ -15787,7 +15829,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 15:55:47 +0300"
+      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
     },
     "done": false
   },
@@ -18878,6 +18920,12 @@
   "immersivepetroleum:recipes/building_blocks/exposed_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-04-11 21:29:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2024-05-04 21:46:55 +0300"
     },
     "done": true
   },
