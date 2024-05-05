@@ -452,7 +452,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
+      "log_spam_fixer": "2024-05-05 15:37:55 +0300"
     },
     "done": false
   },
@@ -2435,7 +2435,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
+      "log_spam_fixer": "2024-05-05 15:37:55 +0300"
     },
     "done": false
   },
@@ -2649,6 +2649,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-04-11 22:37:25 +0300"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2024-05-05 15:14:06 +0300"
     },
     "done": true
   },
@@ -4860,7 +4866,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
+      "log_spam_fixer": "2024-05-05 15:37:55 +0300"
     },
     "done": false
   },
@@ -6018,6 +6024,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:main/super_magnet_ring": {
+    "criteria": {
+      "spellstone": "2024-05-05 15:23:05 +0300"
+    },
+    "done": true
+  },
   "create:recipes/food/campfire_cooking/bread": {
     "criteria": {
       "has_item": "2024-04-23 23:14:11 +0300"
@@ -6891,7 +6903,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
+      "log_spam_fixer": "2024-05-05 15:37:55 +0300"
     },
     "done": false
   },
@@ -8507,7 +8519,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
+      "log_spam_fixer": "2024-05-05 15:37:55 +0300"
     },
     "done": false
   },
@@ -8699,7 +8711,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
+      "log_spam_fixer": "2024-05-05 15:37:55 +0300"
     },
     "done": false
   },
@@ -10618,7 +10630,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
+      "log_spam_fixer": "2024-05-05 15:37:55 +0300"
     },
     "done": false
   },
@@ -11682,7 +11694,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
+      "log_spam_fixer": "2024-05-05 15:37:55 +0300"
     },
     "done": false
   },
@@ -13406,7 +13418,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
+      "log_spam_fixer": "2024-05-05 15:37:55 +0300"
     },
     "done": false
   },
@@ -14048,7 +14060,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
+      "log_spam_fixer": "2024-05-05 15:37:55 +0300"
     },
     "done": false
   },
@@ -14745,7 +14757,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
+      "log_spam_fixer": "2024-05-05 15:37:55 +0300"
     },
     "done": false
   },
@@ -15829,7 +15841,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-05-04 21:48:54 +0300"
+      "log_spam_fixer": "2024-05-05 15:37:55 +0300"
     },
     "done": false
   },
@@ -17747,6 +17759,12 @@
   "design_decor:recipes/design_decor/ochrum_castel_brick_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2024-04-21 15:59:01 +0300"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_the_recipe": "2024-05-05 15:00:24 +0300"
     },
     "done": true
   },
