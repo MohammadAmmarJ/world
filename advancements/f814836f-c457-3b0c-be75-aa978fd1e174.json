@@ -547,7 +547,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 16:23:42 +0000"
+      "log_spam_fixer": "2024-05-07 16:27:04 +0000"
     },
     "done": false
   },
@@ -2586,10 +2586,9 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2024-05-03 16:24:02 +0000",
-      "log_spam_fixer": "2024-05-03 16:23:42 +0000"
+      "log_spam_fixer": "2024-05-07 16:27:04 +0000"
     },
-    "done": true
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/ender_slayer": {
     "criteria": {
@@ -5293,7 +5292,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 16:23:42 +0000"
+      "log_spam_fixer": "2024-05-07 16:27:04 +0000"
     },
     "done": false
   },
@@ -7521,7 +7520,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 16:23:42 +0000"
+      "log_spam_fixer": "2024-05-07 16:27:04 +0000"
     },
     "done": false
   },
@@ -9219,7 +9218,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 16:23:42 +0000"
+      "log_spam_fixer": "2024-05-07 16:27:04 +0000"
     },
     "done": false
   },
@@ -9453,7 +9452,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 16:23:42 +0000"
+      "log_spam_fixer": "2024-05-07 16:27:04 +0000"
     },
     "done": false
   },
@@ -11487,7 +11486,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 16:23:42 +0000"
+      "log_spam_fixer": "2024-05-07 16:27:04 +0000"
     },
     "done": false
   },
@@ -12633,7 +12632,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 16:23:42 +0000"
+      "log_spam_fixer": "2024-05-07 16:27:04 +0000"
     },
     "done": false
   },
@@ -14430,7 +14429,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 16:23:42 +0000"
+      "log_spam_fixer": "2024-05-07 16:27:04 +0000"
     },
     "done": false
   },
@@ -15114,7 +15113,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 16:23:42 +0000"
+      "log_spam_fixer": "2024-05-07 16:27:04 +0000"
     },
     "done": false
   },
@@ -15829,7 +15828,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 16:23:42 +0000"
+      "log_spam_fixer": "2024-05-07 16:27:04 +0000"
     },
     "done": false
   },
@@ -16893,9 +16892,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2024-05-07 16:21:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-04-17 23:25:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2024-05-07 16:21:59 +0000"
     },
     "done": true
   },
@@ -17021,7 +17032,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-05-03 16:23:42 +0000"
+      "log_spam_fixer": "2024-05-07 16:27:04 +0000"
     },
     "done": false
   },
@@ -17994,6 +18005,12 @@
   "design_decor:recipes/design_decor/granite_castel_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-04-06 03:04:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_void_upgrade": {
+    "criteria": {
+      "has_void_upgrade": "2024-05-07 16:22:14 +0000"
     },
     "done": true
   },
